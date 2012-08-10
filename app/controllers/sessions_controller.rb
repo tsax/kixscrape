@@ -11,8 +11,5 @@ class SessionsController < ApplicationController
 	end
 
 	def index
-		10.times do |_|
-			puts "haha"
-		end
 	end
 end
