@@ -1,4 +1,6 @@
 Kixscrape::Application.routes.draw do
+  get "recommendations/show"
+
   match 'auth/:provider/callback', to: 'sessions#create'
   match 'auth/failure', to: redirect('/')
   match 'signout', to: 'sessions#destroy', as: 'signout'
@@ -52,7 +54,7 @@ Kixscrape::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  root :to => 'sessions#index'
+  root :to => 'recommendations#show'
 
   # See how all your routes lay out with "rake routes"
 
