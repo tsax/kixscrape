@@ -13,7 +13,6 @@ group :development, :test do
 	gem 'pry-nav'
 	gem 'rspec-rails'
 	gem 'capybara'
-	gem 'webmock'
 	gem 'vcr'
 end
 # Gems used only for assets and not required
@@ -38,4 +37,5 @@ gem 'omniauth-facebook', '1.4.0'
 group :test do
   # Pretty printed test output
   gem 'turn', :require => false
+  gem 'webmock'
 end

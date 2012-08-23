@@ -1,15 +1,17 @@
 require 'spec_helper'
 describe Recommender, :vcr => true do
 	describe '#recommend_project' do
-		it 'returns the 7th food project' do
+		it 'returns a random food project' do
 			recommender = Recommender.new
+			srand 5
 			result = recommender.recommend_project
-			result.name.should eq('Voodoo Sauce: The Greatest BBQ Sauce Known To Man')
+			# binding.pry
+			result.name.should eq('Dang Coconut Chips')
 		end
 	end
 
 	# subject { Recommender.new }
-	it { should respond_to(:recommend_project) }
+	# it { should respond_to(:recommend_project) }
 end
 
 #describe == context
