@@ -19,7 +19,7 @@ http_interactions:
       Server:
       - nginx/1.0.11
       Date:
-      - Thu, 23 Aug 2012 22:34:24 GMT
+      - Thu, 23 Aug 2012 22:48:28 GMT
       Content-Type:
       - text/html
       Content-Length:
@@ -33,7 +33,7 @@ http_interactions:
       string: ! "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body
         bgcolor=\"white\">\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx/1.0.11</center>\r\n</body>\r\n</html>\r\n"
     http_version: 
-  recorded_at: Thu, 23 Aug 2012 22:34:26 GMT
+  recorded_at: Thu, 23 Aug 2012 22:48:31 GMT
 - request:
     method: get
     uri: http://www.kickstarter.com/discover/categories/Food/popular?page=1
@@ -53,7 +53,7 @@ http_interactions:
       Server:
       - nginx/1.0.11
       Date:
-      - Thu, 23 Aug 2012 22:34:24 GMT
+      - Thu, 23 Aug 2012 22:48:29 GMT
       Content-Type:
       - text/html; charset=utf-8
       Connection:
@@ -63,19 +63,19 @@ http_interactions:
       Content-Length:
       - '47439'
       Etag:
-      - ! '"e6d135e5b6f387002980b5047e44f8cf"'
+      - ! '"e2e59753150a5bd3c2b53cabb025f0dd"'
       Cache-Control:
       - max-age=0, private, must-revalidate
       Set-Cookie:
-      - _ksr_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTMyMGVjMWU1NDYwNGJiZGMwNzhhMDgxOTc5M2M1YjZiBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMWJHa29PQTg1NU8yYTB3ajV1QjVXNS83ekZ0NUNxTFlNaHlob2VDNlcvak09BjsARg%3D%3D--ca1b945c6a4cafb87856245f5904127a0a622616;
+      - _ksr_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTRlM2VhZTUxMDU4MzM3YjVlZGVmNTRjM2U5Nzc4NmE0BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMTA3T2VWaFVISVlrUUhlSUpzNkNnSWlieGhjREJ6a1JtSEVJN3RvTHo2MG89BjsARg%3D%3D--94daa5e72e68daa3e10e0a6b375f48d105a4a64d;
         path=/
       - last_page=http%3A%2F%2Fwww.kickstarter.com%2Fdiscover%2Fcategories%2FFood%2Fpopular%3Fpage%3D1;
-        path=/; expires=Thu, 23-Aug-2012 23:04:24 GMT
-      - request_time=Thu%2C+23+Aug+2012+22%3A34%3A24+-0000; path=/
+        path=/; expires=Thu, 23-Aug-2012 23:18:28 GMT
+      - request_time=Thu%2C+23+Aug+2012+22%3A48%3A29+-0000; path=/
       X-Request-Id:
-      - fbaf524997d827b0aba46c05b8812bc9
+      - 880078c4a977fa12078f365918ba1e47
       X-Runtime:
-      - '0.650362'
+      - '0.462733'
     body:
       encoding: ASCII-8BIT
       string: !binary |-
@@ -140,8 +140,8 @@ http_interactions:
         IHJlbD0iYXBwbGUtdG91Y2gtaWNvbi1wcmVjb21wb3NlZCIgc2l6ZXM9IjEx
         NHgxMTQiIHR5cGU9ImltYWdlL3BuZyI+CgoKPG1ldGEgY29udGVudD0iYXV0
         aGVudGljaXR5X3Rva2VuIiBuYW1lPSJjc3JmLXBhcmFtIiAvPgo8bWV0YSBj
-        b250ZW50PSJiR2tvT0E4NTVPMmEwd2o1dUI1VzUvN3pGdDVDcUxZTWh5aG9l
-        QzZXL2pNPSIgbmFtZT0iY3NyZi10b2tlbiIgLz4KCjxzY3JpcHQ+CiAgLy88
+        b250ZW50PSIwN09lVmhVSElZa1FIZUlKczZDZ0lpYnhoY0RCemtSbUhFSTd0
+        b0x6NjBvPSIgbmFtZT0iY3NyZi10b2tlbiIgLz4KCjxzY3JpcHQ+CiAgLy88
         IVtDREFUQVsKICAgIHZhciBfc2Zfc3RhcnRwdD0obmV3IERhdGUoKSkuZ2V0
         VGltZSgpOwogICAgZG9jRWxlbWVudCA9IHRoaXMuZG9jdW1lbnQuZG9jdW1l
         bnRFbGVtZW50OwogICAgZG9jRWxlbWVudC5jbGFzc05hbWU9ZG9jRWxlbWVu
@@ -315,7 +315,7 @@ http_interactions:
         dGg6IDEwMCUiPjwvZGl2Pgo8L2Rpdj4KPHVsIGNsYXNzPSJwcm9qZWN0LXN0
         YXRzIj4KPGxpIGNsYXNzPSJmaXJzdCBmdW5kZWQiPgo8c3Ryb25nPjEzOSU8
         L3N0cm9uZz4KZnVuZGVkCjwvbGk+CjxsaSBjbGFzcz0icGxlZGdlZCI+Cjxz
-        dHJvbmc+JDEyOCw1MjE8L3N0cm9uZz4KcGxlZGdlZAo8L2xpPgo8bGkgY2xh
+        dHJvbmc+JDEyOCw5NTE8L3N0cm9uZz4KcGxlZGdlZAo8L2xpPgo8bGkgY2xh
         c3M9Imxhc3Qgc3VjY2Vzc2Z1bCIgc3R5bGU9ImRpc3BsYXk6IG5vbmU7Ij4K
         PHN0cm9uZz5GdW5kZWQ8L3N0cm9uZz4KPGRpdiBjbGFzcz0iZGVhZGxpbmUi
         Pgo8L2Rpdj4KPC9saT4KPGxpIGNsYXNzPSJsYXN0IGtzcl9wYWdlX3RpbWVy
@@ -484,10 +484,10 @@ http_interactions:
         ZWQtc3VjY2Vzc2Z1bCIgc3R5bGU9ImRpc3BsYXk6IG5vbmU7Ij4KPHN0cm9u
         Zz5TdWNjZXNzZnVsITwvc3Ryb25nPgo8L2Rpdj4KPGRpdiBjbGFzcz0icHJv
         amVjdC1wbGVkZ2VkLXdyYXAiPgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRn
-        ZWQiIHN0eWxlPSJ3aWR0aDogMTguNDYlIj48L2Rpdj4KPC9kaXY+Cjx1bCBj
+        ZWQiIHN0eWxlPSJ3aWR0aDogMjAuNDYlIj48L2Rpdj4KPC9kaXY+Cjx1bCBj
         bGFzcz0icHJvamVjdC1zdGF0cyI+CjxsaSBjbGFzcz0iZmlyc3QgZnVuZGVk
-        Ij4KPHN0cm9uZz4xOCU8L3N0cm9uZz4KZnVuZGVkCjwvbGk+CjxsaSBjbGFz
-        cz0icGxlZGdlZCI+CjxzdHJvbmc+JDEsODQ1PC9zdHJvbmc+CnBsZWRnZWQK
+        Ij4KPHN0cm9uZz4yMCU8L3N0cm9uZz4KZnVuZGVkCjwvbGk+CjxsaSBjbGFz
+        cz0icGxlZGdlZCI+CjxzdHJvbmc+JDIsMDQ1PC9zdHJvbmc+CnBsZWRnZWQK
         PC9saT4KPGxpIGNsYXNzPSJsYXN0IHN1Y2Nlc3NmdWwiIHN0eWxlPSJkaXNw
         bGF5OiBub25lOyI+CjxzdHJvbmc+RnVuZGVkPC9zdHJvbmc+CjxkaXYgY2xh
         c3M9ImRlYWRsaW5lIj4KPC9kaXY+CjwvbGk+CjxsaSBjbGFzcz0ibGFzdCBr
@@ -841,8 +841,8 @@ http_interactions:
         O3BhZGRpbmc6MDtkaXNwbGF5OmlubGluZSI+PGlucHV0IGNsYXNzPSJoaWRk
         ZW4iIG5hbWU9InV0ZjgiIHR5cGU9ImhpZGRlbiIgdmFsdWU9IiYjeDI3MTM7
         IiAvPjxpbnB1dCBjbGFzcz0iaGlkZGVuIiBuYW1lPSJhdXRoZW50aWNpdHlf
-        dG9rZW4iIHR5cGU9ImhpZGRlbiIgdmFsdWU9ImJHa29PQTg1NU8yYTB3ajV1
-        QjVXNS83ekZ0NUNxTFlNaHlob2VDNlcvak09IiAvPjwvZGl2Pgo8ZGl2IGNs
+        dG9rZW4iIHR5cGU9ImhpZGRlbiIgdmFsdWU9IjA3T2VWaFVISVlrUUhlSUpz
+        NkNnSWlieGhjREJ6a1JtSEVJN3RvTHo2MG89IiAvPjwvZGl2Pgo8ZGl2IGNs
         YXNzPSJmaWVsZCBzZWFyY2giPgo8c3BhbiBjbGFzcz0iaWNvbi1zZWFyY2gi
         Pjwvc3Bhbj4KPHNwYW4gY2xhc3M9Imljb24tc2VhcmNoLWNsZWFyIj48L3Nw
         YW4+CjxsYWJlbCBjbGFzcz0ib3ZlcmxhYmVsIG92ZXJsYWJlbC1zZWFyY2gi
@@ -886,8 +886,8 @@ http_interactions:
         YXJnaW46MDtwYWRkaW5nOjA7ZGlzcGxheTppbmxpbmUiPjxpbnB1dCBjbGFz
         cz0iaGlkZGVuIiBuYW1lPSJ1dGY4IiB0eXBlPSJoaWRkZW4iIHZhbHVlPSIm
         I3gyNzEzOyIgLz48aW5wdXQgY2xhc3M9ImhpZGRlbiIgbmFtZT0iYXV0aGVu
-        dGljaXR5X3Rva2VuIiB0eXBlPSJoaWRkZW4iIHZhbHVlPSJiR2tvT0E4NTVP
-        MmEwd2o1dUI1VzUvN3pGdDVDcUxZTWh5aG9lQzZXL2pNPSIgLz48L2Rpdj4K
+        dGljaXR5X3Rva2VuIiB0eXBlPSJoaWRkZW4iIHZhbHVlPSIwN09lVmhVSElZ
+        a1FIZUlKczZDZ0lpYnhoY0RCemtSbUhFSTd0b0x6NjBvPSIgLz48L2Rpdj4K
         PGg1PktpY2tzdGFydGVyJ3Mgd2Vla2x5IG5ld3NsZXR0ZXI8L2g1Pgo8cD5H
         ZXQgYXdlc29tZSBwcm9qZWN0cyBkZWxpdmVyZWQgdG8geW91ciBpbmJveCBl
         YWNoIHdlZWsuPC9wPgo8dGV4dGFyZWEgY2xhc3M9ImhpZGUgdGV4dGFyZWEi
@@ -1131,9 +1131,9 @@ http_interactions:
         YSgpOwp9OwpOUkVVTVEuYT13aW5kb3cub25sb2FkO3dpbmRvdy5vbmxvYWQ9
         TlJFVU1RLmY7Cn07Ck5SRVVNUS5wdXNoKFsibnJmaiIsImJlYWNvbi0xLm5l
         d3JlbGljLmNvbSIsImIwNGI4ODNhZDIiLDExMDg2LCJjRnRlUlVVTFgxd0hG
-        aHRiQTBkUlYxNUZEVlpEVFJSYlNCZGZWVUk9IiwwLjAsMzQ5LG5ldyBEYXRl
+        aHRiQTBkUlYxNUZEVlpEVFJSYlNCZGZWVUk9IiwwLjAsNDM5LG5ldyBEYXRl
         KCkuZ2V0VGltZSgpLCIiLCIiLCIiLCIiLCIiXSk8L3NjcmlwdD48L2JvZHk+
         CjwvaHRtbD4K
     http_version: 
-  recorded_at: Thu, 23 Aug 2012 22:34:27 GMT
+  recorded_at: Thu, 23 Aug 2012 22:48:31 GMT
 recorded_with: VCR 2.2.4
