@@ -7,6 +7,7 @@ gem 'rails', '3.2.8'
 
 gem 'sqlite3'
 gem 'kickstarter'
+gem 'koala'
 
 group :development, :test do
   gem 'pry-rails'

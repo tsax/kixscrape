@@ -1,8 +1,10 @@
 class SessionsController < ApplicationController
 	def create
+		# binding.pry
 		user = User.from_omniauth(env["omniauth.auth"])
 		session[:user_id] = user.uid
 		redirect_to root_url
+		# recommendation#show
 	end
 
 	def destroy
