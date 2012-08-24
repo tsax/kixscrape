@@ -3,3 +3,5 @@ db/*.sqlite3
 log/*.log
 tmp/
 .sass-cache/
+config/credentials.yml
+user_info_hash.txt
