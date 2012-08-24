@@ -78,1062 +78,1084 @@ http_interactions:
       - '0.260531'
     body:
       encoding: ASCII-8BIT
-      string: !binary |-
-        PCFET0NUWVBFIGh0bWw+CjxodG1sIGNsYXNzPSJjYXRlZ29yaWVzX3BvcHVs
-        YXIgbm8tanMgZm9udGZhY2UgIiBsYW5nPSJlbiIgeG1sOmxhbmc9ImVuIiB4
-        bWxuczpmYj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vMjAwOC9mYm1sIiB4
-        bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94aHRtbCI+CjxoZWFkPjxz
-        Y3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij52YXIgTlJFVU1RPU5SRVVN
-        UXx8W107TlJFVU1RLnB1c2goWyJtYXJrIiwiZmlyc3RieXRlIixuZXcgRGF0
-        ZSgpLmdldFRpbWUoKV0pOzwvc2NyaXB0Pjx0aXRsZT5EaXNjb3ZlciBQcm9q
-        ZWN0cyAmcmFxdW87IEZvb2QgLyBQb3B1bGFyICZtZGFzaDsgS2lja3N0YXJ0
-        ZXI8L3RpdGxlPjwhLS1baWYgbHQgSUUgOV0+CiAgPHNjcmlwdCBzcmM9Imh0
-        dHA6Ly9odG1sNXNoaW0uZ29vZ2xlY29kZS5jb20vc3ZuL3RydW5rL2h0bWw1
-        LmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0Pgo8IVtlbmRp
-        Zl0tLT4KCgo8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRm
-        LTgiIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+CjxtZXRhIGNvbnRlbnQ9
-        InRlbGVwaG9uZT1ubyIgbmFtZT0iZm9ybWF0LWRldGVjdGlvbiI+CjxsaW5r
-        IGhyZWY9Ii9mb250cy9mb250cy5jc3MiIG1lZGlhPSJzY3JlZW4iIHJlbD0i
-        c3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiPgo8bGluayBocmVmPSJodHRw
-        Oi8vZDI5N2g5aGUyNDBmcWguY2xvdWRmcm9udC5uZXQvY2FjaGUtMWNmNTQ5
-        OGE3L2Fzc2V0cy9jb21wYXNzLmNzcyIgbWVkaWE9InNjcmVlbiIgcmVsPSJz
-        dHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgLz4KPCEtLVtpZiBsdGUgSUUg
-        OF0+CiAgPGxpbmsgaHJlZj0iaHR0cDovL2QyOTdoOWhlMjQwZnFoLmNsb3Vk
-        ZnJvbnQubmV0L2NhY2hlLTFjZjU0OThhNy9zdHlsZXNoZWV0cy9jb21wYXNz
-        L2xpYnJhcnkvaWU4LmNzcyIgbWVkaWE9InNjcmVlbiIgcmVsPSJzdHlsZXNo
-        ZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgLz4KPCFbZW5kaWZdLS0+CjwhLS1baWYg
-        bHRlIElFIDddPgogIDxsaW5rIGhyZWY9Imh0dHA6Ly9kMjk3aDloZTI0MGZx
-        aC5jbG91ZGZyb250Lm5ldC9jYWNoZS0xY2Y1NDk4YTcvc3R5bGVzaGVldHMv
-        Y29tcGFzcy9saWJyYXJ5L2llLmNzcyIgbWVkaWE9InNjcmVlbiIgcmVsPSJz
-        dHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgLz4KICA8bGluayBocmVmPSJo
-        dHRwOi8vZDI5N2g5aGUyNDBmcWguY2xvdWRmcm9udC5uZXQvY2FjaGUtMWNm
-        NTQ5OGE3L2Fzc2V0cy9pZV9zZXZlbi5jc3MiIG1lZGlhPSJzY3JlZW4iIHJl
-        bD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIC8+CjwhW2VuZGlmXS0t
-        Pgo8IS0tW2lmIElFIDZdPgogIDxsaW5rIGhyZWY9Imh0dHA6Ly9kMjk3aDlo
-        ZTI0MGZxaC5jbG91ZGZyb250Lm5ldC9jYWNoZS0xY2Y1NDk4YTcvYXNzZXRz
-        L2llX3NpeC5jc3MiIG1lZGlhPSJzY3JlZW4iIHJlbD0ic3R5bGVzaGVldCIg
-        dHlwZT0idGV4dC9jc3MiIC8+CjwhW2VuZGlmXS0tPgoKCjxsaW5rIGhyZWY9
-        Imh0dHA6Ly9kMjk3aDloZTI0MGZxaC5jbG91ZGZyb250Lm5ldC9jYWNoZS0x
-        Y2Y1NDk4YTcvYXNzZXRzL3ZpZXdzX29uZS5jc3MiIG1lZGlhPSJzY3JlZW4i
-        IHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIC8+CjxsaW5rIGhy
-        ZWY9Imh0dHA6Ly9kMjk3aDloZTI0MGZxaC5jbG91ZGZyb250Lm5ldC9jYWNo
-        ZS0xY2Y1NDk4YTcvYXNzZXRzL3ZpZXdzX3R3by5jc3MiIG1lZGlhPSJzY3Jl
-        ZW4iIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIC8+CjxsaW5r
-        IGhyZWY9Imh0dHA6Ly9kMjk3aDloZTI0MGZxaC5jbG91ZGZyb250Lm5ldC9j
-        YWNoZS0xY2Y1NDk4YTcvYXNzZXRzL3ZpZXdzX3RocmVlLmNzcyIgbWVkaWE9
-        InNjcmVlbiIgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgLz4K
-        PGxpbmsgaHJlZj0iaHR0cDovL2QyOTdoOWhlMjQwZnFoLmNsb3VkZnJvbnQu
-        bmV0L2NhY2hlLTFjZjU0OThhNy9hc3NldHMvdmlld3NfZm91ci5jc3MiIG1l
-        ZGlhPSJzY3JlZW4iIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3Mi
-        IC8+CjxsaW5rIGhyZWY9Imh0dHA6Ly9kMjk3aDloZTI0MGZxaC5jbG91ZGZy
-        b250Lm5ldC9jYWNoZS0xY2Y1NDk4YTcvZmF2aWNvbi5wbmciIHJlbD0iaWNv
-        biIgdHlwZT0iaW1hZ2UvcG5nIj4KPGxpbmsgaHJlZj0iaHR0cDovL2QyOTdo
-        OWhlMjQwZnFoLmNsb3VkZnJvbnQubmV0L2NhY2hlLTFjZjU0OThhNy9hcHBs
-        ZS10b3VjaC1pY29uLXByZWNvbXBvc2VkLnBuZyIgcmVsPSJhcHBsZS10b3Vj
-        aC1pY29uLXByZWNvbXBvc2VkIiB0eXBlPSJpbWFnZS9wbmciPgo8bGluayBo
-        cmVmPSJodHRwOi8vZDI5N2g5aGUyNDBmcWguY2xvdWRmcm9udC5uZXQvY2Fj
-        aGUtMWNmNTQ5OGE3L2FwcGxlLXRvdWNoLWljb24taXBhZC1wcmVjb21wb3Nl
-        ZC5wbmciIHJlbD0iYXBwbGUtdG91Y2gtaWNvbi1wcmVjb21wb3NlZCIgc2l6
-        ZXM9IjcyeDcyIiB0eXBlPSJpbWFnZS9wbmciPgo8bGluayBocmVmPSJodHRw
-        Oi8vZDI5N2g5aGUyNDBmcWguY2xvdWRmcm9udC5uZXQvY2FjaGUtMWNmNTQ5
-        OGE3L2FwcGxlLXRvdWNoLWljb24taXBob25lNC1wcmVjb21wb3NlZC5wbmci
-        IHJlbD0iYXBwbGUtdG91Y2gtaWNvbi1wcmVjb21wb3NlZCIgc2l6ZXM9IjEx
-        NHgxMTQiIHR5cGU9ImltYWdlL3BuZyI+CgoKPG1ldGEgY29udGVudD0iYXV0
-        aGVudGljaXR5X3Rva2VuIiBuYW1lPSJjc3JmLXBhcmFtIiAvPgo8bWV0YSBj
-        b250ZW50PSJQR1IvQ0RUODNKK3dETEUyK2FIWHZ5cmlLTVBCbGNyWWNUTE1a
-        dTlkYStrPSIgbmFtZT0iY3NyZi10b2tlbiIgLz4KCjxzY3JpcHQ+CiAgLy88
-        IVtDREFUQVsKICAgIHZhciBfc2Zfc3RhcnRwdD0obmV3IERhdGUoKSkuZ2V0
-        VGltZSgpOwogICAgZG9jRWxlbWVudCA9IHRoaXMuZG9jdW1lbnQuZG9jdW1l
-        bnRFbGVtZW50OwogICAgZG9jRWxlbWVudC5jbGFzc05hbWU9ZG9jRWxlbWVu
-        dC5jbGFzc05hbWUucmVwbGFjZSgvXGJuby1qc1xiLywnJykgKyAnanMnOwog
-        IC8vXV0+Cjwvc2NyaXB0Pgo8c2NyaXB0PgogIC8vPCFbQ0RBVEFbCiAgICBm
-        dW5jdGlvbiB0aW1lUmVtYWluaW5nKGVwb2NoVGltZSl7CiAgICAKICAgICAg
-        dmFyIGRpZmYgPSBlcG9jaFRpbWUgLSAoKG5ldyBEYXRlKCkpLmdldFRpbWUo
-        KSAvIDEwMDApOwogICAgICB2YXIgbnVtX3VuaXQgPSAoZGlmZiA8IDYwICYm
-        IFtNYXRoLm1heChkaWZmLCAwKSwgJ3NlY29uZHMnXSkgfHwKICAgICAgICAo
-        KGRpZmYvPTYwKSA8IDYwICYmIFtkaWZmLCAnbWludXRlcyddKSB8fAogICAg
-        ICAgICgoZGlmZi89NjApIDwgNzIgJiYgW2RpZmYsICdob3VycyddKSB8fAog
-        ICAgICAgIFtkaWZmLz0yNCwgJ2RheXMnXTsKICAgIAogICAgICAvLyBSb3Vu
-        ZCBkb3duCiAgICAgIG51bV91bml0WzBdID0gTWF0aC5mbG9vcihudW1fdW5p
-        dFswXSk7CiAgICAgIC8vIFNpbmd1bGFyaXplIHVuaXQKICAgICAgaWYgKG51
-        bV91bml0WzBdID09IDEpIHsgbnVtX3VuaXRbMV0gPSBudW1fdW5pdFsxXS5y
-        ZXBsYWNlKC9zJC8sIiIpOyB9CiAgICAKICAgICAgcmV0dXJuIG51bV91bml0
-        OwogICAgfTsKICAvL11dPgo8L3NjcmlwdD4KPC9oZWFkPgoKPGJvZHkgY2xh
-        c3M9ImRpc2NvdmVyIGNhdGVnb3JpZXMiIGlkPSJjYXRlZ29yaWVzX2xpc3Qi
-        Pgo8ZGl2IGNsYXNzPSJqR3Jvd2wgY2VudGVyIiBpZD0iZ3Jvd2xfc2VjdGlv
-        biI+PC9kaXY+CjxkaXYgaWQ9ImxlYXJuLW1vcmUtd3JhcCI+CjxkaXYgY2xh
-        c3M9ImNvbnRhaW5lciIgaWQ9ImxlYXJuLW1vcmUiPgo8cD4KPHNwYW4gY2xh
-        c3M9Imljb24td2hhYWF0Ij48L3NwYW4+CjxzdHJvbmc+V2hhdCBpcyBLaWNr
-        c3RhcnRlcj88L3N0cm9uZz4KV2XigJlyZSB0aGUgd29ybGQncyBsYXJnZXN0
-        IGZ1bmRpbmcgcGxhdGZvcm0gZm9yIGNyZWF0aXZlIHByb2plY3RzLgo8YSBo
-        cmVmPSIvbGVhcm4tbW9yZSIgY2xhc3M9InJlbW90ZV9tb2RhbF9kaWFsb2cg
-        bGVhcm4tbW9yZSBsaW5rX3RvX2xlYXJuLW1vcmUtZGlhbG9nIj5MZWFybiBt
-        b3JlITwvYT4KPC9wPgo8L2Rpdj4KPC9kaXY+CjxkaXYgaWQ9ImhlYWRlci13
-        cmFwIj4KPGRpdiBjbGFzcz0iY29udGFpbmVyIiBpZD0iaGVhZGVyIj4KPGgx
-        IGlkPSJsb2dvIj48YSBocmVmPSIvIj48c3Bhbj5LaWNrc3RhcnRlcjwvc3Bh
-        bj48L2E+PC9oMT4KPHVsIGlkPSJtZW51LW1haW4iPgo8bGkgY2xhc3M9InNl
-        bGVjdGVkIiBpZD0ibWVudS1tYWluLWRpc2NvdmVyIj48YSBocmVmPSIvZGlz
-        Y292ZXIiPjxzdHJvbmc+RGlzY292ZXI8L3N0cm9uZz4gPHNwYW4+Z3JlYXQg
-        cHJvamVjdHM8L3NwYW4+PC9hPjwvbGk+CjxsaSBpZD0ibWVudS1tYWluLWZ1
-        bmQiPjxhIGhyZWY9Ii9zdGFydCI+PHN0cm9uZz5TdGFydDwvc3Ryb25nPiA8
-        c3Bhbj55b3VyIHByb2plY3Q8L3NwYW4+PC9hPjwvbGk+CjwvdWw+Cjxmb3Jt
-        IGFjY2VwdC1jaGFyc2V0PSJVVEYtOCIgYWN0aW9uPSIvcHJvamVjdHMvc2Vh
-        cmNoIiBjbGFzcz0ic2VhcmNoIG92ZXJsYWJlbHMiIG1ldGhvZD0iZ2V0Ij48
-        ZGl2IHN0eWxlPSJtYXJnaW46MDtwYWRkaW5nOjA7ZGlzcGxheTppbmxpbmUi
-        PjxpbnB1dCBjbGFzcz0iaGlkZGVuIiBuYW1lPSJ1dGY4IiB0eXBlPSJoaWRk
-        ZW4iIHZhbHVlPSImI3gyNzEzOyIgLz48L2Rpdj4KPGRpdiBjbGFzcz0iZmll
-        bGQgc2VhcmNoIj4KPHNwYW4gY2xhc3M9Imljb24tc2VhcmNoIj48L3NwYW4+
-        CjxzcGFuIGNsYXNzPSJpY29uLXNlYXJjaC1jbGVhciI+PC9zcGFuPgo8bGFi
-        ZWwgY2xhc3M9Im92ZXJsYWJlbCBvdmVybGFiZWwtc2VhcmNoIj5TZWFyY2gg
-        cHJvamVjdHM8L2xhYmVsPgo8aW5wdXQgY2xhc3M9ImlucHV0LXNlYXJjaCBo
-        ZWFkZXIgdGV4dCIgZGF0YS10cmFja2VyLW5hbWU9IkhlYWRlciBMaXZlIFNl
-        YXJjaCIgaWQ9InRlcm0iIG5hbWU9InRlcm0iIHR5cGU9InRleHQiIC8+Cjxz
-        cGFuIGNsYXNzPSJpY29uLXNlYXJjaC1uaXBwbGUiPjwvc3Bhbj4KPC9kaXY+
-        CjwvZm9ybT4KCjx1bCBpZD0ibWVudS1zdWIiPgo8bGkgaWQ9Im1lbnUtc3Vi
-        LWJsb2ciPjxhIGhyZWY9Ii9ibG9nIj5CbG9nPC9hPjwvbGk+CjxsaSBpZD0i
-        bWVudS1zdWItaGVscCI+PGEgaHJlZj0iL2hlbHAiPkhlbHA8L2E+PC9saT4K
-        PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LmtpY2tzdGFydGVyLmNvbS9zaWdu
-        dXAiPlNpZ24gdXA8L2E+PC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3
-        LmtpY2tzdGFydGVyLmNvbS9sb2dpbiI+TG9nIGluPC9hPjwvbGk+CjwvdWw+
-        CjwvZGl2Pgo8L2Rpdj4KPGRpdiBpZD0ic2VhcmNoX3Jlc3VsdHMtd3JhcCI+
-        CjxkaXYgaWQ9InNlYXJjaF9yZXN1bHRzLXNoYWRvdyI+CjxkaXYgaWQ9InNl
-        YXJjaF9yZXN1bHRzLWlubmVyX3dyYXAiPgo8ZGl2IGNsYXNzPSJjb250YWlu
-        ZXIiIGlkPSJzZWFyY2hfcmVzdWx0cyI+CjxhIGNsYXNzPSJjbG9zZSI+PHNw
-        YW4gY2xhc3M9Imljb24teCI+PC9zcGFuPjwvYT4KPGgyIGNsYXNzPSJoZWFk
-        ZXIiPjwvaDI+CjxkaXYgaWQ9InNlYXJjaF9yZXN1bHRzX3BhbmVsIj48L2Rp
-        dj4KPHAgY2xhc3M9ImZvb3RlciI+PC9wPgo8YSBjbGFzcz0icHJldiBhcnJv
-        dyI+CjxzcGFuIGNsYXNzPSJpY29uLXNlYXJjaC1sZWZ0Ij48L3NwYW4+Cjxz
-        dHJvbmc+UHJldmlvdXM8L3N0cm9uZz4KPC9hPgo8YSBjbGFzcz0ibmV4dCBh
-        cnJvdyI+CjxzcGFuIGNsYXNzPSJpY29uLXNlYXJjaC1yaWdodCI+PC9zcGFu
-        Pgo8c3Ryb25nPk5leHQ8L3N0cm9uZz4KPC9hPgo8L2Rpdj4KPC9kaXY+Cjwv
-        ZGl2Pgo8L2Rpdj4KCgoKPGRpdiBpZD0icnVubmluZy1ib2FyZC13cmFwIj4K
-        PGRpdiBjbGFzcz0iY29udGFpbmVyIiBpZD0icnVubmluZy1ib2FyZCI+Cjxk
-        aXYgaWQ9ImRpc2NvdmVyLWhlYWRlciI+CjxoMT4KPGEgaHJlZj0iL2Rpc2Nv
-        dmVyIj5EaXNjb3ZlcjwvYT4KPHNwYW4gY2xhc3M9ImRpdmlkZXIiPi88L3Nw
-        YW4+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRlZ29yaWVzL2Zvb2QiPkZvb2Q8
-        L2E+CjxzcGFuIGNsYXNzPSJkaXZpZGVyIj4vPC9zcGFuPgpQb3B1bGFyCjwv
-        aDE+Cgo8L2Rpdj4KPC9kaXY+CjwhLS0gI3J1bm5pbmctYm9hcmQgLS0+Cjwv
-        ZGl2Pgo8IS0tICNydW5uaW5nLWJvYXJkLXdyYXAgLS0+CjxkaXYgaWQ9ImNv
-        bnRlbnQtd3JhcCI+CjxkaXYgY2xhc3M9ImNvbnRhaW5lciIgaWQ9ImNvbnRl
-        bnQiPgo8ZGl2IGlkPSJtYWluIj4KPGRpdiBjbGFzcz0ibW9iaXVzX3BhZ2Ui
-        Pgo8ZGl2IGNsYXNzPSJtaXNzaW5nIiBzdHlsZT0iZGlzcGxheTogbm9uZSI+
-        CjxkaXYgY2xhc3M9ImxvYWRfbW9yZSI+CjxhIGhyZWY9IiMiIGNsYXNzPSJs
-        b2FkX21vcmUgYnV0dG9uIj5Mb2FkIE1vcmU8L2E+CjwvZGl2Pgo8L2Rpdj4K
-        PHVsIGNsYXNzPSJtb2JpdXMiPgo8bGkgY2xhc3M9InBhZ2UiIGRhdGEtbGFz
-        dF9wYWdlPSJmYWxzZSIgZGF0YS1wYWdlX251bWJlcj0iMSI+Cjx1bCBjbGFz
-        cz0icHJvamVjdC1jYXJkLWxpc3QiPgo8bGkgY2xhc3M9InByb2plY3QiPjxk
-        aXYgY2xhc3M9InByb2plY3QtY2FyZC13cmFwIj4KPGRpdiBjbGFzcz0icHJv
-        amVjdC1jYXJkIj4KPGRpdiBjbGFzcz0icHJvamVjdC10aHVtYm5haWwiPgo8
-        YSBocmVmPSIvcHJvamVjdHMvMTc0MTM1NDYxNS9ob25leS1iYWRnZXItYmJx
-        LXNhdWNlLTA/cmVmPWNhdGVnb3J5IiB0YXJnZXQ9IiI+PGltZyBhbHQ9IlBo
-        b3RvLWxpdHRsZSIgY2xhc3M9InByb2plY3RwaG90by1saXR0bGUiIGhlaWdo
-        dD0iMTUwIiBzcmM9Imh0dHA6Ly9zMy5hbWF6b25hd3MuY29tL2tzci9wcm9q
-        ZWN0cy8yNjIxNDUvcGhvdG8tbGl0dGxlLmpwZz8xMzQzMTgwMDY3IiB3aWR0
-        aD0iMjAwIiAvPjwvYT4KPC9kaXY+CjxoMj4KPHN0cm9uZz4KPGEgaHJlZj0i
-        L3Byb2plY3RzLzE3NDEzNTQ2MTUvaG9uZXktYmFkZ2VyLWJicS1zYXVjZS0w
-        P3JlZj1jYXRlZ29yeSIgdGFyZ2V0PSIiPkhvbmV5IEJhZGdlciBCQlEgU2F1
-        Y2U8L2E+Cjwvc3Ryb25nPgo8c3Bhbj4KYnkKUGF1bCwgQ2hyaXMgYW5kIExl
-        aWdoCjwvc3Bhbj4KPC9oMj4KPHA+SGFiYW5lcm8gaG90IHdpdGggYSB0b3Vj
-        aCBvZiBob25leSwgbGlnaHQgdXAgeW91ciBncmlsbHMga2lkcyE8L3A+Cjx1
-        bCBjbGFzcz0icHJvamVjdC1tZXRhIj4KPGxpPgo8YSBocmVmPSIvZGlzY292
-        ZXIvY2l0aWVzL3Nhbi1mcmFuY2lzY28tY2E/cmVmPWNhcmQiIHRhcmdldD0i
-        Ij48c3BhbiBjbGFzcz0naWNvbi1sb2NhdGlvbic+PC9zcGFuPjxzcGFuIGNs
-        YXNzPSdsb2NhdGlvbi1uYW1lJz5TYW4gRnJhbmNpc2NvLCBDQTwvc3Bhbj48
-        L2E+CjwvbGk+CjwvdWw+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZC1z
-        dWNjZXNzZnVsIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgo8c3Ryb25nPlN1
-        Y2Nlc3NmdWwhPC9zdHJvbmc+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJwcm9qZWN0
-        LXBsZWRnZWQtd3JhcCI+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZCIg
-        c3R5bGU9IndpZHRoOiA5NC4xNyUiPjwvZGl2Pgo8L2Rpdj4KPHVsIGNsYXNz
-        PSJwcm9qZWN0LXN0YXRzIj4KPGxpIGNsYXNzPSJmaXJzdCBmdW5kZWQiPgo8
-        c3Ryb25nPjk0JTwvc3Ryb25nPgpmdW5kZWQKPC9saT4KPGxpIGNsYXNzPSJw
-        bGVkZ2VkIj4KPHN0cm9uZz4kMzcsNjY5PC9zdHJvbmc+CnBsZWRnZWQKPC9s
-        aT4KPGxpIGNsYXNzPSJsYXN0IHN1Y2Nlc3NmdWwiIHN0eWxlPSJkaXNwbGF5
-        OiBub25lOyI+CjxzdHJvbmc+RnVuZGVkPC9zdHJvbmc+CjxkaXYgY2xhc3M9
-        ImRlYWRsaW5lIj4KPC9kaXY+CjwvbGk+CjxsaSBjbGFzcz0ibGFzdCBrc3Jf
-        cGFnZV90aW1lciIgZGF0YS1lbmRfdGltZT0iMjAxMi0wOC0zMVQwNzoxNToz
-        MVoiPgo8c3Ryb25nPgo8ZGl2IGNsYXNzPSJudW0iPiZuYnNwOzwvZGl2Pgo8
-        L3N0cm9uZz4KPGRpdiBjbGFzcz0ic3BhbiB0ZXh0IiBkYXRhLXdvcmQ9Imxl
-        ZnQiPiZuYnNwOzwvZGl2Pgo8L2xpPgo8L3VsPgoKPC9kaXY+CjwvZGl2Pgo8
-        L2xpPgo8bGkgY2xhc3M9InByb2plY3QiPjxkaXYgY2xhc3M9InByb2plY3Qt
-        Y2FyZC13cmFwIj4KPGRpdiBjbGFzcz0icHJvamVjdC1jYXJkIj4KPGRpdiBj
-        bGFzcz0icHJvamVjdC10aHVtYm5haWwiPgo8YSBocmVmPSIvcHJvamVjdHMv
-        OTM2NzE0Nzc5L3Nhbi1kaWVnby1wdWJsaWMtbWFya2V0LWl0cy10aW1lP3Jl
-        Zj1jYXRlZ29yeSIgdGFyZ2V0PSIiPjxpbWcgYWx0PSJQaG90by1saXR0bGUi
-        IGNsYXNzPSJwcm9qZWN0cGhvdG8tbGl0dGxlIiBoZWlnaHQ9IjE1MCIgc3Jj
-        PSJodHRwOi8vczMuYW1hem9uYXdzLmNvbS9rc3IvcHJvamVjdHMvMjYxNTY1
-        L3Bob3RvLWxpdHRsZS5qcGc/MTM0Mzc2NDgxNCIgd2lkdGg9IjIwMCIgLz48
-        L2E+CjwvZGl2Pgo8aDI+CjxzdHJvbmc+CjxhIGhyZWY9Ii9wcm9qZWN0cy85
-        MzY3MTQ3Nzkvc2FuLWRpZWdvLXB1YmxpYy1tYXJrZXQtaXRzLXRpbWU/cmVm
-        PWNhdGVnb3J5IiB0YXJnZXQ9IiI+U2FuIERpZWdvIFB1YmxpYyBNYXJrZXQ6
-        IEl0JiN4Mjc7cyBUaW1lITwvYT4KPC9zdHJvbmc+CjxzcGFuPgpieQpDYXR0
-        IFdoaXRlICZhbXA7IERhbGUgU3RlZWxlCjwvc3Bhbj4KPC9oMj4KPHA+V2Un
-        cmUgY3JlYXRpbmcgdGhlIHdvcmxkJ3MgYmVzdCBuZXcgcHVibGljIG1hcmtl
-        dCByaWdodCBoZXJlIGluIFNhbiBEaWVnbyBhbmQgZmlsbGluZyBpdCB3aXRo
-        IGZhcm1lcnMsIGNoZWZzLCBhcnQgYW5kIGZvb2QuPC9wPgo8dWwgY2xhc3M9
-        InByb2plY3QtbWV0YSI+CjxsaT4KPGEgaHJlZj0iL2Rpc2NvdmVyL2NpdGll
-        cy9zYW4tZGllZ28tY2E/cmVmPWNhcmQiIHRhcmdldD0iIj48c3BhbiBjbGFz
-        cz0naWNvbi1sb2NhdGlvbic+PC9zcGFuPjxzcGFuIGNsYXNzPSdsb2NhdGlv
-        bi1uYW1lJz5TYW4gRGllZ28sIENBPC9zcGFuPjwvYT4KPC9saT4KPC91bD4K
-        PGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkLXN1Y2Nlc3NmdWwiIHN0eWxl
-        PSJkaXNwbGF5OiBub25lOyI+CjxzdHJvbmc+U3VjY2Vzc2Z1bCE8L3N0cm9u
-        Zz4KPC9kaXY+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZC13cmFwIj4K
-        PGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkIiBzdHlsZT0id2lkdGg6IDEw
-        MCUiPjwvZGl2Pgo8L2Rpdj4KPHVsIGNsYXNzPSJwcm9qZWN0LXN0YXRzIj4K
-        PGxpIGNsYXNzPSJmaXJzdCBmdW5kZWQiPgo8c3Ryb25nPjE0MCU8L3N0cm9u
-        Zz4KZnVuZGVkCjwvbGk+CjxsaSBjbGFzcz0icGxlZGdlZCI+CjxzdHJvbmc+
-        JDEyOSw3MTI8L3N0cm9uZz4KcGxlZGdlZAo8L2xpPgo8bGkgY2xhc3M9Imxh
-        c3Qgc3VjY2Vzc2Z1bCIgc3R5bGU9ImRpc3BsYXk6IG5vbmU7Ij4KPHN0cm9u
-        Zz5GdW5kZWQ8L3N0cm9uZz4KPGRpdiBjbGFzcz0iZGVhZGxpbmUiPgo8L2Rp
-        dj4KPC9saT4KPGxpIGNsYXNzPSJsYXN0IGtzcl9wYWdlX3RpbWVyIiBkYXRh
-        LWVuZF90aW1lPSIyMDEyLTA4LTI0VDE3OjQxOjQ5WiI+CjxzdHJvbmc+Cjxk
-        aXYgY2xhc3M9Im51bSI+Jm5ic3A7PC9kaXY+Cjwvc3Ryb25nPgo8ZGl2IGNs
-        YXNzPSJzcGFuIHRleHQiIGRhdGEtd29yZD0ibGVmdCI+Jm5ic3A7PC9kaXY+
-        CjwvbGk+CjwvdWw+Cgo8L2Rpdj4KPC9kaXY+CjwvbGk+CjxsaSBjbGFzcz0i
-        cHJvamVjdCI+PGRpdiBjbGFzcz0icHJvamVjdC1jYXJkLXdyYXAiPgo8ZGl2
-        IGNsYXNzPSJwcm9qZWN0LWNhcmQiPgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXRo
-        dW1ibmFpbCI+CjxhIGhyZWY9Ii9wcm9qZWN0cy9icmF2YWRvc3BpY2UvYnJh
-        dmFkby1zcGljZS1hcnRpc2FuLWhvdC1zYXVjZXM/cmVmPWNhdGVnb3J5IiB0
-        YXJnZXQ9IiI+PGltZyBhbHQ9IlBob3RvLWxpdHRsZSIgY2xhc3M9InByb2pl
-        Y3RwaG90by1saXR0bGUiIGhlaWdodD0iMTUwIiBzcmM9Imh0dHA6Ly9zMy5h
-        bWF6b25hd3MuY29tL2tzci9wcm9qZWN0cy8yNDk0MjMvcGhvdG8tbGl0dGxl
-        LmpwZz8xMzQyNDAxMzc0IiB3aWR0aD0iMjAwIiAvPjwvYT4KPC9kaXY+Cjxo
-        Mj4KPHN0cm9uZz4KPGEgaHJlZj0iL3Byb2plY3RzL2JyYXZhZG9zcGljZS9i
-        cmF2YWRvLXNwaWNlLWFydGlzYW4taG90LXNhdWNlcz9yZWY9Y2F0ZWdvcnki
-        IHRhcmdldD0iIj5CcmF2YWRvIFNwaWNlOiBBcnRpc2FuIGhvdCBzYXVjZXMh
-        PC9hPgo8L3N0cm9uZz4KPHNwYW4+CmJ5CkJyYXZhZG8gU3BpY2UKPC9zcGFu
-        Pgo8L2gyPgo8cD5XZSBoYW5kY3JhZnQgcHJvZHVjdHMgdGhhdCBhcmUgYWxs
-        IG5hdHVyYWwsIHByZXNlcnZhdGl2ZSBmcmVlLCB2ZWdhbiBmcmllbmRseSBh
-        bmQgZm9jdXNlZCBvbiBkZWxpdmVyaW5nIGludGVuc2UgZmxhdm9ycy48L3A+
-        Cjx1bCBjbGFzcz0icHJvamVjdC1tZXRhIj4KPGxpPgo8YSBocmVmPSIvZGlz
-        Y292ZXIvY2l0aWVzL2hvdXN0b24tdHg/cmVmPWNhcmQiIHRhcmdldD0iIj48
-        c3BhbiBjbGFzcz0naWNvbi1sb2NhdGlvbic+PC9zcGFuPjxzcGFuIGNsYXNz
-        PSdsb2NhdGlvbi1uYW1lJz5Ib3VzdG9uLCBUWDwvc3Bhbj48L2E+CjwvbGk+
-        CjwvdWw+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZC1zdWNjZXNzZnVs
-        IiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgo8c3Ryb25nPlN1Y2Nlc3NmdWwh
-        PC9zdHJvbmc+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRnZWQt
-        d3JhcCI+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZCIgc3R5bGU9Indp
-        ZHRoOiAxMDAlIj48L2Rpdj4KPC9kaXY+Cjx1bCBjbGFzcz0icHJvamVjdC1z
-        dGF0cyI+CjxsaSBjbGFzcz0iZmlyc3QgZnVuZGVkIj4KPHN0cm9uZz4yNDAl
-        PC9zdHJvbmc+CmZ1bmRlZAo8L2xpPgo8bGkgY2xhc3M9InBsZWRnZWQiPgo8
-        c3Ryb25nPiQxNiw4MTg8L3N0cm9uZz4KcGxlZGdlZAo8L2xpPgo8bGkgY2xh
-        c3M9Imxhc3Qgc3VjY2Vzc2Z1bCIgc3R5bGU9ImRpc3BsYXk6IG5vbmU7Ij4K
-        PHN0cm9uZz5GdW5kZWQ8L3N0cm9uZz4KPGRpdiBjbGFzcz0iZGVhZGxpbmUi
-        Pgo8L2Rpdj4KPC9saT4KPGxpIGNsYXNzPSJsYXN0IGtzcl9wYWdlX3RpbWVy
-        IiBkYXRhLWVuZF90aW1lPSIyMDEyLTA4LTI2VDE5OjIwOjE0WiI+CjxzdHJv
-        bmc+CjxkaXYgY2xhc3M9Im51bSI+Jm5ic3A7PC9kaXY+Cjwvc3Ryb25nPgo8
-        ZGl2IGNsYXNzPSJzcGFuIHRleHQiIGRhdGEtd29yZD0ibGVmdCI+Jm5ic3A7
-        PC9kaXY+CjwvbGk+CjwvdWw+Cgo8L2Rpdj4KPC9kaXY+CjwvbGk+CjxsaSBj
-        bGFzcz0icHJvamVjdCI+PGRpdiBjbGFzcz0icHJvamVjdC1jYXJkLXdyYXAi
-        Pgo8ZGl2IGNsYXNzPSJwcm9qZWN0LWNhcmQiPgo8ZGl2IGNsYXNzPSJwcm9q
-        ZWN0LXRodW1ibmFpbCI+CjxhIGhyZWY9Ii9wcm9qZWN0cy8xMTI2NDE1Mjc4
-        L2hlbHAtbGF1bmNoLXJheS1yYXlzLXJ1Yj9yZWY9Y2F0ZWdvcnkiIHRhcmdl
-        dD0iIj48aW1nIGFsdD0iUGhvdG8tbGl0dGxlIiBjbGFzcz0icHJvamVjdHBo
-        b3RvLWxpdHRsZSIgaGVpZ2h0PSIxNTAiIHNyYz0iaHR0cDovL3MzLmFtYXpv
-        bmF3cy5jb20va3NyL3Byb2plY3RzLzI1NDIzMS9waG90by1saXR0bGUuanBn
-        PzEzNDQ4ODg3NjAiIHdpZHRoPSIyMDAiIC8+PC9hPgo8L2Rpdj4KPGgyPgo8
-        c3Ryb25nPgo8YSBocmVmPSIvcHJvamVjdHMvMTEyNjQxNTI3OC9oZWxwLWxh
-        dW5jaC1yYXktcmF5cy1ydWI/cmVmPWNhdGVnb3J5IiB0YXJnZXQ9IiI+SGVs
-        cCBsYXVuY2ggUmF5IFJheSYjeDI3O3MgUnViITwvYT4KPC9zdHJvbmc+Cjxz
-        cGFuPgpieQpSYXkgV2FsdGVycwo8L3NwYW4+CjwvaDI+CjxwPlJheSBSYXkn
-        cyBSdWIgaXMgdGhlIGJlc3Qgd2F5IHRvIG1ha2UgeW91ciBtZWF0IHRoZSBt
-        b3N0IG1vdXRoLXdhdGVyaW5nIG1lYWwgeW91J3ZlIGV2ZXIgZWF0ZW4sIGhl
-        bHAgdXMgYm90dGxlIGl0IGZvciB0aGUgbWFzc2VzITwvcD4KPHVsIGNsYXNz
-        PSJwcm9qZWN0LW1ldGEiPgo8bGk+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jaXRp
-        ZXMvd2FycmVuc2J1cmctbW8/cmVmPWNhcmQiIHRhcmdldD0iIj48c3BhbiBj
-        bGFzcz0naWNvbi1sb2NhdGlvbic+PC9zcGFuPjxzcGFuIGNsYXNzPSdsb2Nh
-        dGlvbi1uYW1lJz5XYXJyZW5zYnVyZywgTU88L3NwYW4+PC9hPgo8L2xpPgo8
-        L3VsPgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRnZWQtc3VjY2Vzc2Z1bCIg
-        c3R5bGU9ImRpc3BsYXk6IG5vbmU7Ij4KPHN0cm9uZz5TdWNjZXNzZnVsITwv
-        c3Ryb25nPgo8L2Rpdj4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkLXdy
-        YXAiPgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRnZWQiIHN0eWxlPSJ3aWR0
-        aDogMzUuNTglIj48L2Rpdj4KPC9kaXY+Cjx1bCBjbGFzcz0icHJvamVjdC1z
-        dGF0cyI+CjxsaSBjbGFzcz0iZmlyc3QgZnVuZGVkIj4KPHN0cm9uZz4zNSU8
-        L3N0cm9uZz4KZnVuZGVkCjwvbGk+CjxsaSBjbGFzcz0icGxlZGdlZCI+Cjxz
-        dHJvbmc+JDMsNTU4PC9zdHJvbmc+CnBsZWRnZWQKPC9saT4KPGxpIGNsYXNz
-        PSJsYXN0IHN1Y2Nlc3NmdWwiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+Cjxz
-        dHJvbmc+RnVuZGVkPC9zdHJvbmc+CjxkaXYgY2xhc3M9ImRlYWRsaW5lIj4K
-        PC9kaXY+CjwvbGk+CjxsaSBjbGFzcz0ibGFzdCBrc3JfcGFnZV90aW1lciIg
-        ZGF0YS1lbmRfdGltZT0iMjAxMi0wOS0yMFQyMzoxNzo1NloiPgo8c3Ryb25n
-        Pgo8ZGl2IGNsYXNzPSJudW0iPiZuYnNwOzwvZGl2Pgo8L3N0cm9uZz4KPGRp
-        diBjbGFzcz0ic3BhbiB0ZXh0IiBkYXRhLXdvcmQ9ImxlZnQiPiZuYnNwOzwv
-        ZGl2Pgo8L2xpPgo8L3VsPgoKPC9kaXY+CjwvZGl2Pgo8L2xpPgo8bGkgY2xh
-        c3M9InByb2plY3QiPjxkaXYgY2xhc3M9InByb2plY3QtY2FyZC13cmFwIj4K
-        PGRpdiBjbGFzcz0icHJvamVjdC1jYXJkIj4KPGRpdiBjbGFzcz0icHJvamVj
-        dC10aHVtYm5haWwiPgo8YSBocmVmPSIvcHJvamVjdHMvMTYyMDcxMzY2Ni90
-        aGUtbHlubi1vbi1icnlhbnQtYS1uZWlnaGJvcmhvb2QtY2FmZS1hbmQtYmlz
-        dHJvP3JlZj1jYXRlZ29yeSIgdGFyZ2V0PSIiPjxpbWcgYWx0PSJQaG90by1s
-        aXR0bGUiIGNsYXNzPSJwcm9qZWN0cGhvdG8tbGl0dGxlIiBoZWlnaHQ9IjE1
-        MCIgc3JjPSJodHRwOi8vczMuYW1hem9uYXdzLmNvbS9rc3IvcHJvamVjdHMv
-        Mjc2OTg5L3Bob3RvLWxpdHRsZS5qcGc/MTM0NTA1NzY2OCIgd2lkdGg9IjIw
-        MCIgLz48L2E+CjwvZGl2Pgo8aDI+CjxzdHJvbmc+CjxhIGhyZWY9Ii9wcm9q
-        ZWN0cy8xNjIwNzEzNjY2L3RoZS1seW5uLW9uLWJyeWFudC1hLW5laWdoYm9y
-        aG9vZC1jYWZlLWFuZC1iaXN0cm8/cmVmPWNhdGVnb3J5IiB0YXJnZXQ9IiI+
-        VGhlIEx5bm4gb24gQnJ5YW50IC0gYSBuZWlnaGJvcmhvb2QgY2FmZSBhbmQg
-        YmlzdHJvPC9hPgo8L3N0cm9uZz4KPHNwYW4+CmJ5CkpheSBQZXRlcnNvbiBh
-        bmQgUGV0ZXIgSXJlbGFuZAo8L3NwYW4+CjwvaDI+CjxwPkEgY2hlZiBhbmQg
-        YSBib29raG91bmQgLSAgYnJpbmdpbmcgZmFtaWxpZXMsIGZyaWVuZHMgYW5k
-        IG5laWdoYm9ycyB0b2dldGhlciBmb3IgYSBkZWxpY2lvdXMgbWVhbC48L3A+
-        Cjx1bCBjbGFzcz0icHJvamVjdC1tZXRhIj4KPGxpPgo8YSBocmVmPSIvZGlz
-        Y292ZXIvY2l0aWVzL21pbm5lYXBvbGlzLW1uP3JlZj1jYXJkIiB0YXJnZXQ9
-        IiI+PHNwYW4gY2xhc3M9J2ljb24tbG9jYXRpb24nPjwvc3Bhbj48c3BhbiBj
-        bGFzcz0nbG9jYXRpb24tbmFtZSc+TWlubmVhcG9saXMsIE1OPC9zcGFuPjwv
-        YT4KPC9saT4KPC91bD4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkLXN1
-        Y2Nlc3NmdWwiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CjxzdHJvbmc+U3Vj
-        Y2Vzc2Z1bCE8L3N0cm9uZz4KPC9kaXY+CjxkaXYgY2xhc3M9InByb2plY3Qt
-        cGxlZGdlZC13cmFwIj4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkIiBz
-        dHlsZT0id2lkdGg6IDYwLjE2JSI+PC9kaXY+CjwvZGl2Pgo8dWwgY2xhc3M9
-        InByb2plY3Qtc3RhdHMiPgo8bGkgY2xhc3M9ImZpcnN0IGZ1bmRlZCI+Cjxz
-        dHJvbmc+NjAlPC9zdHJvbmc+CmZ1bmRlZAo8L2xpPgo8bGkgY2xhc3M9InBs
-        ZWRnZWQiPgo8c3Ryb25nPiQxNSwwNDA8L3N0cm9uZz4KcGxlZGdlZAo8L2xp
-        Pgo8bGkgY2xhc3M9Imxhc3Qgc3VjY2Vzc2Z1bCIgc3R5bGU9ImRpc3BsYXk6
-        IG5vbmU7Ij4KPHN0cm9uZz5GdW5kZWQ8L3N0cm9uZz4KPGRpdiBjbGFzcz0i
-        ZGVhZGxpbmUiPgo8L2Rpdj4KPC9saT4KPGxpIGNsYXNzPSJsYXN0IGtzcl9w
-        YWdlX3RpbWVyIiBkYXRhLWVuZF90aW1lPSIyMDEyLTA5LTA5VDIyOjQ0OjM0
-        WiI+CjxzdHJvbmc+CjxkaXYgY2xhc3M9Im51bSI+Jm5ic3A7PC9kaXY+Cjwv
-        c3Ryb25nPgo8ZGl2IGNsYXNzPSJzcGFuIHRleHQiIGRhdGEtd29yZD0ibGVm
-        dCI+Jm5ic3A7PC9kaXY+CjwvbGk+CjwvdWw+Cgo8L2Rpdj4KPC9kaXY+Cjwv
-        bGk+CjxsaSBjbGFzcz0icHJvamVjdCI+PGRpdiBjbGFzcz0icHJvamVjdC1j
-        YXJkLXdyYXAiPgo8ZGl2IGNsYXNzPSJwcm9qZWN0LWNhcmQiPgo8ZGl2IGNs
-        YXNzPSJwcm9qZWN0LXRodW1ibmFpbCI+CjxhIGhyZWY9Ii9wcm9qZWN0cy81
-        NjQ4ODQ2NDAvcHJvaGliaXRpb24tYmFrZXJ5LWNha2UtYWxjb2hvbC1wbGVh
-        c2UtZWF0LXJlc3BvbnM/cmVmPWNhdGVnb3J5IiB0YXJnZXQ9IiI+PGltZyBh
-        bHQ9IlBob3RvLWxpdHRsZSIgY2xhc3M9InByb2plY3RwaG90by1saXR0bGUi
-        IGhlaWdodD0iMTUwIiBzcmM9Imh0dHA6Ly9zMy5hbWF6b25hd3MuY29tL2tz
-        ci9wcm9qZWN0cy8yODMyNzAvcGhvdG8tbGl0dGxlLmpwZz8xMzQ1NTY0ODgz
-        IiB3aWR0aD0iMjAwIiAvPjwvYT4KPC9kaXY+CjxoMj4KPHN0cm9uZz4KPGEg
-        aHJlZj0iL3Byb2plY3RzLzU2NDg4NDY0MC9wcm9oaWJpdGlvbi1iYWtlcnkt
-        Y2FrZS1hbGNvaG9sLXBsZWFzZS1lYXQtcmVzcG9ucz9yZWY9Y2F0ZWdvcnki
-        IHRhcmdldD0iIj5Qcm9oaWJpdGlvbiBCYWtlcnksIGNha2UrYWxjb2hvbC4g
-        UGxlYXNlIGVhdCByZXNwb25zaWJseS48L2E+Cjwvc3Ryb25nPgo8c3Bhbj4K
-        YnkKUHJvaGliaXRpb24gQmFrZXJ5Cjwvc3Bhbj4KPC9oMj4KPHA+Q3VwY2Fr
-        ZXMgYW5kIGFsY29ob2wuICBXaGF0IGNvdWxkIGJlIGJldHRlcj8gSGVscCB1
-        cyBvcGVuIG91ciBkb29ycy4uLmFuZCBrZWVwIHRoZW0gb3BlbiE8L3A+Cjx1
-        bCBjbGFzcz0icHJvamVjdC1tZXRhIj4KPGxpPgo8YSBocmVmPSIvZGlzY292
-        ZXIvY2l0aWVzL25ldy15b3JrLW55P3JlZj1jYXJkIiB0YXJnZXQ9IiI+PHNw
-        YW4gY2xhc3M9J2ljb24tbG9jYXRpb24nPjwvc3Bhbj48c3BhbiBjbGFzcz0n
-        bG9jYXRpb24tbmFtZSc+TmV3IFlvcmssIE5ZPC9zcGFuPjwvYT4KPC9saT4K
-        PC91bD4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkLXN1Y2Nlc3NmdWwi
-        IHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CjxzdHJvbmc+U3VjY2Vzc2Z1bCE8
-        L3N0cm9uZz4KPC9kaXY+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZC13
-        cmFwIj4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkIiBzdHlsZT0id2lk
-        dGg6IDQyLjY5JSI+PC9kaXY+CjwvZGl2Pgo8dWwgY2xhc3M9InByb2plY3Qt
-        c3RhdHMiPgo8bGkgY2xhc3M9ImZpcnN0IGZ1bmRlZCI+CjxzdHJvbmc+NDIl
-        PC9zdHJvbmc+CmZ1bmRlZAo8L2xpPgo8bGkgY2xhc3M9InBsZWRnZWQiPgo8
-        c3Ryb25nPiQzLDc1Nzwvc3Ryb25nPgpwbGVkZ2VkCjwvbGk+CjxsaSBjbGFz
-        cz0ibGFzdCBzdWNjZXNzZnVsIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgo8
-        c3Ryb25nPkZ1bmRlZDwvc3Ryb25nPgo8ZGl2IGNsYXNzPSJkZWFkbGluZSI+
-        CjwvZGl2Pgo8L2xpPgo8bGkgY2xhc3M9Imxhc3Qga3NyX3BhZ2VfdGltZXIi
-        IGRhdGEtZW5kX3RpbWU9IjIwMTItMDktMTVUMTI6MTk6NThaIj4KPHN0cm9u
-        Zz4KPGRpdiBjbGFzcz0ibnVtIj4mbmJzcDs8L2Rpdj4KPC9zdHJvbmc+Cjxk
-        aXYgY2xhc3M9InNwYW4gdGV4dCIgZGF0YS13b3JkPSJsZWZ0Ij4mbmJzcDs8
-        L2Rpdj4KPC9saT4KPC91bD4KCjwvZGl2Pgo8L2Rpdj4KPC9saT4KPGxpIGNs
-        YXNzPSJwcm9qZWN0Ij48ZGl2IGNsYXNzPSJwcm9qZWN0LWNhcmQtd3JhcCI+
-        CjxkaXYgY2xhc3M9InByb2plY3QtY2FyZCI+CjxkaXYgY2xhc3M9InByb2pl
-        Y3QtdGh1bWJuYWlsIj4KPGEgaHJlZj0iL3Byb2plY3RzLzEzMTM4ODExNzcv
-        Ymx1ZS1vd2wtdmluZXMtb3JnYW5pYy1ob3Qtc2F1Y2U/cmVmPWNhdGVnb3J5
-        IiB0YXJnZXQ9IiI+PGltZyBhbHQ9IlBob3RvLWxpdHRsZSIgY2xhc3M9InBy
-        b2plY3RwaG90by1saXR0bGUiIGhlaWdodD0iMTUwIiBzcmM9Imh0dHA6Ly9z
-        My5hbWF6b25hd3MuY29tL2tzci9wcm9qZWN0cy8yNTYwNTEvcGhvdG8tbGl0
-        dGxlLmpwZz8xMzQyMjA0Njc2IiB3aWR0aD0iMjAwIiAvPjwvYT4KPC9kaXY+
-        CjxoMj4KPHN0cm9uZz4KPGEgaHJlZj0iL3Byb2plY3RzLzEzMTM4ODExNzcv
-        Ymx1ZS1vd2wtdmluZXMtb3JnYW5pYy1ob3Qtc2F1Y2U/cmVmPWNhdGVnb3J5
-        IiB0YXJnZXQ9IiI+Qmx1ZSBPd2wgVmluZXMgLSBPcmdhbmljIEhvdCBTYXVj
-        ZTwvYT4KPC9zdHJvbmc+CjxzcGFuPgpieQpTdGV2ZSBLeWxlcwo8L3NwYW4+
-        CjwvaDI+CjxwPjEwMCUgT3JnYW5pYyBIb3QgU2F1Y2UgdGhhdCB3aWxsIGFk
-        ZCBib3RoIGFtYXppbmcgZmxhdm9yIGFuZCBwb3dlcmZ1bCBraWNrIHRvIGp1
-        c3QgYWJvdXQgYW55IGRpc2ggaW1hZ2luYWJsZS48L3A+Cjx1bCBjbGFzcz0i
-        cHJvamVjdC1tZXRhIj4KPGxpPgo8YSBocmVmPSIvZGlzY292ZXIvY2l0aWVz
-        L3NhbnRhLXJvc2EtY2E/cmVmPWNhcmQiIHRhcmdldD0iIj48c3BhbiBjbGFz
-        cz0naWNvbi1sb2NhdGlvbic+PC9zcGFuPjxzcGFuIGNsYXNzPSdsb2NhdGlv
-        bi1uYW1lJz5TYW50YSBSb3NhLCBDQTwvc3Bhbj48L2E+CjwvbGk+CjwvdWw+
-        CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZC1zdWNjZXNzZnVsIiBzdHls
-        ZT0iZGlzcGxheTogbm9uZTsiPgo8c3Ryb25nPlN1Y2Nlc3NmdWwhPC9zdHJv
-        bmc+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRnZWQtd3JhcCI+
-        CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZCIgc3R5bGU9IndpZHRoOiAx
-        MDAlIj48L2Rpdj4KPC9kaXY+Cjx1bCBjbGFzcz0icHJvamVjdC1zdGF0cyI+
-        CjxsaSBjbGFzcz0iZmlyc3QgZnVuZGVkIj4KPHN0cm9uZz4xLDc1MCU8L3N0
-        cm9uZz4KZnVuZGVkCjwvbGk+CjxsaSBjbGFzcz0icGxlZGdlZCI+CjxzdHJv
-        bmc+JDgsNzUzPC9zdHJvbmc+CnBsZWRnZWQKPC9saT4KPGxpIGNsYXNzPSJs
-        YXN0IHN1Y2Nlc3NmdWwiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CjxzdHJv
-        bmc+RnVuZGVkPC9zdHJvbmc+CjxkaXYgY2xhc3M9ImRlYWRsaW5lIj4KPC9k
-        aXY+CjwvbGk+CjxsaSBjbGFzcz0ibGFzdCBrc3JfcGFnZV90aW1lciIgZGF0
-        YS1lbmRfdGltZT0iMjAxMi0wOS0xNVQwMDozMzo0NVoiPgo8c3Ryb25nPgo8
-        ZGl2IGNsYXNzPSJudW0iPiZuYnNwOzwvZGl2Pgo8L3N0cm9uZz4KPGRpdiBj
-        bGFzcz0ic3BhbiB0ZXh0IiBkYXRhLXdvcmQ9ImxlZnQiPiZuYnNwOzwvZGl2
-        Pgo8L2xpPgo8L3VsPgoKPC9kaXY+CjwvZGl2Pgo8L2xpPgo8bGkgY2xhc3M9
-        InByb2plY3QiPjxkaXYgY2xhc3M9InByb2plY3QtY2FyZC13cmFwIj4KPGRp
-        diBjbGFzcz0icHJvamVjdC1jYXJkIj4KPGRpdiBjbGFzcz0icHJvamVjdC10
-        aHVtYm5haWwiPgo8YSBocmVmPSIvcHJvamVjdHMvMTE5OTAyODQ2NC9iYWx0
-        aW1vcmUtZm9vZC1jby1vcC1zdG9yZS1leHBhbnNpb24/cmVmPWNhdGVnb3J5
-        IiB0YXJnZXQ9IiI+PGltZyBhbHQ9IlBob3RvLWxpdHRsZSIgY2xhc3M9InBy
-        b2plY3RwaG90by1saXR0bGUiIGhlaWdodD0iMTUwIiBzcmM9Imh0dHA6Ly9z
-        My5hbWF6b25hd3MuY29tL2tzci9wcm9qZWN0cy8yMjYwNTgvcGhvdG8tbGl0
-        dGxlLmpwZz8xMzQwODk3OTE5IiB3aWR0aD0iMjAwIiAvPjwvYT4KPC9kaXY+
-        CjxoMj4KPHN0cm9uZz4KPGEgaHJlZj0iL3Byb2plY3RzLzExOTkwMjg0NjQv
-        YmFsdGltb3JlLWZvb2QtY28tb3Atc3RvcmUtZXhwYW5zaW9uP3JlZj1jYXRl
-        Z29yeSIgdGFyZ2V0PSIiPkJhbHRpbW9yZSBGb29kIENvLW9wIFN0b3JlIEV4
-        cGFuc2lvbjwvYT4KPC9zdHJvbmc+CjxzcGFuPgpieQpNYXJ5IENveAo8L3Nw
-        YW4+CjwvaDI+CjxwPlRoZSBCYWx0aW1vcmUgRm9vZCBDby1vcCBpcyBncm93
-        aW5nIC0gd2UncmUgcmFpc2luZyBmdW5kcyB0byBpbnN0YWxsIGEgd2FsbCBv
-        J2ZyZWV6ZXJzIHRvIHN0b2NrIGxvY2FsIGljZSBjcmVhbSwgbWVhdHMgYW5k
-        IG1vcmUhPC9wPgo8dWwgY2xhc3M9InByb2plY3QtbWV0YSI+CjxsaT4KPGEg
-        aHJlZj0iL2Rpc2NvdmVyL2NpdGllcy9iYWx0aW1vcmUtbWQ/cmVmPWNhcmQi
-        IHRhcmdldD0iIj48c3BhbiBjbGFzcz0naWNvbi1sb2NhdGlvbic+PC9zcGFu
-        PjxzcGFuIGNsYXNzPSdsb2NhdGlvbi1uYW1lJz5CYWx0aW1vcmUsIE1EPC9z
-        cGFuPjwvYT4KPC9saT4KPC91bD4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVk
-        Z2VkLXN1Y2Nlc3NmdWwiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CjxzdHJv
-        bmc+U3VjY2Vzc2Z1bCE8L3N0cm9uZz4KPC9kaXY+CjxkaXYgY2xhc3M9InBy
-        b2plY3QtcGxlZGdlZC13cmFwIj4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVk
-        Z2VkIiBzdHlsZT0id2lkdGg6IDIxLjExJSI+PC9kaXY+CjwvZGl2Pgo8dWwg
-        Y2xhc3M9InByb2plY3Qtc3RhdHMiPgo8bGkgY2xhc3M9ImZpcnN0IGZ1bmRl
-        ZCI+CjxzdHJvbmc+MjElPC9zdHJvbmc+CmZ1bmRlZAo8L2xpPgo8bGkgY2xh
-        c3M9InBsZWRnZWQiPgo8c3Ryb25nPiQyLDExMDwvc3Ryb25nPgpwbGVkZ2Vk
-        CjwvbGk+CjxsaSBjbGFzcz0ibGFzdCBzdWNjZXNzZnVsIiBzdHlsZT0iZGlz
-        cGxheTogbm9uZTsiPgo8c3Ryb25nPkZ1bmRlZDwvc3Ryb25nPgo8ZGl2IGNs
-        YXNzPSJkZWFkbGluZSI+CjwvZGl2Pgo8L2xpPgo8bGkgY2xhc3M9Imxhc3Qg
-        a3NyX3BhZ2VfdGltZXIiIGRhdGEtZW5kX3RpbWU9IjIwMTItMDktMTlUMjE6
-        MDA6MDBaIj4KPHN0cm9uZz4KPGRpdiBjbGFzcz0ibnVtIj4mbmJzcDs8L2Rp
-        dj4KPC9zdHJvbmc+CjxkaXYgY2xhc3M9InNwYW4gdGV4dCIgZGF0YS13b3Jk
-        PSJsZWZ0Ij4mbmJzcDs8L2Rpdj4KPC9saT4KPC91bD4KCjwvZGl2Pgo8L2Rp
-        dj4KPC9saT4KPGxpIGNsYXNzPSJwcm9qZWN0Ij48ZGl2IGNsYXNzPSJwcm9q
-        ZWN0LWNhcmQtd3JhcCI+CjxkaXYgY2xhc3M9InByb2plY3QtY2FyZCI+Cjxk
-        aXYgY2xhc3M9InByb2plY3QtdGh1bWJuYWlsIj4KPGEgaHJlZj0iL3Byb2pl
-        Y3RzL3llbWFuamEveWVtYW5qYS1jYXJpYmJlYW4tcmVzdGF1cmFudC1iYXIt
-        YW5kLWhvc3RlbD9yZWY9Y2F0ZWdvcnkiIHRhcmdldD0iIj48aW1nIGFsdD0i
-        UGhvdG8tbGl0dGxlIiBjbGFzcz0icHJvamVjdHBob3RvLWxpdHRsZSIgaGVp
-        Z2h0PSIxNTAiIHNyYz0iaHR0cDovL3MzLmFtYXpvbmF3cy5jb20va3NyL3By
-        b2plY3RzLzI2MzQyMS9waG90by1saXR0bGUuanBnPzEzNDQzNTUzMDEiIHdp
-        ZHRoPSIyMDAiIC8+PC9hPgo8L2Rpdj4KPGgyPgo8c3Ryb25nPgo8YSBocmVm
-        PSIvcHJvamVjdHMveWVtYW5qYS95ZW1hbmphLWNhcmliYmVhbi1yZXN0YXVy
-        YW50LWJhci1hbmQtaG9zdGVsP3JlZj1jYXRlZ29yeSIgdGFyZ2V0PSIiPlll
-        bWFuamEgQ2FyaWJiZWFuIFJlc3RhdXJhbnQsIEJhciwgYW5kIEhvc3RlbDwv
-        YT4KPC9zdHJvbmc+CjxzcGFuPgpieQpZZW1hbmphIENhcmliZQo8L3NwYW4+
-        CjwvaDI+CjxwPkNvbWUgY2VsZWJyYXRlIHRoZSBDYXJpYmJlYW4gYXQgYSB1
-        bmlxdWUgdHJvcGljYWwgZ2V0YXdheSBpbiBQYW5hbWEsIG9wZW5pbmcgYnkg
-        dGhlIGVuZCBvZiB0aGlzIHllYXIhPC9wPgo8dWwgY2xhc3M9InByb2plY3Qt
-        bWV0YSI+CjxsaT4KPGEgaHJlZj0iL2Rpc2NvdmVyL2NpdGllcy9ib2Nhcy1k
-        ZWwtdG9yby1wYW4/cmVmPWNhcmQiIHRhcmdldD0iIj48c3BhbiBjbGFzcz0n
-        aWNvbi1sb2NhdGlvbic+PC9zcGFuPjxzcGFuIGNsYXNzPSdsb2NhdGlvbi1u
-        YW1lJz5Cb2NhcyBEZWwgVG9ybywgUGFuYW1hPC9zcGFuPjwvYT4KPC9saT4K
-        PC91bD4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkLXN1Y2Nlc3NmdWwi
-        IHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CjxzdHJvbmc+U3VjY2Vzc2Z1bCE8
-        L3N0cm9uZz4KPC9kaXY+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZC13
-        cmFwIj4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkIiBzdHlsZT0id2lk
-        dGg6IDMwLjk1JSI+PC9kaXY+CjwvZGl2Pgo8dWwgY2xhc3M9InByb2plY3Qt
-        c3RhdHMiPgo8bGkgY2xhc3M9ImZpcnN0IGZ1bmRlZCI+CjxzdHJvbmc+MzAl
-        PC9zdHJvbmc+CmZ1bmRlZAo8L2xpPgo8bGkgY2xhc3M9InBsZWRnZWQiPgo8
-        c3Ryb25nPiQ0LDY0Mzwvc3Ryb25nPgpwbGVkZ2VkCjwvbGk+CjxsaSBjbGFz
-        cz0ibGFzdCBzdWNjZXNzZnVsIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgo8
-        c3Ryb25nPkZ1bmRlZDwvc3Ryb25nPgo8ZGl2IGNsYXNzPSJkZWFkbGluZSI+
-        CjwvZGl2Pgo8L2xpPgo8bGkgY2xhc3M9Imxhc3Qga3NyX3BhZ2VfdGltZXIi
-        IGRhdGEtZW5kX3RpbWU9IjIwMTItMDktMjFUMTY6Mjk6MzdaIj4KPHN0cm9u
-        Zz4KPGRpdiBjbGFzcz0ibnVtIj4mbmJzcDs8L2Rpdj4KPC9zdHJvbmc+Cjxk
-        aXYgY2xhc3M9InNwYW4gdGV4dCIgZGF0YS13b3JkPSJsZWZ0Ij4mbmJzcDs8
-        L2Rpdj4KPC9saT4KPC91bD4KCjwvZGl2Pgo8L2Rpdj4KPC9saT4KPGxpIGNs
-        YXNzPSJwcm9qZWN0Ij48ZGl2IGNsYXNzPSJwcm9qZWN0LWNhcmQtd3JhcCI+
-        CjxkaXYgY2xhc3M9InByb2plY3QtY2FyZCI+CjxkaXYgY2xhc3M9InByb2pl
-        Y3QtdGh1bWJuYWlsIj4KPGEgaHJlZj0iL3Byb2plY3RzLzE0MzkwNTEzNTMv
-        ZGVmY29uLXl1bS10aGUtZmlyc3Qtb25lLWEtZGF5LWdvdXJtZXQtaW50ZXJu
-        ZXQtYmEtMD9yZWY9Y2F0ZWdvcnkiIHRhcmdldD0iIj48aW1nIGFsdD0iUGhv
-        dG8tbGl0dGxlIiBjbGFzcz0icHJvamVjdHBob3RvLWxpdHRsZSIgaGVpZ2h0
-        PSIxNTAiIHNyYz0iaHR0cDovL3MzLmFtYXpvbmF3cy5jb20va3NyL3Byb2pl
-        Y3RzLzI4OTkxNC9waG90by1saXR0bGUuanBnPzEzNDQ4Njk0NTMiIHdpZHRo
-        PSIyMDAiIC8+PC9hPgo8L2Rpdj4KPGgyPgo8c3Ryb25nPgo8YSBocmVmPSIv
-        cHJvamVjdHMvMTQzOTA1MTM1My9kZWZjb24teXVtLXRoZS1maXJzdC1vbmUt
-        YS1kYXktZ291cm1ldC1pbnRlcm5ldC1iYS0wP3JlZj1jYXRlZ29yeSIgdGFy
-        Z2V0PSIiPkRlZmNvbiBZVU0hIC0gVGhlIGZpcnN0IG9uZS1hLWRheSBnb3Vy
-        bWV0IGludGVybmV0IGJha2VyeTwvYT4KPC9zdHJvbmc+CjxzcGFuPgpieQpO
-        aWNvbGUgU3RhbnRvbgo8L3NwYW4+CjwvaDI+CjxwPkRlZmNvbiBZVU0hIGlz
-        IGEgb25lIGEgZGF5IGdvdXJtZXQgaW50ZXJuZXQgYmFrZXJ5LiBFdmVyeSBk
-        YXkgd2Ugb2ZmZXIgb25lIG5ldyBpdGVtLiBXZSBiYWtlIGl0IGZyZXNoIGFu
-        ZCBzaGlwIGl0IHByaW9yaXR5IHRvIHlvdSE8L3A+Cjx1bCBjbGFzcz0icHJv
-        amVjdC1tZXRhIj4KPGxpPgo8YSBocmVmPSIvZGlzY292ZXIvY2l0aWVzL3dh
-        cHBpbmdlcnMtZmFsbHMtbnk/cmVmPWNhcmQiIHRhcmdldD0iIj48c3BhbiBj
-        bGFzcz0naWNvbi1sb2NhdGlvbic+PC9zcGFuPjxzcGFuIGNsYXNzPSdsb2Nh
-        dGlvbi1uYW1lJz5XYXBwaW5nZXJzIEZhbGxzLCBOWTwvc3Bhbj48L2E+Cjwv
-        bGk+CjwvdWw+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZC1zdWNjZXNz
-        ZnVsIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgo8c3Ryb25nPlN1Y2Nlc3Nm
-        dWwhPC9zdHJvbmc+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRn
-        ZWQtd3JhcCI+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZCIgc3R5bGU9
-        IndpZHRoOiA2OC4wMSUiPjwvZGl2Pgo8L2Rpdj4KPHVsIGNsYXNzPSJwcm9q
-        ZWN0LXN0YXRzIj4KPGxpIGNsYXNzPSJmaXJzdCBmdW5kZWQiPgo8c3Ryb25n
-        PjY4JTwvc3Ryb25nPgpmdW5kZWQKPC9saT4KPGxpIGNsYXNzPSJwbGVkZ2Vk
-        Ij4KPHN0cm9uZz4kNiw4MDE8L3N0cm9uZz4KcGxlZGdlZAo8L2xpPgo8bGkg
-        Y2xhc3M9Imxhc3Qgc3VjY2Vzc2Z1bCIgc3R5bGU9ImRpc3BsYXk6IG5vbmU7
-        Ij4KPHN0cm9uZz5GdW5kZWQ8L3N0cm9uZz4KPGRpdiBjbGFzcz0iZGVhZGxp
-        bmUiPgo8L2Rpdj4KPC9saT4KPGxpIGNsYXNzPSJsYXN0IGtzcl9wYWdlX3Rp
-        bWVyIiBkYXRhLWVuZF90aW1lPSIyMDEyLTA5LTEwVDAwOjAwOjAwWiI+Cjxz
-        dHJvbmc+CjxkaXYgY2xhc3M9Im51bSI+Jm5ic3A7PC9kaXY+Cjwvc3Ryb25n
-        Pgo8ZGl2IGNsYXNzPSJzcGFuIHRleHQiIGRhdGEtd29yZD0ibGVmdCI+Jm5i
-        c3A7PC9kaXY+CjwvbGk+CjwvdWw+Cgo8L2Rpdj4KPC9kaXY+CjwvbGk+Cjxs
-        aSBjbGFzcz0icHJvamVjdCI+PGRpdiBjbGFzcz0icHJvamVjdC1jYXJkLXdy
-        YXAiPgo8ZGl2IGNsYXNzPSJwcm9qZWN0LWNhcmQiPgo8ZGl2IGNsYXNzPSJw
-        cm9qZWN0LXRodW1ibmFpbCI+CjxhIGhyZWY9Ii9wcm9qZWN0cy84MjE3Mjc3
-        MTkvZml2ZS1ieS1maXZlLXRvbmljcy1oZXJiYWxpc3QtaW5zcGlyZWQtY29j
-        a3RhaWwtYmk/cmVmPWNhdGVnb3J5IiB0YXJnZXQ9IiI+PGltZyBhbHQ9IlBo
-        b3RvLWxpdHRsZSIgY2xhc3M9InByb2plY3RwaG90by1saXR0bGUiIGhlaWdo
-        dD0iMTUwIiBzcmM9Imh0dHA6Ly9zMy5hbWF6b25hd3MuY29tL2tzci9wcm9q
-        ZWN0cy8yNTA2NzkvcGhvdG8tbGl0dGxlLmpwZz8xMzQ0ODc5MDg3IiB3aWR0
-        aD0iMjAwIiAvPjwvYT4KPC9kaXY+CjxoMj4KPHN0cm9uZz4KPGEgaHJlZj0i
-        L3Byb2plY3RzLzgyMTcyNzcxOS9maXZlLWJ5LWZpdmUtdG9uaWNzLWhlcmJh
-        bGlzdC1pbnNwaXJlZC1jb2NrdGFpbC1iaT9yZWY9Y2F0ZWdvcnkiIHRhcmdl
-        dD0iIj5GaXZlIGJ5IEZpdmUgVG9uaWNzOiBIZXJiYWxpc3QgSW5zcGlyZWQg
-        Q29ja3RhaWwgQml0dGVyczwvYT4KPC9zdHJvbmc+CjxzcGFuPgpieQpKZXNz
-        ZSBTbWl0aAo8L3NwYW4+CjwvaDI+CjxwPkNyYWZ0IGNvY2t0YWlsIGJpdHRl
-        cnMgaW5zcGlyZWQgYnkgYW5jaWVudCBoZXJib2xvZ3kgY3JlYXRlZCBpbiBz
-        bWFsbCBiYXRjaGVzIGVudGlyZWx5IGJ5IGhhbmQgaW4gQ2hpY28sIENBLjwv
-        cD4KPHVsIGNsYXNzPSJwcm9qZWN0LW1ldGEiPgo8bGk+CjxhIGhyZWY9Ii9k
-        aXNjb3Zlci9jaXRpZXMvY2hpY28tY2E/cmVmPWNhcmQiIHRhcmdldD0iIj48
-        c3BhbiBjbGFzcz0naWNvbi1sb2NhdGlvbic+PC9zcGFuPjxzcGFuIGNsYXNz
-        PSdsb2NhdGlvbi1uYW1lJz5DaGljbywgQ0E8L3NwYW4+PC9hPgo8L2xpPgo8
-        L3VsPgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRnZWQtc3VjY2Vzc2Z1bCIg
-        c3R5bGU9ImRpc3BsYXk6IG5vbmU7Ij4KPHN0cm9uZz5TdWNjZXNzZnVsITwv
-        c3Ryb25nPgo8L2Rpdj4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkLXdy
-        YXAiPgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRnZWQiIHN0eWxlPSJ3aWR0
-        aDogMTAwJSI+PC9kaXY+CjwvZGl2Pgo8dWwgY2xhc3M9InByb2plY3Qtc3Rh
-        dHMiPgo8bGkgY2xhc3M9ImZpcnN0IGZ1bmRlZCI+CjxzdHJvbmc+MTEzJTwv
-        c3Ryb25nPgpmdW5kZWQKPC9saT4KPGxpIGNsYXNzPSJwbGVkZ2VkIj4KPHN0
-        cm9uZz4kMyw5NjU8L3N0cm9uZz4KcGxlZGdlZAo8L2xpPgo8bGkgY2xhc3M9
-        Imxhc3Qgc3VjY2Vzc2Z1bCIgc3R5bGU9ImRpc3BsYXk6IG5vbmU7Ij4KPHN0
-        cm9uZz5GdW5kZWQ8L3N0cm9uZz4KPGRpdiBjbGFzcz0iZGVhZGxpbmUiPgo8
-        L2Rpdj4KPC9saT4KPGxpIGNsYXNzPSJsYXN0IGtzcl9wYWdlX3RpbWVyIiBk
-        YXRhLWVuZF90aW1lPSIyMDEyLTA5LTE1VDIxOjM0OjA1WiI+CjxzdHJvbmc+
-        CjxkaXYgY2xhc3M9Im51bSI+Jm5ic3A7PC9kaXY+Cjwvc3Ryb25nPgo8ZGl2
-        IGNsYXNzPSJzcGFuIHRleHQiIGRhdGEtd29yZD0ibGVmdCI+Jm5ic3A7PC9k
-        aXY+CjwvbGk+CjwvdWw+Cgo8L2Rpdj4KPC9kaXY+CjwvbGk+CjxsaSBjbGFz
-        cz0icHJvamVjdCI+PGRpdiBjbGFzcz0icHJvamVjdC1jYXJkLXdyYXAiPgo8
-        ZGl2IGNsYXNzPSJwcm9qZWN0LWNhcmQiPgo8ZGl2IGNsYXNzPSJwcm9qZWN0
-        LXRodW1ibmFpbCI+CjxhIGhyZWY9Ii9wcm9qZWN0cy8xOTA2MTIzMTUwL2tp
-        bWNoZWVsaWNpb3VzLXB1dHMtYS1rb3JlYW4tcGlja2xlLW9uLXRoZS1hbWVy
-        aWNhP3JlZj1jYXRlZ29yeSIgdGFyZ2V0PSIiPjxpbWcgYWx0PSJQaG90by1s
-        aXR0bGUiIGNsYXNzPSJwcm9qZWN0cGhvdG8tbGl0dGxlIiBoZWlnaHQ9IjE1
-        MCIgc3JjPSJodHRwOi8vczMuYW1hem9uYXdzLmNvbS9rc3IvcHJvamVjdHMv
-        MTM5NjY0L3Bob3RvLWxpdHRsZS5qcGc/MTM0MTYwNDEwOCIgd2lkdGg9IjIw
-        MCIgLz48L2E+CjwvZGl2Pgo8aDI+CjxzdHJvbmc+CjxhIGhyZWY9Ii9wcm9q
-        ZWN0cy8xOTA2MTIzMTUwL2tpbWNoZWVsaWNpb3VzLXB1dHMtYS1rb3JlYW4t
-        cGlja2xlLW9uLXRoZS1hbWVyaWNhP3JlZj1jYXRlZ29yeSIgdGFyZ2V0PSIi
-        PktpbWNoZWVsaWNpb3VzIHB1dHMgYSBLb3JlYW4gcGlja2xlIG9uIHRoZSBB
-        bWVyaWNhbiB0YWJsZTwvYT4KPC9zdHJvbmc+CjxzcGFuPgpieQpBbnRvbmlv
-        IExpbXVhY28KPC9zcGFuPgo8L2gyPgo8cD5FeHBsb3JpbmcgaW5ub3ZhdGl2
-        ZSB3YXlzIG9mIGNvbWJpbmluZyBLb3JlYW4ga2ltY2hpIGFuZCBvdGhlciBm
-        ZXJtZW50ZWQgZm9vZHMgd2l0aCB0aGUgd2F5IEFtZXJpY2FucyBjb29rIGFu
-        ZCBlYXQ8L3A+Cjx1bCBjbGFzcz0icHJvamVjdC1tZXRhIj4KPGxpPgo8YSBo
-        cmVmPSIvZGlzY292ZXIvY2l0aWVzL2Jyb29rbHluLW55P3JlZj1jYXJkIiB0
-        YXJnZXQ9IiI+PHNwYW4gY2xhc3M9J2ljb24tbG9jYXRpb24nPjwvc3Bhbj48
-        c3BhbiBjbGFzcz0nbG9jYXRpb24tbmFtZSc+QnJvb2tseW4sIE5ZPC9zcGFu
-        PjwvYT4KPC9saT4KPC91bD4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2Vk
-        LXN1Y2Nlc3NmdWwiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CjxzdHJvbmc+
-        U3VjY2Vzc2Z1bCE8L3N0cm9uZz4KPC9kaXY+CjxkaXYgY2xhc3M9InByb2pl
-        Y3QtcGxlZGdlZC13cmFwIj4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2Vk
-        IiBzdHlsZT0id2lkdGg6IDg4LjQxJSI+PC9kaXY+CjwvZGl2Pgo8dWwgY2xh
-        c3M9InByb2plY3Qtc3RhdHMiPgo8bGkgY2xhc3M9ImZpcnN0IGZ1bmRlZCI+
-        CjxzdHJvbmc+ODglPC9zdHJvbmc+CmZ1bmRlZAo8L2xpPgo8bGkgY2xhc3M9
-        InBsZWRnZWQiPgo8c3Ryb25nPiQ2LDE4OTwvc3Ryb25nPgpwbGVkZ2VkCjwv
-        bGk+CjxsaSBjbGFzcz0ibGFzdCBzdWNjZXNzZnVsIiBzdHlsZT0iZGlzcGxh
-        eTogbm9uZTsiPgo8c3Ryb25nPkZ1bmRlZDwvc3Ryb25nPgo8ZGl2IGNsYXNz
-        PSJkZWFkbGluZSI+CjwvZGl2Pgo8L2xpPgo8bGkgY2xhc3M9Imxhc3Qga3Ny
-        X3BhZ2VfdGltZXIiIGRhdGEtZW5kX3RpbWU9IjIwMTItMDgtMjlUMDM6NDk6
-        MzhaIj4KPHN0cm9uZz4KPGRpdiBjbGFzcz0ibnVtIj4mbmJzcDs8L2Rpdj4K
-        PC9zdHJvbmc+CjxkaXYgY2xhc3M9InNwYW4gdGV4dCIgZGF0YS13b3JkPSJs
-        ZWZ0Ij4mbmJzcDs8L2Rpdj4KPC9saT4KPC91bD4KCjwvZGl2Pgo8L2Rpdj4K
-        PC9saT4KPGxpIGNsYXNzPSJwcm9qZWN0Ij48ZGl2IGNsYXNzPSJwcm9qZWN0
-        LWNhcmQtd3JhcCI+CjxkaXYgY2xhc3M9InByb2plY3QtY2FyZCI+CjxkaXYg
-        Y2xhc3M9InByb2plY3QtdGh1bWJuYWlsIj4KPGEgaHJlZj0iL3Byb2plY3Rz
-        L3ZpbmNlbnRraXQvZGFuZy1jb2NvbnV0LWNoaXBzP3JlZj1jYXRlZ29yeSIg
-        dGFyZ2V0PSIiPjxpbWcgYWx0PSJQaG90by1saXR0bGUiIGNsYXNzPSJwcm9q
-        ZWN0cGhvdG8tbGl0dGxlIiBoZWlnaHQ9IjE1MCIgc3JjPSJodHRwOi8vczMu
-        YW1hem9uYXdzLmNvbS9rc3IvcHJvamVjdHMvMjkzMzQ1L3Bob3RvLWxpdHRs
-        ZS5qcGc/MTM0NDgzMzM3MSIgd2lkdGg9IjIwMCIgLz48L2E+CjwvZGl2Pgo8
-        aDI+CjxzdHJvbmc+CjxhIGhyZWY9Ii9wcm9qZWN0cy92aW5jZW50a2l0L2Rh
-        bmctY29jb251dC1jaGlwcz9yZWY9Y2F0ZWdvcnkiIHRhcmdldD0iIj5EYW5n
-        IENvY29udXQgQ2hpcHM8L2E+Cjwvc3Ryb25nPgo8c3Bhbj4KYnkKVmluY2Vu
-        dEtpdAo8L3NwYW4+CjwvaDI+CjxwPk91ciB0b2FzdGVkIGNvY29udXQgY2hp
-        cHMgYXJlIGEgaGVhbHRoeSBzbmFjayBhbmQgdmVyc2F0aWxlIHRvcHBpbmcu
-        IERhbmcsIHRoYXQncyBnb29kITwvcD4KPHVsIGNsYXNzPSJwcm9qZWN0LW1l
-        dGEiPgo8bGk+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jaXRpZXMvc2FuLWZyYW5j
-        aXNjby1jYT9yZWY9Y2FyZCIgdGFyZ2V0PSIiPjxzcGFuIGNsYXNzPSdpY29u
-        LWxvY2F0aW9uJz48L3NwYW4+PHNwYW4gY2xhc3M9J2xvY2F0aW9uLW5hbWUn
-        PlNhbiBGcmFuY2lzY28sIENBPC9zcGFuPjwvYT4KPC9saT4KPC91bD4KPGRp
-        diBjbGFzcz0icHJvamVjdC1wbGVkZ2VkLXN1Y2Nlc3NmdWwiIHN0eWxlPSJk
-        aXNwbGF5OiBub25lOyI+CjxzdHJvbmc+U3VjY2Vzc2Z1bCE8L3N0cm9uZz4K
-        PC9kaXY+CjxkaXYgY2xhc3M9InByb2plY3QtcGxlZGdlZC13cmFwIj4KPGRp
-        diBjbGFzcz0icHJvamVjdC1wbGVkZ2VkIiBzdHlsZT0id2lkdGg6IDQyLjUy
-        JSI+PC9kaXY+CjwvZGl2Pgo8dWwgY2xhc3M9InByb2plY3Qtc3RhdHMiPgo8
-        bGkgY2xhc3M9ImZpcnN0IGZ1bmRlZCI+CjxzdHJvbmc+NDIlPC9zdHJvbmc+
-        CmZ1bmRlZAo8L2xpPgo8bGkgY2xhc3M9InBsZWRnZWQiPgo8c3Ryb25nPiQz
-        LDQwMTwvc3Ryb25nPgpwbGVkZ2VkCjwvbGk+CjxsaSBjbGFzcz0ibGFzdCBz
-        dWNjZXNzZnVsIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgo8c3Ryb25nPkZ1
-        bmRlZDwvc3Ryb25nPgo8ZGl2IGNsYXNzPSJkZWFkbGluZSI+CjwvZGl2Pgo8
-        L2xpPgo8bGkgY2xhc3M9Imxhc3Qga3NyX3BhZ2VfdGltZXIiIGRhdGEtZW5k
-        X3RpbWU9IjIwMTItMDktMTRUMDA6MTU6MzlaIj4KPHN0cm9uZz4KPGRpdiBj
-        bGFzcz0ibnVtIj4mbmJzcDs8L2Rpdj4KPC9zdHJvbmc+CjxkaXYgY2xhc3M9
-        InNwYW4gdGV4dCIgZGF0YS13b3JkPSJsZWZ0Ij4mbmJzcDs8L2Rpdj4KPC9s
-        aT4KPC91bD4KCjwvZGl2Pgo8L2Rpdj4KPC9saT4KPGxpIGNsYXNzPSJwcm9q
-        ZWN0Ij48ZGl2IGNsYXNzPSJwcm9qZWN0LWNhcmQtd3JhcCI+CjxkaXYgY2xh
-        c3M9InByb2plY3QtY2FyZCI+CjxkaXYgY2xhc3M9InByb2plY3QtdGh1bWJu
-        YWlsIj4KPGEgaHJlZj0iL3Byb2plY3RzLzE3MzE4Mjc0MjAvdG94aWMtcHJv
-        Zml0cz9yZWY9Y2F0ZWdvcnkiIHRhcmdldD0iIj48aW1nIGFsdD0iUGhvdG8t
-        bGl0dGxlIiBjbGFzcz0icHJvamVjdHBob3RvLWxpdHRsZSIgaGVpZ2h0PSIx
-        NTAiIHNyYz0iaHR0cDovL3MzLmFtYXpvbmF3cy5jb20va3NyL3Byb2plY3Rz
-        LzI0MDgwNS9waG90by1saXR0bGUuanBnPzEzNDEyNTk5NTIiIHdpZHRoPSIy
-        MDAiIC8+PC9hPgo8L2Rpdj4KPGgyPgo8c3Ryb25nPgo8YSBocmVmPSIvcHJv
-        amVjdHMvMTczMTgyNzQyMC90b3hpYy1wcm9maXRzP3JlZj1jYXRlZ29yeSIg
-        dGFyZ2V0PSIiPlRveGljIFByb2ZpdHM8L2E+Cjwvc3Ryb25nPgo8c3Bhbj4K
-        YnkKVG94aWMgUHJvZml0cwo8L3NwYW4+CjwvaDI+CjxwPkEgZG9jdW1lbnRh
-        cnkgZmlsbSBleHBsb3JpbmcgdGhlIHVzZSBvZiB0b3hpYyBwZXN0aWNpZGVz
-        IGluIG1vZGVybiBhZ3JpY3VsdHVyZSBhbmQgdGhlIHBlb3BsZSBtb3N0IGFm
-        ZmVjdGVkIGJ5IHRoaXMgcHJhY3RpY2UuPC9wPgo8dWwgY2xhc3M9InByb2pl
-        Y3QtbWV0YSI+CjxsaT4KPGEgaHJlZj0iL2Rpc2NvdmVyL2NpdGllcy9zYW4t
-        ZnJhbmNpc2NvLWNhP3JlZj1jYXJkIiB0YXJnZXQ9IiI+PHNwYW4gY2xhc3M9
-        J2ljb24tbG9jYXRpb24nPjwvc3Bhbj48c3BhbiBjbGFzcz0nbG9jYXRpb24t
-        bmFtZSc+U2FuIEZyYW5jaXNjbywgQ0E8L3NwYW4+PC9hPgo8L2xpPgo8L3Vs
-        Pgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRnZWQtc3VjY2Vzc2Z1bCIgc3R5
-        bGU9ImRpc3BsYXk6IG5vbmU7Ij4KPHN0cm9uZz5TdWNjZXNzZnVsITwvc3Ry
-        b25nPgo8L2Rpdj4KPGRpdiBjbGFzcz0icHJvamVjdC1wbGVkZ2VkLXdyYXAi
-        Pgo8ZGl2IGNsYXNzPSJwcm9qZWN0LXBsZWRnZWQiIHN0eWxlPSJ3aWR0aDog
-        MTAwJSI+PC9kaXY+CjwvZGl2Pgo8dWwgY2xhc3M9InByb2plY3Qtc3RhdHMi
-        Pgo8bGkgY2xhc3M9ImZpcnN0IGZ1bmRlZCI+CjxzdHJvbmc+MTA5JTwvc3Ry
-        b25nPgpmdW5kZWQKPC9saT4KPGxpIGNsYXNzPSJwbGVkZ2VkIj4KPHN0cm9u
-        Zz4kMjEsNDEyPC9zdHJvbmc+CnBsZWRnZWQKPC9saT4KPGxpIGNsYXNzPSJs
-        YXN0IHN1Y2Nlc3NmdWwiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CjxzdHJv
-        bmc+RnVuZGVkPC9zdHJvbmc+CjxkaXYgY2xhc3M9ImRlYWRsaW5lIj4KPC9k
-        aXY+CjwvbGk+CjxsaSBjbGFzcz0ibGFzdCBrc3JfcGFnZV90aW1lciIgZGF0
-        YS1lbmRfdGltZT0iMjAxMi0wOC0yNFQxNzoxNTo1N1oiPgo8c3Ryb25nPgo8
-        ZGl2IGNsYXNzPSJudW0iPiZuYnNwOzwvZGl2Pgo8L3N0cm9uZz4KPGRpdiBj
-        bGFzcz0ic3BhbiB0ZXh0IiBkYXRhLXdvcmQ9ImxlZnQiPiZuYnNwOzwvZGl2
-        Pgo8L2xpPgo8L3VsPgoKPC9kaXY+CjwvZGl2Pgo8L2xpPgo8bGkgY2xhc3M9
-        InByb2plY3QiPjxkaXYgY2xhc3M9InByb2plY3QtY2FyZC13cmFwIj4KPGRp
-        diBjbGFzcz0icHJvamVjdC1jYXJkIj4KPGRpdiBjbGFzcz0icHJvamVjdC10
-        aHVtYm5haWwiPgo8YSBocmVmPSIvcHJvamVjdHMvMjA5OTU1ODA5MC9zdGVw
-        aGFuLWlzLWFsbW9zdC1zZXQtdG8tbGF1bmNoLW1vdGhlcnNoaXAtcmVzdGF1
-        cj9yZWY9Y2F0ZWdvcnkiIHRhcmdldD0iIj48aW1nIGFsdD0iUGhvdG8tbGl0
-        dGxlIiBjbGFzcz0icHJvamVjdHBob3RvLWxpdHRsZSIgaGVpZ2h0PSIxNTAi
-        IHNyYz0iaHR0cDovL3MzLmFtYXpvbmF3cy5jb20va3NyL3Byb2plY3RzLzE1
-        NTEyNi9waG90by1saXR0bGUuanBnPzEzNDI3Mzg5OTgiIHdpZHRoPSIyMDAi
-        IC8+PC9hPgo8L2Rpdj4KPGgyPgo8c3Ryb25nPgo8YSBocmVmPSIvcHJvamVj
-        dHMvMjA5OTU1ODA5MC9zdGVwaGFuLWlzLWFsbW9zdC1zZXQtdG8tbGF1bmNo
-        LW1vdGhlcnNoaXAtcmVzdGF1cj9yZWY9Y2F0ZWdvcnkiIHRhcmdldD0iIj5T
-        dGVwaGFuIGlzIGFsbW9zdCBzZXQgdG8gbGF1bmNoIE1vdGhlcnNoaXAgUmVz
-        dGF1cmFudDwvYT4KPC9zdHJvbmc+CjxzcGFuPgpieQpTdGVwaGFuIEJvaWxs
-        b24KPC9zcGFuPgo8L2gyPgo8cD5Nb3RoZXJzaGlwIC0gYSBuZWlnaGJvcmhv
-        b2QgcmVzdGF1cmFudCwgYmFrZXJ5ICZhbXA7IGZvb2QgdHJ1Y2sgcGFkIG9u
-        IEdlb3JnaWEgQXZlLiBEQywgZnJvbSB0aGUgQ2hlZiB0aGF0IGJyb3VnaHQg
-        eW91IEVsIEZsb3JpZGFubzwvcD4KPHVsIGNsYXNzPSJwcm9qZWN0LW1ldGEi
-        Pgo8bGk+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jaXRpZXMvd2FzaGluZ3Rvbi1k
-        Yz9yZWY9Y2FyZCIgdGFyZ2V0PSIiPjxzcGFuIGNsYXNzPSdpY29uLWxvY2F0
-        aW9uJz48L3NwYW4+PHNwYW4gY2xhc3M9J2xvY2F0aW9uLW5hbWUnPldhc2hp
-        bmd0b24sIERDPC9zcGFuPjwvYT4KPC9saT4KPC91bD4KPGRpdiBjbGFzcz0i
-        cHJvamVjdC1wbGVkZ2VkLXN1Y2Nlc3NmdWwiIHN0eWxlPSJkaXNwbGF5OiBu
-        b25lOyI+CjxzdHJvbmc+U3VjY2Vzc2Z1bCE8L3N0cm9uZz4KPC9kaXY+Cjxk
-        aXYgY2xhc3M9InByb2plY3QtcGxlZGdlZC13cmFwIj4KPGRpdiBjbGFzcz0i
-        cHJvamVjdC1wbGVkZ2VkIiBzdHlsZT0id2lkdGg6IDEwMCUiPjwvZGl2Pgo8
-        L2Rpdj4KPHVsIGNsYXNzPSJwcm9qZWN0LXN0YXRzIj4KPGxpIGNsYXNzPSJm
-        aXJzdCBmdW5kZWQiPgo8c3Ryb25nPjEwOSU8L3N0cm9uZz4KZnVuZGVkCjwv
-        bGk+CjxsaSBjbGFzcz0icGxlZGdlZCI+CjxzdHJvbmc+JDMyLDc2Njwvc3Ry
-        b25nPgpwbGVkZ2VkCjwvbGk+CjxsaSBjbGFzcz0ibGFzdCBzdWNjZXNzZnVs
-        IiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgo8c3Ryb25nPkZ1bmRlZDwvc3Ry
-        b25nPgo8ZGl2IGNsYXNzPSJkZWFkbGluZSI+CjwvZGl2Pgo8L2xpPgo8bGkg
-        Y2xhc3M9Imxhc3Qga3NyX3BhZ2VfdGltZXIiIGRhdGEtZW5kX3RpbWU9IjIw
-        MTItMDgtMjRUMTg6MzQ6MjBaIj4KPHN0cm9uZz4KPGRpdiBjbGFzcz0ibnVt
-        Ij4mbmJzcDs8L2Rpdj4KPC9zdHJvbmc+CjxkaXYgY2xhc3M9InNwYW4gdGV4
-        dCIgZGF0YS13b3JkPSJsZWZ0Ij4mbmJzcDs8L2Rpdj4KPC9saT4KPC91bD4K
-        CjwvZGl2Pgo8L2Rpdj4KPC9saT4KPC91bD4KCjwvbGk+CjwvdWw+CjxkaXYg
-        Y2xhc3M9ImxvYWRfbW9yZSI+CjxkaXYgY2xhc3M9ImxvYWRpbmciPgo8aW1n
-        IGFsdD0iTG9hZGluZy1zbWFsbCIgc3JjPSJodHRwOi8vZDI5N2g5aGUyNDBm
-        cWguY2xvdWRmcm9udC5uZXQvY2FjaGUtMWNmNTQ5OGE3L2ltYWdlcy9jb21w
-        YXNzL2xvYWRpbmctc21hbGwuZ2lmIiAvPgo8ZGl2IGNsYXNzPSJjb3B5Ij5Q
-        bGVhc2UgV2FpdDwvZGl2Pgo8ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+Cjwv
-        ZGl2Pgo8L2Rpdj4KPGRpdiBjbGFzcz0ibWluaV9mb290ZXIiPjxkaXYgY2xh
-        c3M9Im5vLW1lZ2EiIGlkPSJmb290ZXItd3JhcCI+CjxkaXYgY2xhc3M9ImNv
-        bnRhaW5lciIgaWQ9ImZvb3RlciI+CjxkaXYgaWQ9ImV0YyI+Cjx1bD4KPGxp
-        PjxhIGhyZWY9Ii9ibG9nIj5CbG9nPC9hPjwvbGk+CjxsaT48YSBocmVmPSIv
-        aGVscD9yZWY9Zm9vdGVyIj5IZWxwPC9hPjwvbGk+CjxsaT48YSBocmVmPSIv
-        aGVscC9ndWlkZWxpbmVzP3JlZj1mb290ZXIiPkd1aWRlbGluZXM8L2E+PC9s
-        aT4KPGxpPjxhIGhyZWY9Ii9oZWxwL3N0YXRzP3JlZj1mb290ZXIiPlN0YXRz
-        PC9hPjwvbGk+CjxsaT48YSBocmVmPSIvdGVybXMtb2YtdXNlP3JlZj1mb290
-        ZXIiPlRlcm1zIG9mIFVzZTwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL3ByaXZh
-        Y3k/cmVmPWZvb3RlciI+UHJpdmFjeSBQb2xpY3k8L2E+PC9saT4KPGxpPjxh
-        IGhyZWY9Imh0dHA6Ly9raWNrc3RhcnRlci56ZW5kZXNrLmNvbS9ob21lIiBp
-        ZD0iIiBvbmNsaWNrPSJaZW5ib3gucmVuZGVyKCk7IHJldHVybiBmYWxzZTsi
-        PkNvbnRhY3Q8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii90ZWFtP3JlZj1mb290
-        ZXIiPlRlYW08L2E+PC9saT4KPGxpIGNsYXNzPSJsYXN0Ij48YSBocmVmPSIv
-        am9icz9yZWY9Zm9vdGVyIj5Kb2JzPC9hPjwvbGk+CjwvdWw+CjwvZGl2Pgo8
-        ZGl2IGlkPSJsZWdhbCI+CiZjb3B5OwoyMDEyCktpY2tzdGFydGVyLCBJbmMu
-        CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJwYWdp
-        bmF0aW9uIj48c3BhbiBjbGFzcz0icHJldmlvdXNfcGFnZSBkaXNhYmxlZCI+
-        UHJldjwvc3Bhbj4gPGVtIGNsYXNzPSJjdXJyZW50Ij4xPC9lbT4gPGEgcmVs
-        PSJuZXh0IiBocmVmPSIvZGlzY292ZXIvY2F0ZWdvcmllcy9Gb29kL3BvcHVs
-        YXI/cGFnZT0yIj4yPC9hPiA8YSBocmVmPSIvZGlzY292ZXIvY2F0ZWdvcmll
-        cy9Gb29kL3BvcHVsYXI/cGFnZT0zIj4zPC9hPiA8YSBocmVmPSIvZGlzY292
-        ZXIvY2F0ZWdvcmllcy9Gb29kL3BvcHVsYXI/cGFnZT00Ij40PC9hPiA8YSBo
-        cmVmPSIvZGlzY292ZXIvY2F0ZWdvcmllcy9Gb29kL3BvcHVsYXI/cGFnZT01
-        Ij41PC9hPiA8YSBocmVmPSIvZGlzY292ZXIvY2F0ZWdvcmllcy9Gb29kL3Bv
-        cHVsYXI/cGFnZT02Ij42PC9hPiA8YSBocmVmPSIvZGlzY292ZXIvY2F0ZWdv
-        cmllcy9Gb29kL3BvcHVsYXI/cGFnZT03Ij43PC9hPiA8YSBocmVmPSIvZGlz
-        Y292ZXIvY2F0ZWdvcmllcy9Gb29kL3BvcHVsYXI/cGFnZT04Ij44PC9hPiA8
-        YSBocmVmPSIvZGlzY292ZXIvY2F0ZWdvcmllcy9Gb29kL3BvcHVsYXI/cGFn
-        ZT05Ij45PC9hPiA8YSBocmVmPSIvZGlzY292ZXIvY2F0ZWdvcmllcy9Gb29k
-        L3BvcHVsYXI/cGFnZT0xMCI+MTA8L2E+IDxhIGhyZWY9Ii9kaXNjb3Zlci9j
-        YXRlZ29yaWVzL0Zvb2QvcG9wdWxhcj9wYWdlPTExIj4xMTwvYT4gPGEgaHJl
-        Zj0iL2Rpc2NvdmVyL2NhdGVnb3JpZXMvRm9vZC9wb3B1bGFyP3BhZ2U9MTIi
-        PjEyPC9hPiA8YSBjbGFzcz0ibmV4dF9wYWdlIiByZWw9Im5leHQiIGhyZWY9
-        Ii9kaXNjb3Zlci9jYXRlZ29yaWVzL0Zvb2QvcG9wdWxhcj9wYWdlPTIiPk5l
-        eHQ8L2E+PC9kaXY+CjwvZGl2PgoKPGhyIGNsYXNzPSJzcGFjZSI+CjwvZGl2
-        Pgo8IS0tICNtYWluIC0tPgo8ZGl2IGlkPSJzaWRlYmFyLXdyYXAiPgo8ZGl2
-        IGlkPSJzaWRlYmFyIj4KPGgzPjxzcGFuIGNsYXNzPSdpY29uLXN0YXItZGFy
-        ayc+PC9zcGFuPkZlYXR1cmVkPC9oMz4KPHVsIGNsYXNzPSJuYXZpZ2F0aW9u
-        Ij4KPGxpPjxhIGhyZWY9Ii9kaXNjb3Zlci9yZWNvbW1lbmRlZD9yZWY9c2lk
-        ZWJhciI+U3RhZmYgUGlja3M8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9kaXNj
-        b3Zlci9wb3B1bGFyP3JlZj1zaWRlYmFyIj5Qb3B1bGFyPC9hPjwvbGk+Cjxs
-        aT48YSBocmVmPSIvZGlzY292ZXIvcmVjZW50bHktbGF1bmNoZWQ/cmVmPXNp
-        ZGViYXIiPlJlY2VudGx5IExhdW5jaGVkPC9hPjwvbGk+CjxsaT48YSBocmVm
-        PSIvZGlzY292ZXIvZW5kaW5nLXNvb24/cmVmPXNpZGViYXIiPkVuZGluZyBT
-        b29uPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvZGlzY292ZXIvc21hbGwtcHJv
-        amVjdHM/cmVmPXNpZGViYXIiPlNtYWxsIFByb2plY3RzPC9hPjwvbGk+Cjxs
-        aT48YSBocmVmPSIvZGlzY292ZXIvbW9zdC1mdW5kZWQ/cmVmPXNpZGViYXIi
-        Pk1vc3QgRnVuZGVkPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvZGlzY292ZXIv
-        Y3VyYXRlZC1wYWdlcz9yZWY9c2lkZWJhciI+Q3VyYXRlZCBQYWdlczwvYT48
-        L2xpPgo8L3VsPgo8aDM+PHNwYW4gY2xhc3M9J2ljb24tY2F0ZWdvcnktZGFy
-        ayc+PC9zcGFuPkNhdGVnb3JpZXM8L2gzPgo8dWwgY2xhc3M9Im5hdmlnYXRp
-        b24iPgo8bGk+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRlZ29yaWVzL2FydD9y
-        ZWY9c2lkZWJhciI+QXJ0PC9hPgo8L2xpPgo8bGk+CjxhIGhyZWY9Ii9kaXNj
-        b3Zlci9jYXRlZ29yaWVzL2NvbWljcz9yZWY9c2lkZWJhciI+Q29taWNzPC9h
-        Pgo8L2xpPgo8bGk+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRlZ29yaWVzL2Rh
-        bmNlP3JlZj1zaWRlYmFyIj5EYW5jZTwvYT4KPC9saT4KPGxpPgo8YSBocmVm
-        PSIvZGlzY292ZXIvY2F0ZWdvcmllcy9kZXNpZ24/cmVmPXNpZGViYXIiPkRl
-        c2lnbjwvYT4KPC9saT4KPGxpPgo8YSBocmVmPSIvZGlzY292ZXIvY2F0ZWdv
-        cmllcy9mYXNoaW9uP3JlZj1zaWRlYmFyIj5GYXNoaW9uPC9hPgo8L2xpPgo8
-        bGk+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRlZ29yaWVzL2ZpbG0lMjAmYW1w
-        OyUyMHZpZGVvP3JlZj1zaWRlYmFyIj5GaWxtICZhbXA7IFZpZGVvPC9hPgo8
-        L2xpPgo8bGk+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRlZ29yaWVzL2Zvb2Q/
-        cmVmPXNpZGViYXIiPkZvb2Q8L2E+CjwvbGk+CjxsaT4KPGEgaHJlZj0iL2Rp
-        c2NvdmVyL2NhdGVnb3JpZXMvZ2FtZXM/cmVmPXNpZGViYXIiPkdhbWVzPC9h
-        Pgo8L2xpPgo8bGk+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRlZ29yaWVzL211
-        c2ljP3JlZj1zaWRlYmFyIj5NdXNpYzwvYT4KPC9saT4KPGxpPgo8YSBocmVm
-        PSIvZGlzY292ZXIvY2F0ZWdvcmllcy9waG90b2dyYXBoeT9yZWY9c2lkZWJh
-        ciI+UGhvdG9ncmFwaHk8L2E+CjwvbGk+CjxsaT4KPGEgaHJlZj0iL2Rpc2Nv
-        dmVyL2NhdGVnb3JpZXMvcHVibGlzaGluZz9yZWY9c2lkZWJhciI+UHVibGlz
-        aGluZzwvYT4KPC9saT4KPGxpPgo8YSBocmVmPSIvZGlzY292ZXIvY2F0ZWdv
-        cmllcy90ZWNobm9sb2d5P3JlZj1zaWRlYmFyIj5UZWNobm9sb2d5PC9hPgo8
-        L2xpPgo8bGk+CjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRlZ29yaWVzL3RoZWF0
-        ZXI/cmVmPXNpZGViYXIiPlRoZWF0ZXI8L2E+CjwvbGk+CjwvdWw+CjxoMz48
-        c3BhbiBjbGFzcz0naWNvbi1sb2NhdGlvbi1kYXJrJz48L3NwYW4+Q2l0aWVz
-        PC9oMz4KPHVsIGNsYXNzPSJuYXZpZ2F0aW9uIj4KPGxpPjxhIGhyZWY9Ii9k
-        aXNjb3Zlci9jaXRpZXMvbmV3LXlvcmstbnk/cmVmPXNpZGViYXIiPk5ldyBZ
-        b3JrPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvZGlzY292ZXIvY2l0aWVzL2xv
-        cy1hbmdlbGVzLWNhP3JlZj1zaWRlYmFyIj5Mb3MgQW5nZWxlczwvYT48L2xp
-        Pgo8bGk+PGEgaHJlZj0iL2Rpc2NvdmVyL2NpdGllcy9icm9va2x5bi1ueT9y
-        ZWY9c2lkZWJhciI+QnJvb2tseW48L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9k
-        aXNjb3Zlci9jaXRpZXMvY2hpY2Fnby1pbD9yZWY9c2lkZWJhciI+Q2hpY2Fn
-        bzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2Rpc2NvdmVyL2NpdGllcy9zYW4t
-        ZnJhbmNpc2NvLWNhP3JlZj1zaWRlYmFyIj5TYW4gRnJhbmNpc2NvPC9hPjwv
-        bGk+CjxsaT48YSBocmVmPSIvZGlzY292ZXIvY2l0aWVzL3BvcnRsYW5kLW9y
-        P3JlZj1zaWRlYmFyIj5Qb3J0bGFuZDwvYT48L2xpPgo8bGk+PGEgaHJlZj0i
-        L2Rpc2NvdmVyL2NpdGllcy9zZWF0dGxlLXdhP3JlZj1zaWRlYmFyIj5TZWF0
-        dGxlPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvZGlzY292ZXIvY2l0aWVzL2F1
-        c3Rpbi10eD9yZWY9c2lkZWJhciI+QXVzdGluPC9hPjwvbGk+CjxsaT48YSBo
-        cmVmPSIvZGlzY292ZXIvY2l0aWVzL2Jvc3Rvbi1tYT9yZWY9c2lkZWJhciI+
-        Qm9zdG9uPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvZGlzY292ZXIvY2l0aWVz
-        L25hc2h2aWxsZS10bj9yZWY9c2lkZWJhciI+TmFzaHZpbGxlPC9hPjwvbGk+
-        CjwvdWw+CjxkaXYgaWQ9ImxvY2F0aW9uLXNlYXJjaCI+Cjxmb3JtIGFjY2Vw
-        dC1jaGFyc2V0PSJVVEYtOCIgYWN0aW9uPSIvbG9jYXRpb25zIiBjbGFzcz0i
-        b3ZlcmxhYmVscyIgbWV0aG9kPSJwb3N0Ij48ZGl2IHN0eWxlPSJtYXJnaW46
-        MDtwYWRkaW5nOjA7ZGlzcGxheTppbmxpbmUiPjxpbnB1dCBjbGFzcz0iaGlk
-        ZGVuIiBuYW1lPSJ1dGY4IiB0eXBlPSJoaWRkZW4iIHZhbHVlPSImI3gyNzEz
-        OyIgLz48aW5wdXQgY2xhc3M9ImhpZGRlbiIgbmFtZT0iYXV0aGVudGljaXR5
-        X3Rva2VuIiB0eXBlPSJoaWRkZW4iIHZhbHVlPSJQR1IvQ0RUODNKK3dETEUy
-        K2FIWHZ5cmlLTVBCbGNyWWNUTE1adTlkYStrPSIgLz48L2Rpdj4KPGRpdiBj
-        bGFzcz0iZmllbGQgc2VhcmNoIj4KPHNwYW4gY2xhc3M9Imljb24tc2VhcmNo
-        Ij48L3NwYW4+CjxzcGFuIGNsYXNzPSJpY29uLXNlYXJjaC1jbGVhciI+PC9z
-        cGFuPgo8bGFiZWwgY2xhc3M9Im92ZXJsYWJlbCBvdmVybGFiZWwtc2VhcmNo
-        Ij5TZWFyY2ggY2l0aWVzPC9sYWJlbD4KPGlucHV0IGF1dG9jb21wbGV0ZT0i
-        b2ZmIiBjbGFzcz0iaW5wdXQtc2VhcmNoIGlucHV0LXRleHQgdGV4dCIgZGF0
-        YS10cmFja2VyLW5hbWU9IkxvY2F0aW9uIExpdmUgU2VhcmNoIiBpZD0icSIg
-        bmFtZT0icSIgdHlwZT0idGV4dCIgLz4KPGRpdiBjbGFzcz0icmVzdWx0cyI+
-        CjxzcGFuIGNsYXNzPSJpY29uLWRyb3Bkb3duLXBvaW50ZXIiPjwvc3Bhbj4K
-        PC9kaXY+CjwvZGl2Pgo8L2Zvcm0+Cgo8L2Rpdj4KCjwvZGl2Pgo8L2Rpdj4K
-        PCEtLSAjc2lkZWJhciAtLT4KPC9kaXY+CjwhLS0gI2NvbnRlbnQgLS0+Cjwv
-        ZGl2Pgo8IS0tICNjb250ZW50LXdyYXAgLS0+CgoKPGRpdiBpZD0ibWVnYS1m
-        b290ZXItd3JhcCI+CjxkaXYgaWQ9Im1lZ2EtZm9vdGVyLXNoYWRvdyI+Cjxk
-        aXYgY2xhc3M9ImNvbnRhaW5lciIgaWQ9Im1lZ2EtZm9vdGVyIj4KPGRpdiBp
-        ZD0ibWVnYS1kaXNjb3ZlciI+CjxoNT5Ccm93c2UgQ2F0ZWdvcmllczwvaDU+
-        Cjx1bCBjbGFzcz0ibGlzdC1mb290ZXItY2F0ZWdvcmllcyBsaXN0LTAiPgo8
-        bGk+PGEgaHJlZj0iL2Rpc2NvdmVyL2NhdGVnb3JpZXMvYXJ0P3JlZj1mb290
-        ZXIiPkFydDwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2Rpc2NvdmVyL2NhdGVn
-        b3JpZXMvY29taWNzP3JlZj1mb290ZXIiPkNvbWljczwvYT48L2xpPgo8bGk+
-        PGEgaHJlZj0iL2Rpc2NvdmVyL2NhdGVnb3JpZXMvZGFuY2U/cmVmPWZvb3Rl
-        ciI+RGFuY2U8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRl
-        Z29yaWVzL2Rlc2lnbj9yZWY9Zm9vdGVyIj5EZXNpZ248L2E+PC9saT4KPGxp
-        PjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRlZ29yaWVzL2Zhc2hpb24/cmVmPWZv
-        b3RlciI+RmFzaGlvbjwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2Rpc2NvdmVy
-        L2NhdGVnb3JpZXMvZmlsbSUyMCZhbXA7JTIwdmlkZW8/cmVmPWZvb3RlciI+
-        RmlsbSAmYW1wOyBWaWRlbzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2Rpc2Nv
-        dmVyL2NhdGVnb3JpZXMvZm9vZD9yZWY9Zm9vdGVyIj5Gb29kPC9hPjwvbGk+
-        CjwvdWw+Cjx1bCBjbGFzcz0ibGlzdC1mb290ZXItY2F0ZWdvcmllcyBsaXN0
-        LTEiPgo8bGk+PGEgaHJlZj0iL2Rpc2NvdmVyL2NhdGVnb3JpZXMvZ2FtZXM/
-        cmVmPWZvb3RlciI+R2FtZXM8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9kaXNj
-        b3Zlci9jYXRlZ29yaWVzL211c2ljP3JlZj1mb290ZXIiPk11c2ljPC9hPjwv
-        bGk+CjxsaT48YSBocmVmPSIvZGlzY292ZXIvY2F0ZWdvcmllcy9waG90b2dy
-        YXBoeT9yZWY9Zm9vdGVyIj5QaG90b2dyYXBoeTwvYT48L2xpPgo8bGk+PGEg
-        aHJlZj0iL2Rpc2NvdmVyL2NhdGVnb3JpZXMvcHVibGlzaGluZz9yZWY9Zm9v
-        dGVyIj5QdWJsaXNoaW5nPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvZGlzY292
-        ZXIvY2F0ZWdvcmllcy90ZWNobm9sb2d5P3JlZj1mb290ZXIiPlRlY2hub2xv
-        Z3k8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9kaXNjb3Zlci9jYXRlZ29yaWVz
-        L3RoZWF0ZXI/cmVmPWZvb3RlciI+VGhlYXRlcjwvYT48L2xpPgo8L3VsPgo8
-        L2Rpdj4KPGRpdiBpZD0ibWVnYS1qb2luLWxpa2UiPgo8Zm9ybSBhY2NlcHQt
-        Y2hhcnNldD0iVVRGLTgiIGFjdGlvbj0iL25ld3NsZXR0ZXJzL3NpZ251cCIg
-        Y2xhc3M9Im92ZXJsYWJlbHMiIG1ldGhvZD0icG9zdCI+PGRpdiBzdHlsZT0i
-        bWFyZ2luOjA7cGFkZGluZzowO2Rpc3BsYXk6aW5saW5lIj48aW5wdXQgY2xh
-        c3M9ImhpZGRlbiIgbmFtZT0idXRmOCIgdHlwZT0iaGlkZGVuIiB2YWx1ZT0i
-        JiN4MjcxMzsiIC8+PGlucHV0IGNsYXNzPSJoaWRkZW4iIG5hbWU9ImF1dGhl
-        bnRpY2l0eV90b2tlbiIgdHlwZT0iaGlkZGVuIiB2YWx1ZT0iUEdSL0NEVDgz
-        Sit3RExFMithSFh2eXJpS01QQmxjclljVExNWnU5ZGEraz0iIC8+PC9kaXY+
-        CjxoNT5LaWNrc3RhcnRlcidzIHdlZWtseSBuZXdzbGV0dGVyPC9oNT4KPHA+
-        R2V0IGF3ZXNvbWUgcHJvamVjdHMgZGVsaXZlcmVkIHRvIHlvdXIgaW5ib3gg
-        ZWFjaCB3ZWVrLjwvcD4KPHRleHRhcmVhIGNsYXNzPSJoaWRlIHRleHRhcmVh
-        IiBpZD0iY29tbWVudCIgbmFtZT0iY29tbWVudCI+CjwvdGV4dGFyZWE+Cjxk
-        aXYgY2xhc3M9ImZpZWxkIG5ld3NsZXR0ZXIiPgo8bGFiZWwgY2xhc3M9Im92
-        ZXJsYWJlbCBvdmVybGFiZWwtbmV3c2xldHRlciI+WW91ciBlbWFpbCBhZGRy
-        ZXNzLi4uPC9sYWJlbD4KPGlucHV0IGNsYXNzPSJ0ZXh0IiBpZD0iZW1haWwi
-        IG5hbWU9ImVtYWlsIiB0eXBlPSJ0ZXh0IiAvPgo8L2Rpdj4KPGlucHV0IGNs
-        YXNzPSJidXR0b24tcG9zaXRpdmUgc3VibWl0IiBuYW1lPSJjb21taXQiIHR5
-        cGU9InN1Ym1pdCIgdmFsdWU9IkpvaW4gbmV3c2xldHRlciIgLz4KPC9mb3Jt
-        PgoKPGg1PktpY2tzdGFydGVyIG9uIEZhY2Vib29rPC9oNT4KPGZiOmxpa2Ug
-        aHJlZj0iaHR0cDovL2ZhY2Vib29rLmNvbS9raWNrc3RhcnRlciIgc2hvd19m
-        YWNlcz0idHJ1ZSIgd2lkdGg9IjMzMCI+PC9mYjpsaWtlPgo8L2Rpdj4KPGRp
-        diBpZD0ibWVnYS1jb25uZWN0Ij4KPGg1PkNvbm5lY3Qgd2l0aCBLaWNrc3Rh
-        cnRlcjwvaDU+Cjx1bCBpZD0ibGlzdC1mb290ZXItY29ubmVjdCI+CjxsaT48
-        YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20va2lja3N0YXJ0ZXIiIGlkPSJm
-        b290ZXItdHdpdHRlciI+PHNwYW4gY2xhc3M9J2ljb24tZm9vdGVyLXR3aXR0
-        ZXInPjwvc3Bhbj5Gb2xsb3cgb24gVHdpdHRlcjwvYT48L2xpPgo8bGk+PGEg
-        aHJlZj0iL2Jsb2ciIGlkPSJmb290ZXItYmxvZyI+PHNwYW4gY2xhc3M9J2lj
-        b24tZm9vdGVyLWJsb2cnPjwvc3Bhbj5SZWFkIG91ciBibG9nPC9hPjwvbGk+
-        CjxsaT48YSBocmVmPSIvdGVhbT9yZWY9Zm9vdGVyIiBpZD0iZm9vdGVyLXRl
-        YW0iPjxzcGFuIGNsYXNzPSdpY29uLWZvb3Rlci10ZWFtJz48L3NwYW4+TWVl
-        dCB0aGUgdGVhbTwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2pvYnM/cmVmPWZv
-        b3RlciIgaWQ9ImZvb3Rlci1qb2JzIj48c3BhbiBjbGFzcz0naWNvbi1mb290
-        ZXItam9icyc+PC9zcGFuPldvcmsgd2l0aCB1czwvYT48L2xpPgo8L3VsPgo8
-        c3BhbiBjbGFzcz0ic2Npc3NvcnMgaWNvbi1zY2lzc29ycy0xIj48L3NwYW4+
-        CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8ZGl2IGlkPSJmb290ZXIt
-        d3JhcCI+CjxkaXYgY2xhc3M9ImNvbnRhaW5lciIgaWQ9ImZvb3RlciI+Cjxk
-        aXYgaWQ9ImV0YyI+Cjx1bD4KPGxpPjxhIGhyZWY9Ii9oZWxwP3JlZj1mb290
-        ZXIiPkhlbHA8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9oZWxwL2d1aWRlbGlu
-        ZXM/cmVmPWZvb3RlciI+R3VpZGVsaW5lczwvYT48L2xpPgo8bGk+PGEgaHJl
-        Zj0iL2hlbHAvc3RhdHM/cmVmPWZvb3RlciI+U3RhdHM8L2E+PC9saT4KPGxp
-        PjxhIGhyZWY9Ii90ZXJtcy1vZi11c2U/cmVmPWZvb3RlciI+VGVybXMgb2Yg
-        VXNlPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvcHJpdmFjeT9yZWY9Zm9vdGVy
-        Ij5Qcml2YWN5IFBvbGljeTwvYT48L2xpPgo8bGkgY2xhc3M9Imxhc3QiPjxh
-        IGhyZWY9Imh0dHA6Ly9raWNrc3RhcnRlci56ZW5kZXNrLmNvbS9ob21lIiBp
-        ZD0iIiBvbmNsaWNrPSJaZW5ib3gucmVuZGVyKCk7IHJldHVybiBmYWxzZTsi
-        PkNvbnRhY3Q8L2E+PC9saT4KPC91bD4KPC9kaXY+CjxkaXYgaWQ9ImxlZ2Fs
-        Ij4KJmNvcHk7CjIwMTIKS2lja3N0YXJ0ZXIsIEluYy4KPC9kaXY+CjwvZGl2
-        Pgo8L2Rpdj4KCjxzY3JpcHQ+CiAgLy88IVtDREFUQVsKICAgIHZhciBnYUpz
-        SG9zdCA9ICgoImh0dHBzOiIgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9j
-        b2wpID8gImh0dHBzOi8vc3NsLiIgOiAiaHR0cDovL3d3dy4iKTsKICAgIGRv
-        Y3VtZW50LndyaXRlKHVuZXNjYXBlKCIlM0NzY3JpcHQgc3JjPSciICsgZ2FK
-        c0hvc3QgKyAiZ29vZ2xlLWFuYWx5dGljcy5jb20vZ2EuanMnIHR5cGU9J3Rl
-        eHQvamF2YXNjcmlwdCclM0UlM0Mvc2NyaXB0JTNFIikpOwogICAgdmFyIGFu
-        YWx5dGljc192YXJzID0geyBnb29nbGVfYW5hbHl0aWNzX2lkIDogIlVBLTc2
-        MjEwNTYtMSIsIGxvZ2dlZF9pbiA6ICJmYWxzZSIsIHZlcmlmeWluZ19iYWNr
-        aW5nIDogImZhbHNlIiwgc29jaWFsX3VzZXI6ICJmYWxzZSIgfQogIC8vXV0+
-        Cjwvc2NyaXB0PgoKCjxzY3JpcHQ+CiAgLy88IVtDREFUQVsKICAgIHdpbmRv
-        dy5taXhwYW5lbF9pZCA9ICc3NWIxZDI0YTUxNmVjZmM5NTVlYWRmYWRjNDkx
-        MDY2MSc7CiAgICB3aW5kb3cubWl4cGFuZWxfZGVidWcgPSBmYWxzZTsKICAv
-        L11dPgo8L3NjcmlwdD4KCgo8c2NyaXB0PgogIC8vPCFbQ0RBVEFbCiAgICBf
-        cW9wdGlvbnM9e3FhY2N0OiJwLTM0SWJTcHcySzk0U2cifTsKICAvL11dPgo8
-        L3NjcmlwdD4KPHNjcmlwdCBzcmM9Imh0dHA6Ly9lZGdlLnF1YW50c2VydmUu
-        Y29tL3F1YW50LmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0
-        Pgo8bm9zY3JpcHQ+PGltZyBhbHQ9IlF1YW50Y2FzdCIgYm9yZGVyPSIwIiBo
-        ZWlnaHQ9IjEiIHNyYz0iaHR0cDovL3BpeGVsLnF1YW50c2VydmUuY29tL3Bp
-        eGVsL3AtMzRJYlNwdzJLOTRTZy5naWYiIHN0eWxlPSJkaXNwbGF5Om5vbmUi
-        IHdpZHRoPSIxIiAvPjwvbm9zY3JpcHQ+Cgo8c2NyaXB0PgogIC8vPCFbQ0RB
-        VEFbCiAgICB2YXIgX3NmX2FzeW5jX2NvbmZpZz17dWlkOjU1MzYsZG9tYWlu
-        OiJraWNrc3RhcnRlci5jb20ifTsKICAgIChmdW5jdGlvbigpewogICAgICBm
-        dW5jdGlvbiBsb2FkQ2hhcnRiZWF0KCkgewogICAgICAgIHdpbmRvdy5fc2Zf
-        ZW5kcHQ9KG5ldyBEYXRlKCkpLmdldFRpbWUoKTsKICAgICAgICB2YXIgZSA9
-        IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwogICAgICAgIGUu
-        c2V0QXR0cmlidXRlKCdsYW5ndWFnZScsICdqYXZhc2NyaXB0Jyk7CiAgICAg
-        ICAgZS5zZXRBdHRyaWJ1dGUoJ3R5cGUnLCAndGV4dC9qYXZhc2NyaXB0Jyk7
-        CiAgICAgICAgZS5zZXRBdHRyaWJ1dGUoJ3NyYycsCiAgICAgICAgICAgKCgi
-        aHR0cHM6IiA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCkgPyAiaHR0
-        cHM6Ly9hMjQ4LmUuYWthbWFpLm5ldC9jaGFydGJlYXQuZG93bmxvYWQuYWth
-        bWFpLmNvbS8xMDI1MDgvIiA6ICJodHRwOi8vc3RhdGljLmNoYXJ0YmVhdC5j
-        b20vIikgKwogICAgICAgICAgICJqcy9jaGFydGJlYXQuanMiKTsKICAgICAg
-        ICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGUpOwogICAgICB9CiAgICAg
-        IHZhciBvbGRvbmxvYWQgPSB3aW5kb3cub25sb2FkOwogICAgICB3aW5kb3cu
-        b25sb2FkID0gKHR5cGVvZiB3aW5kb3cub25sb2FkICE9ICdmdW5jdGlvbicp
-        ID8KICAgICAgICAgbG9hZENoYXJ0YmVhdCA6IGZ1bmN0aW9uKCkgeyBvbGRv
-        bmxvYWQoKTsgbG9hZENoYXJ0YmVhdCgpOyB9OwogICAgfSkoKTsKICAvL11d
-        Pgo8L3NjcmlwdD4KCgo8c2NyaXB0IHNyYz0iaHR0cDovL2FqYXguZ29vZ2xl
-        YXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjYuNC9qcXVlcnkubWluLmpz
-        IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0Pgo8c2NyaXB0Pgog
-        IC8vPCFbQ0RBVEFbCiAgICAoZnVuY3Rpb24oKXtmdW5jdGlvbiBjKGEpe3Ro
-        aXMubG9jYWxfc3RhcnRfdGltZT1uZXcgRGF0ZTt0aGlzLnNldHRpbmdzPXtj
-        b29raWVfbmFtZToicmVxdWVzdF90aW1lIn07Zm9yKHZhciBiIGluIGEpdGhp
-        cy5zZXR0aW5nc1tiXT1hW2JdO3RoaXMuZ2V0X3JlbW90ZV9vZmZzZXQoKX1j
-        LnByb3RvdHlwZS5nZXRfcmVtb3RlX29mZnNldD1mdW5jdGlvbigpe3RoaXMu
-        Y29va2llX3ZhbHVlPXRoaXMucmVhZF9jb29raWUoKTt2YXIgYT1uZXcgRGF0
-        ZSh0aGlzLmNvb2tpZV92YWx1ZSk7aWYoIXRoaXMuY29va2llX3ZhbHVlfHwi
-        SW52YWxpZCBEYXRlIj09PWEudG9TdHJpbmcoKSl7aWYodGhpcy5yZW1vdGVf
-        b2Zmc2V0PXRoaXMucmVhZF9jb29raWUoImxvY2FsX29mZnNldCIpKXRoaXMu
-        cmVtb3RlX29mZnNldD1wYXJzZUludCh0aGlzLnJlbW90ZV9vZmZzZXQsMTAp
-        fWVsc2UgdGhpcy5yZW1vdGVfb2Zmc2V0PWEtdGhpcy5sb2NhbF9zdGFydF90
-        aW1lOyJ1bmRlZmluZWQiIT09dHlwZW9mIHRoaXMucmVtb3RlX29mZnNldCYm
-        ICFpc05hTih0aGlzLnJlbW90ZV9vZmZzZXQpPyhkb2N1bWVudC5jb29raWU9
-        ImxvY2FsX29mZnNldD0iK3RoaXMucmVtb3RlX29mZnNldCsiOyBwYXRoPS8i
-        LHRoaXMuaXNfc2V0PSEwKTp0aGlzLmlzX3NldD0hMX07Yy5wcm90b3R5cGUu
-        dGltZV91bml0cz1bWyJtaWxsaXNlY29uZHMiLDFdLFsic2Vjb25kcyIsMUUz
-        XSxbIm1pbnV0ZXMiLDZFNF0sWyJob3VycyIsMzZFNV0sWyJkYXlzIiw4NjRF
-        NV1dO2MucHJvdG90eXBlLmdldF91bml0c19pbl9pbnRlcnZhbD1mdW5jdGlv
-        bihhLGIpe3ZhciBkPWEucmVwbGFjZSgvXlx3LyxmdW5jdGlvbihkKXtyZXR1
-        cm4iZ2V0IitkLnRvVXBwZXJDYXNlKCl9KTtyZXR1cm4gYltkXSgpfTtjLnBy
-        b3RvdHlwZS5taWxsaXNlY29uZHNfaW5fZGF5PWZ1bmN0aW9uKGEpeyJ1bmRl
-        ZmluZWQiPT09dHlwZW9mIGEmJihhPW5ldyBEYXRlKTtmb3IodmFyIGI9MCxk
-        PXRoaXMudGltZV91bml0cy5sZW5ndGgtMjswPD1kO2QtLSliKz10aGlzLmdl
-        dF91bml0c19pbl9pbnRlcnZhbCh0aGlzLnRpbWVfdW5pdHNbZF1bMF0sIGEp
-        KnRoaXMudGltZV91bml0c1tkXVsxXTtyZXR1cm4gYn07Yy5wcm90b3R5cGUu
-        bWlsbGlzZWNvbmRzX2luX2ludGVydmFsPWZ1bmN0aW9uKGEsYil7cmV0dXJu
-        IHRoaXMubWlsbGlzZWNvbmRzX2luX2RheShiKSVhfTtjLnByb3RvdHlwZS5t
-        aWxsaXNlY29uZHNfdG9fbmV4dF9pbnRlcnZhbD1mdW5jdGlvbihhLGIpe3Jl
-        dHVybiBhLXRoaXMubWlsbGlzZWNvbmRzX2luX2ludGVydmFsKGEsYil9O2Mu
-        cHJvdG90eXBlLnBsdXJhbGl6ZT1mdW5jdGlvbihhLGIpezE9PT1iJiYoYT1h
-        LnJlcGxhY2UoL3MkLywiIikpO3JldHVybiBhfTtjLnByb3RvdHlwZS5yZWFk
-        X2Nvb2tpZT1mdW5jdGlvbihhKXtmb3IodmFyIGI9d2luZG93LmRvY3VtZW50
-        LmNvb2tpZS5zcGxpdCgiOyIpLGE9KGF8fHRoaXMuc2V0dGluZ3MuY29va2ll
-        X25hbWUpKyI9IixkPTA7ZDxiLmxlbmd0aDtkKyspe2Zvcih2YXIgZT1iW2Rd
-        OyIgIj09ZS5jaGFyQXQoMCk7KWU9ZS5zdWJzdHJpbmcoMSxlLmxlbmd0aCk7
-        aWYoMD09IGUuaW5kZXhPZihhKSlyZXR1cm4gYj1lLnN1YnN0cmluZyhhLmxl
-        bmd0aCxlLmxlbmd0aCksZGVjb2RlVVJJQ29tcG9uZW50KGIpLnJlcGxhY2Uo
-        L1wrL2csIiAiKX1yZXR1cm4gbnVsbH07Yy5wcm90b3R5cGUuZGVzdHJveV9j
-        b29raWU9ZnVuY3Rpb24oYSl7dmFyIGI9bmV3IERhdGU7YXx8KGE9dGhpcy5z
-        ZXR0aW5ncy5jb29raWVfbmFtZSk7Yi5zZXRUaW1lKGIuZ2V0VGltZSgpLTg2
-        NEU1KTt3aW5kb3cuZG9jdW1lbnQuY29va2llPWErIj07IGV4cGlyZXM9Iiti
-        LnRvR01UU3RyaW5nKCkrIjsgcGF0aD0vIn07Yy5wcm90b3R5cGUuZ2V0X3Jl
-        bW90ZV90aW1lPWZ1bmN0aW9uKCl7dmFyIGE9bmV3IERhdGUsYj1hLmdldFRp
-        bWUoKSt0aGlzLnJlbW90ZV9vZmZzZXQ7cmV0dXJuIGE9YS5zZXRUaW1lKGIp
-        fTt3aW5kb3cua3NyX3BhZ2VfY2xvY2s9bmV3IGN9KSgpOyAoZnVuY3Rpb24o
-        KXtmdW5jdGlvbiBjKGQsYSxiKXtpZihkKXt0aGlzLm9wdGlvbnM9e3VuaXRf
-        YmFzZTp7c2Vjb25kczoxMTksbWludXRlczoxMTksaG91cnM6NzIsZGF5czow
-        fSxlbmRfcGhyYXNlOmQuZ2V0QXR0cmlidXRlKCJkYXRhLXdvcmQiKXx8InRv
-        IGdvIixjb3VudF9kb3duOmQuZ2V0QXR0cmlidXRlKCJkYXRhLWR5bmFtaWMi
-        KXx8ITF9O2ZvcihrIGluIGIpdGhpcy5vcHRpb25zW2tdPWJba107dGhpcy5j
-        bG9jaz1hO3RoaXMudGltZV91bml0cz10aGlzLmNsb2NrLnRpbWVfdW5pdHMu
-        c2xpY2UoMSk7dGhpcy5lbGVtZW50PWQ7dGhpcy5jbG9jay5pc19zZXQmJnRo
-        aXMuYXR0YWNoKCl9fWZ1bmN0aW9uIGEoKXt0aGlzLmVsZW1lbnRzPVtdO3Ro
-        aXMuYXR0YWNoKCl9dmFyIGI9ZnVuY3Rpb24oZCxhKXt2YXIgYj1hfHx3aW5k
-        b3cuZG9jdW1lbnQuYm9keSxjPWQuc3BsaXQoIi4iKSxnPWNbYy5sZW5ndGgt
-        MV0sYz0xPGMubGVuZ3RoJiZjWzBdP2NbMF06IioiO2lmKHdpbmRvdy5kb2N1
-        bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKXJldHVybiBiLmdldEVsZW1l
-        bnRzQnlDbGFzc05hbWUoZyk7IGlmKGIucXVlcnlTZWxlY3RvckFsbClyZXR1
-        cm4gYi5xdWVyeVNlbGVjdG9yQWxsKGQpO2Zvcih2YXIgYz1iLmdldEVsZW1l
-        bnRzQnlUYWdOYW1lKGMpLGg9W10saT0wLGY7Zj1jW2ldO2krKyliPVJlZ0V4
-        cCgiKF58XFxzKSIrZysiKFxcc3wkKSIpLCgiIitmLmNsYXNzTmFtZSkubWF0
-        Y2goYikmJmgucHVzaChmKTtyZXR1cm4gaH07Yy5wcm90b3R5cGUuZ2V0X3Jl
-        bWFpbmluZ190aW1lPWZ1bmN0aW9uKCl7dmFyIGQ9dGhpcy5yZW1vdGVfZW5k
-        X3RpbWUtdGhpcy5jbG9jay5nZXRfcmVtb3RlX3RpbWUoKTswPmQmJihkPTAp
-        O3JldHVybiBkfTtjLnByb3RvdHlwZS5nZXRfY3VycmVudF91bml0PWZ1bmN0
-        aW9uKCl7Zm9yKHZhciBkLGE9MDthPHRoaXMudGltZV91bml0cy5sZW5ndGgm
-        JiEoZD10aGlzLnRpbWVfdW5pdHNbYV0sdGhpcy5nZXRfcmVtYWluaW5nX3Rp
-        bWUoKTw9dGhpcy5vcHRpb25zLnVuaXRfYmFzZVtkWzBdXSpkWzFdKTthKysp
-        O3JldHVybiBkfTtjLnByb3RvdHlwZS51cGRhdGVfZWxlbWVudD0gZnVuY3Rp
-        b24oKXt2YXIgYT10aGlzLmdldF9jdXJyZW50X3VuaXQoKSxiPU1hdGguZmxv
-        b3IodGhpcy5nZXRfcmVtYWluaW5nX3RpbWUoKS9hWzFdKTtpc05hTihiKXx8
-        KHRoaXMubnVtYmVyX2VsZW1lbnQuaW5uZXJIVE1MPWIsdGhpcy50ZXh0X2Vs
-        ZW1lbnQuaW5uZXJIVE1MPXRoaXMuY2xvY2sucGx1cmFsaXplKGFbMF0sYikr
-        IiAiK3RoaXMub3B0aW9ucy5lbmRfcGhyYXNlKX07Yy5wcm90b3R5cGUudmFs
-        aWQ9ZnVuY3Rpb24oKXtyZXR1cm4hKCF0aGlzLm51bWJlcl9lbGVtZW50fHwh
-        dGhpcy50ZXh0X2VsZW1lbnQpfTtjLnByb3RvdHlwZS5hdHRhY2g9ZnVuY3Rp
-        b24oKXtmdW5jdGlvbiBhKCl7Yy51cGRhdGVfZWxlbWVudCgpO2lmKGMub3B0
-        aW9ucy5jb3VudF9kb3duJiYwPGMuZ2V0X3JlbWFpbmluZ190aW1lKCkpe3Zh
-        ciBiPWMuZ2V0X2N1cnJlbnRfdW5pdCgpO3RoaXMudGltZW91dD13aW5kb3cu
-        c2V0VGltZW91dChhLGMuY2xvY2subWlsbGlzZWNvbmRzX3RvX25leHRfaW50
-        ZXJ2YWwoYlsxXSkpfX0gdmFyIGM9dGhpcztpZih0aGlzLnJlbW90ZV9lbmRf
-        dGltZV9zdHJpbmc9dGhpcy5lbGVtZW50LmdldEF0dHJpYnV0ZSgiZGF0YS1l
-        bmRfdGltZSIpKXRoaXMucmVtb3RlX2VuZF90aW1lX3N0cmluZy5tYXRjaCgv
-        XlxkKyQvKT8odGhpcy5yZW1vdGVfZW5kX3RpbWU9bmV3IERhdGUsdGhpcy5y
-        ZW1vdGVfZW5kX3RpbWUuc2V0VGltZSh0aGlzLnJlbW90ZV9lbmRfdGltZV9z
-        dHJpbmcpKTp0aGlzLnJlbW90ZV9lbmRfdGltZT1uZXcgRGF0ZSh0aGlzLnJl
-        bW90ZV9lbmRfdGltZV9zdHJpbmcpLHRoaXMubnVtYmVyX2VsZW1lbnQ9Yigi
-        Lm51bSIsdGhpcy5lbGVtZW50KVswXSx0aGlzLnRleHRfZWxlbWVudD1iKCIu
-        dGV4dCIsdGhpcy5lbGVtZW50KVswXSx0aGlzLmVsZW1lbnQua3NyX3BhZ2Vf
-        dGltZXI9ITAsdGhpcy52YWxpZCgpJiZhKCl9O2MucHJvdG90eXBlLmNhbmNl
-        bD1mdW5jdGlvbigpe3RoaXMudGltZW91dCYmY2xlYXJUaW1lb3V0KHRoaXMu
-        dGltZW91dCl9O2EucHJvdG90eXBlLmxvYWRpbmc9ICEwO2EucHJvdG90eXBl
-        LnN0b3BfZmluZGluZz1mdW5jdGlvbigpe3RoaXMuYXR0YWNoX3RpbWVycygp
-        O3RoaXMubG9hZGluZz0hMTtkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyP2Rv
-        Y3VtZW50LnJlbW92ZUV2ZW50TGlzdGVuZXIoIkRPTUNvbnRlbnRMb2FkZWQi
-        LHRoaXMuc3RvcF9maW5kaW5nLCExKTpkb2N1bWVudC5hdHRhY2hFdmVudCYm
-        ImNvbXBsZXRlIj09PWRvY3VtZW50LnJlYWR5U3RhdGUmJmRvY3VtZW50LmRl
-        dGFjaEV2ZW50KCJvbnJlYWR5c3RhdGVjaGFuZ2UiLHRoaXMuc3RvcF9maW5k
-        aW5nKX07YS5wcm90b3R5cGUuYmluZF9yZWFkeT1mdW5jdGlvbigpe3ZhciBh
-        PXRoaXMsYj1mdW5jdGlvbigpe2Euc3RvcF9maW5kaW5nLmNhbGwoYSl9O2Rv
-        Y3VtZW50LmFkZEV2ZW50TGlzdGVuZXI/KGRvY3VtZW50LmFkZEV2ZW50TGlz
-        dGVuZXIoIkRPTUNvbnRlbnRMb2FkZWQiLGIsITEpLHdpbmRvdy5hZGRFdmVu
-        dExpc3RlbmVyKCJsb2FkIixiLCExKSk6ZG9jdW1lbnQuYXR0YWNoRXZlbnQm
-        JiAoZG9jdW1lbnQuYXR0YWNoRXZlbnQoIm9ucmVhZHlzdGF0ZWNoYW5nZSIs
-        Yiksd2luZG93LmF0dGFjaEV2ZW50KCJvbmxvYWQiLGIpKX07YS5wcm90b3R5
-        cGUuYXR0YWNoX3RpbWVycz1mdW5jdGlvbigpe2Zvcih2YXIgYT1iKCJkaXYu
-        a3NyX3BhZ2VfdGltZXIiKSxlPTA7ZTxhLmxlbmd0aDtlKyspYVtlXS5rc3Jf
-        cGFnZV90aW1lcnx8KG5ldyBjKGFbZV0sd2luZG93Lmtzcl9wYWdlX2Nsb2Nr
-        KSx0aGlzLmVsZW1lbnRzLnB1c2goYVtlXSkpfTthLnByb3RvdHlwZS5hdHRh
-        Y2g9ZnVuY3Rpb24oKXt2YXIgYT10aGlzO3RoaXMuYmluZF9yZWFkeSgpOyhm
-        dW5jdGlvbigpe2EuYXR0YWNoX3RpbWVycygpO2EubG9hZGluZyYmd2luZG93
-        LnNldFRpbWVvdXQoZnVuY3Rpb24oKXthLmF0dGFjaF90aW1lcnMoKX0sMjAw
-        KX0pKCl9O3dpbmRvdy5Qcm9qZWN0VGltZXI9YztuZXcgYX0pKCk7CiAgLy9d
-        XT4KPC9zY3JpcHQ+Cgo8c2NyaXB0IHNyYz0iaHR0cDovL2QyOTdoOWhlMjQw
-        ZnFoLmNsb3VkZnJvbnQubmV0L2NhY2hlLTFjZjU0OThhNy9hc3NldHMvYmFz
-        ZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KPHNjcmlw
-        dD4KICAvLzwhW0NEQVRBWwogICAgaWYgKHR5cGVvZihaZW5ib3gpICE9PSAi
-        dW5kZWZpbmVkIikgewogICAgICBaZW5ib3guaW5pdCh7CiAgICAgICAgZHJv
-        cGJveElEOiAiMjAwMTI3OTciLAogICAgICAgIHRhYklEOiAic3VwcG9ydCIs
-        CiAgICAgICAgaGlkZV90YWI6IHRydWUsCiAgICAgICAgdXJsOiAia2lja3N0
-        YXJ0ZXIuemVuZGVzay5jb20iCiAgICAgIH0pOwogICAgfQogIC8vXV0+Cjwv
-        c2NyaXB0PgoKCgoKCjxkaXYgaWQ9ImZiLXJvb3QiPjwvZGl2Pgo8c2NyaXB0
-        PgogIC8vPCFbQ0RBVEFbCiAgICB2YXIgY2hhbm5lbFVybCA9IHdpbmRvdy5s
-        b2NhdGlvbi5wcm90b2NvbCArICIvLyIgKyB3aW5kb3cubG9jYXRpb24uaG9z
-        dCArICIvY2hhbm5lbC5odG1sIjsKICAgIAogICAgd2luZG93LmZiQXN5bmNJ
-        bml0ID0gZnVuY3Rpb24oKSB7CiAgICAgIEZCLmluaXQoewogICAgICAgIGFw
-        cElkOiAnNjkxMDMxNTY2OTMnLAogICAgICAgIGNoYW5uZWxVcmw6IGNoYW5u
-        ZWxVcmwsCiAgICAgICAgc3RhdHVzOiB0cnVlLCAgICAvLyBjaGVjayBsb2dp
-        biBzdGF0dXMKICAgICAgICBjb29raWU6IHRydWUsICAgIC8vIGVuYWJsZSBj
-        b29raWVzIHRvIGFsbG93IHRoZSBzZXJ2ZXIgdG8gYWNjZXNzIHRoZSBzZXNz
-        aW9uCiAgICAgICAgeGZibWw6IHRydWUsICAgICAvLyBwYXJzZSBYRkJNTAog
-        ICAgICAgIGxvZ2dpbmc6IGZhbHNlICAgLy8gdHVybiBvZmYgbG9nZ2luZwog
-        ICAgICB9KTsKICAgIAogICAgICAkKGRvY3VtZW50KS50cmlnZ2VyKCdmYjps
-        b2FkZWQnKTsKICAgIAogICAgICB2YXIgbG9nb3V0X2Zyb21fZmIgPSAkKCdi
-        b2R5JykuaXMoJy5qdXN0X2xvZ2dlZF9vdXQnKSB8fCBmYWxzZTsKICAgIAog
-        ICAgICBGQi5FdmVudC5zdWJzY3JpYmUoJ2F1dGguc3RhdHVzQ2hhbmdlJywg
-        ZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICBpZiAobG9nb3V0X2Zyb21f
-        ZmIpIHsKICAgICAgICAgIEZCLmxvZ291dChmdW5jdGlvbigpIHsKICAgICAg
-        ICAgICAgbG9nb3V0X2Zyb21fZmIgPSBmYWxzZTsKICAgICAgICAgIH0pOwog
-        ICAgICAgIH0gZWxzZSBpZiAocmVzcG9uc2UuYXV0aFJlc3BvbnNlICYmIHRy
-        dWUgJiYgdHJ1ZSAmJiB0cnVlICYmICFGQi51c2luZ0J1dHRvbikgewogICAg
-        ICAgICAgJC5nZXQoImh0dHA6Ly93d3cua2lja3N0YXJ0ZXIuY29tL2ZiL2Nv
-        bm5lY3QvdmVyaWZ5P3RoZW49aHR0cCUzQSUyRiUyRnd3dy5raWNrc3RhcnRl
-        ci5jb20lMkZkaXNjb3ZlciUyRmNhdGVnb3JpZXMlMkZGb29kJTJGcG9wdWxh
-        ciUzRnBhZ2UlM0QxIiwgeydmYnNyJzogcmVzcG9uc2UuYXV0aFJlc3BvbnNl
-        LnNpZ25lZFJlcXVlc3R9LCBmdW5jdGlvbigpIHt9KTsKICAgICAgICB9CiAg
-        ICAgIH0pOwogICAgICAKICAgIH07CiAgICAKICAgIAogICAgLy8gTG9hZCB0
-        aGUgU0RLIEFzeW5jaHJvbm91c2x5CiAgICAoZnVuY3Rpb24oZCl7CiAgICAg
-        IHZhciBqcywgaWQgPSAnZmFjZWJvb2stanNzZGsnOyBpZiAoZC5nZXRFbGVt
-        ZW50QnlJZChpZCkpIHtyZXR1cm47fQogICAgICBqcyA9IGQuY3JlYXRlRWxl
-        bWVudCgnc2NyaXB0Jyk7IGpzLmlkID0gaWQ7IGpzLmFzeW5jID0gdHJ1ZTsK
-        ICAgICAganMuc3JjID0gIi8vY29ubmVjdC5mYWNlYm9vay5uZXQvZW5fVVMv
-        YWxsLmpzIjsKICAgICAgZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcp
-        WzBdLmFwcGVuZENoaWxkKGpzKTsKICAgIH0oZG9jdW1lbnQpKTsKICAvL11d
-        Pgo8L3NjcmlwdD4KCgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+
-        aWYgKCFOUkVVTVEuZikgeyBOUkVVTVEuZj1mdW5jdGlvbigpIHsKTlJFVU1R
-        LnB1c2goWyJsb2FkIixuZXcgRGF0ZSgpLmdldFRpbWUoKV0pOwp2YXIgZT1k
-        b2N1bWVudC5jcmVhdGVFbGVtZW50KCJzY3JpcHQiKTsKZS50eXBlPSJ0ZXh0
-        L2phdmFzY3JpcHQiO2UuYXN5bmM9dHJ1ZTtlLnNyYz0iaHR0cHM6Ly9kMXJv
-        czk3cWtyd2pmNS5jbG91ZGZyb250Lm5ldC80Mi9ldW0vcnVtLmpzIjsKZG9j
-        dW1lbnQuYm9keS5hcHBlbmRDaGlsZChlKTsKaWYoTlJFVU1RLmEpTlJFVU1R
-        LmEoKTsKfTsKTlJFVU1RLmE9d2luZG93Lm9ubG9hZDt3aW5kb3cub25sb2Fk
-        PU5SRVVNUS5mOwp9OwpOUkVVTVEucHVzaChbIm5yZmoiLCJiZWFjb24tMS5u
-        ZXdyZWxpYy5jb20iLCJiMDRiODgzYWQyIiwxMTA4NiwiY0Z0ZVJVVUxYMXdI
-        Rmh0YkEwZFJWMTVGRFZaRFRSUmJTQmRmVlVJPSIsMC4wLDIzNSxuZXcgRGF0
-        ZSgpLmdldFRpbWUoKSwiIiwiIiwiIiwiIiwiIl0pPC9zY3JpcHQ+PC9ib2R5
-        Pgo8L2h0bWw+Cg==
+      string: ! "<!DOCTYPE html>\n<html class=\"categories_popular no-js fontface
+        \" lang=\"en\" xml:lang=\"en\" xmlns:fb=\"http://www.facebook.com/2008/fbml\"
+        xmlns=\"http://www.w3.org/1999/xhtml\">\n<head><script type=\"text/javascript\">var
+        NREUMQ=NREUMQ||[];NREUMQ.push([\"mark\",\"firstbyte\",new Date().getTime()]);</script><title>Discover
+        Projects &raquo; Food / Popular &mdash; Kickstarter</title><!--[if lt IE 9]>\n
+        \ <script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\" type=\"text/javascript\"></script>\n<![endif]-->\n\n\n<meta
+        content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n<meta content=\"telephone=no\"
+        name=\"format-detection\">\n<link href=\"/fonts/fonts.css\" media=\"screen\"
+        rel=\"stylesheet\" type=\"text/css\">\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/compass.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<!--[if lte IE 8]>\n
+        \ <link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/stylesheets/compass/library/ie8.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!--[if
+        lte IE 7]>\n  <link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/stylesheets/compass/library/ie.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/ie_seven.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!--[if
+        IE 6]>\n  <link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/ie_six.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n\n\n<link
+        href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/views_one.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/views_two.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/views_three.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/views_four.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/favicon.png\"
+        rel=\"icon\" type=\"image/png\">\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/apple-touch-icon-precomposed.png\"
+        rel=\"apple-touch-icon-precomposed\" type=\"image/png\">\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/apple-touch-icon-ipad-precomposed.png\"
+        rel=\"apple-touch-icon-precomposed\" sizes=\"72x72\" type=\"image/png\">\n<link
+        href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/apple-touch-icon-iphone4-precomposed.png\"
+        rel=\"apple-touch-icon-precomposed\" sizes=\"114x114\" type=\"image/png\">\n\n\n<meta
+        content=\"authenticity_token\" name=\"csrf-param\" />\n<meta content=\"PGR/CDT83J+wDLE2+aHXvyriKMPBlcrYcTLMZu9da+k=\"
+        name=\"csrf-token\" />\n\n<script>\n  //<![CDATA[\n    var _sf_startpt=(new
+        Date()).getTime();\n    docElement = this.document.documentElement;\n    docElement.className=docElement.className.replace(/\\bno-js\\b/,'')
+        + 'js';\n  //]]>\n</script>\n<script>\n  //<![CDATA[\n    function timeRemaining(epochTime){\n
+        \   \n      var diff = epochTime - ((new Date()).getTime() / 1000);\n      var
+        num_unit = (diff < 60 && [Math.max(diff, 0), 'seconds']) ||\n        ((diff/=60)
+        < 60 && [diff, 'minutes']) ||\n        ((diff/=60) < 72 && [diff, 'hours'])
+        ||\n        [diff/=24, 'days'];\n    \n      // Round down\n      num_unit[0]
+        = Math.floor(num_unit[0]);\n      // Singularize unit\n      if (num_unit[0]
+        == 1) { num_unit[1] = num_unit[1].replace(/s$/,\"\"); }\n    \n      return
+        num_unit;\n    };\n  //]]>\n</script>\n</head>\n\n<body class=\"discover categories\"
+        id=\"categories_list\">\n<div class=\"jGrowl center\" id=\"growl_section\"></div>\n<div
+        id=\"learn-more-wrap\">\n<div class=\"container\" id=\"learn-more\">\n<p>\n<span
+        class=\"icon-whaaat\"></span>\n<strong>What is Kickstarter?</strong>\nWe’re
+        the world's largest funding platform for creative projects.\n<a href=\"/learn-more\"
+        class=\"remote_modal_dialog learn-more link_to_learn-more-dialog\">Learn more!</a>\n</p>\n</div>\n</div>\n<div
+        id=\"header-wrap\">\n<div class=\"container\" id=\"header\">\n<h1 id=\"logo\"><a
+        href=\"/\"><span>Kickstarter</span></a></h1>\n<ul id=\"menu-main\">\n<li class=\"selected\"
+        id=\"menu-main-discover\"><a href=\"/discover\"><strong>Discover</strong>
+        <span>great projects</span></a></li>\n<li id=\"menu-main-fund\"><a href=\"/start\"><strong>Start</strong>
+        <span>your project</span></a></li>\n</ul>\n<form accept-charset=\"UTF-8\"
+        action=\"/projects/search\" class=\"search overlabels\" method=\"get\"><div
+        style=\"margin:0;padding:0;display:inline\"><input class=\"hidden\" name=\"utf8\"
+        type=\"hidden\" value=\"&#x2713;\" /></div>\n<div class=\"field search\">\n<span
+        class=\"icon-search\"></span>\n<span class=\"icon-search-clear\"></span>\n<label
+        class=\"overlabel overlabel-search\">Search projects</label>\n<input class=\"input-search
+        header text\" data-tracker-name=\"Header Live Search\" id=\"term\" name=\"term\"
+        type=\"text\" />\n<span class=\"icon-search-nipple\"></span>\n</div>\n</form>\n\n<ul
+        id=\"menu-sub\">\n<li id=\"menu-sub-blog\"><a href=\"/blog\">Blog</a></li>\n<li
+        id=\"menu-sub-help\"><a href=\"/help\">Help</a></li>\n<li><a href=\"https://www.kickstarter.com/signup\">Sign
+        up</a></li>\n<li><a href=\"https://www.kickstarter.com/login\">Log in</a></li>\n</ul>\n</div>\n</div>\n<div
+        id=\"search_results-wrap\">\n<div id=\"search_results-shadow\">\n<div id=\"search_results-inner_wrap\">\n<div
+        class=\"container\" id=\"search_results\">\n<a class=\"close\"><span class=\"icon-x\"></span></a>\n<h2
+        class=\"header\"></h2>\n<div id=\"search_results_panel\"></div>\n<p class=\"footer\"></p>\n<a
+        class=\"prev arrow\">\n<span class=\"icon-search-left\"></span>\n<strong>Previous</strong>\n</a>\n<a
+        class=\"next arrow\">\n<span class=\"icon-search-right\"></span>\n<strong>Next</strong>\n</a>\n</div>\n</div>\n</div>\n</div>\n\n\n\n<div
+        id=\"running-board-wrap\">\n<div class=\"container\" id=\"running-board\">\n<div
+        id=\"discover-header\">\n<h1>\n<a href=\"/discover\">Discover</a>\n<span class=\"divider\">/</span>\n<a
+        href=\"/discover/categories/food\">Food</a>\n<span class=\"divider\">/</span>\nPopular\n</h1>\n\n</div>\n</div>\n<!--
+        #running-board -->\n</div>\n<!-- #running-board-wrap -->\n<div id=\"content-wrap\">\n<div
+        class=\"container\" id=\"content\">\n<div id=\"main\">\n<div class=\"mobius_page\">\n<div
+        class=\"missing\" style=\"display: none\">\n<div class=\"load_more\">\n<a
+        href=\"#\" class=\"load_more button\">Load More</a>\n</div>\n</div>\n<ul class=\"mobius\">\n<li
+        class=\"page\" data-last_page=\"false\" data-page_number=\"1\">\n<ul class=\"project-card-list\">\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1741354615/honey-badger-bbq-sauce-0?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/262145/photo-little.jpg?1343180067\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1741354615/honey-badger-bbq-sauce-0?ref=category\"
+        target=\"\">Honey Badger BBQ Sauce</a>\n</strong>\n<span>\nby\nPaul, Chris
+        and Leigh\n</span>\n</h2>\n<p>Habanero hot with a touch of honey, light up
+        your grills kids!</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/san-francisco-ca?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>San
+        Francisco, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 94.17%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>94%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$37,669</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-31T07:15:31Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/936714779/san-diego-public-market-its-time?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/261565/photo-little.jpg?1343764814\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/936714779/san-diego-public-market-its-time?ref=category\"
+        target=\"\">San Diego Public Market: It&#x27;s Time!</a>\n</strong>\n<span>\nby\nCatt
+        White &amp; Dale Steele\n</span>\n</h2>\n<p>We're creating the world's best
+        new public market right here in San Diego and filling it with farmers, chefs,
+        art and food.</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/san-diego-ca?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>San
+        Diego, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>140%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$129,712</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-24T17:41:49Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/bravadospice/bravado-spice-artisan-hot-sauces?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/249423/photo-little.jpg?1342401374\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/bravadospice/bravado-spice-artisan-hot-sauces?ref=category\"
+        target=\"\">Bravado Spice: Artisan hot sauces!</a>\n</strong>\n<span>\nby\nBravado
+        Spice\n</span>\n</h2>\n<p>We handcraft products that are all natural, preservative
+        free, vegan friendly and focused on delivering intense flavors.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/houston-tx?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Houston, TX</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>240%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$16,818</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-26T19:20:14Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1126415278/help-launch-ray-rays-rub?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/254231/photo-little.jpg?1344888760\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1126415278/help-launch-ray-rays-rub?ref=category\"
+        target=\"\">Help launch Ray Ray&#x27;s Rub!</a>\n</strong>\n<span>\nby\nRay
+        Walters\n</span>\n</h2>\n<p>Ray Ray's Rub is the best way to make your meat
+        the most mouth-watering meal you've ever eaten, help us bottle it for the
+        masses!</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/warrensburg-mo?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Warrensburg,
+        MO</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\" style=\"display:
+        none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 35.58%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>35%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$3,558</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-20T23:17:56Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1620713666/the-lynn-on-bryant-a-neighborhood-cafe-and-bistro?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/276989/photo-little.jpg?1345057668\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1620713666/the-lynn-on-bryant-a-neighborhood-cafe-and-bistro?ref=category\"
+        target=\"\">The Lynn on Bryant - a neighborhood cafe and bistro</a>\n</strong>\n<span>\nby\nJay
+        Peterson and Peter Ireland\n</span>\n</h2>\n<p>A chef and a bookhound -  bringing
+        families, friends and neighbors together for a delicious meal.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/minneapolis-mn?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Minneapolis, MN</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 60.16%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>60%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$15,040</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-09T22:44:34Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/564884640/prohibition-bakery-cake-alcohol-please-eat-respons?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/283270/photo-little.jpg?1345564883\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/564884640/prohibition-bakery-cake-alcohol-please-eat-respons?ref=category\"
+        target=\"\">Prohibition Bakery, cake+alcohol. Please eat responsibly.</a>\n</strong>\n<span>\nby\nProhibition
+        Bakery\n</span>\n</h2>\n<p>Cupcakes and alcohol.  What could be better? Help
+        us open our doors...and keep them open!</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/new-york-ny?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>New York, NY</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 42.69%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>42%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$3,757</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-15T12:19:58Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1313881177/blue-owl-vines-organic-hot-sauce?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/256051/photo-little.jpg?1342204676\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1313881177/blue-owl-vines-organic-hot-sauce?ref=category\"
+        target=\"\">Blue Owl Vines - Organic Hot Sauce</a>\n</strong>\n<span>\nby\nSteve
+        Kyles\n</span>\n</h2>\n<p>100% Organic Hot Sauce that will add both amazing
+        flavor and powerful kick to just about any dish imaginable.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/santa-rosa-ca?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Santa Rosa, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>1,750%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$8,753</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-15T00:33:45Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1199028464/baltimore-food-co-op-store-expansion?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/226058/photo-little.jpg?1340897919\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1199028464/baltimore-food-co-op-store-expansion?ref=category\"
+        target=\"\">Baltimore Food Co-op Store Expansion</a>\n</strong>\n<span>\nby\nMary
+        Cox\n</span>\n</h2>\n<p>The Baltimore Food Co-op is growing - we're raising
+        funds to install a wall o'freezers to stock local ice cream, meats and more!</p>\n<ul
+        class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/baltimore-md?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Baltimore,
+        MD</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\" style=\"display:
+        none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 21.11%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>21%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$2,110</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-19T21:00:00Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/yemanja/yemanja-caribbean-restaurant-bar-and-hostel?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/263421/photo-little.jpg?1344355301\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/yemanja/yemanja-caribbean-restaurant-bar-and-hostel?ref=category\"
+        target=\"\">Yemanja Caribbean Restaurant, Bar, and Hostel</a>\n</strong>\n<span>\nby\nYemanja
+        Caribe\n</span>\n</h2>\n<p>Come celebrate the Caribbean at a unique tropical
+        getaway in Panama, opening by the end of this year!</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/bocas-del-toro-pan?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Bocas Del Toro, Panama</span></a>\n</li>\n</ul>\n<div
+        class=\"project-pledged-successful\" style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div
+        class=\"project-pledged-wrap\">\n<div class=\"project-pledged\" style=\"width:
+        30.95%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li class=\"first funded\">\n<strong>30%</strong>\nfunded\n</li>\n<li
+        class=\"pledged\">\n<strong>$4,643</strong>\npledged\n</li>\n<li class=\"last
+        successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div class=\"deadline\">\n</div>\n</li>\n<li
+        class=\"last ksr_page_timer\" data-end_time=\"2012-09-21T16:29:37Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1439051353/defcon-yum-the-first-one-a-day-gourmet-internet-ba-0?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/289914/photo-little.jpg?1344869453\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1439051353/defcon-yum-the-first-one-a-day-gourmet-internet-ba-0?ref=category\"
+        target=\"\">Defcon YUM! - The first one-a-day gourmet internet bakery</a>\n</strong>\n<span>\nby\nNicole
+        Stanton\n</span>\n</h2>\n<p>Defcon YUM! is a one a day gourmet internet bakery.
+        Every day we offer one new item. We bake it fresh and ship it priority to
+        you!</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/wappingers-falls-ny?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Wappingers
+        Falls, NY</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 68.01%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>68%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$6,801</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-10T00:00:00Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/821727719/five-by-five-tonics-herbalist-inspired-cocktail-bi?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/250679/photo-little.jpg?1344879087\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/821727719/five-by-five-tonics-herbalist-inspired-cocktail-bi?ref=category\"
+        target=\"\">Five by Five Tonics: Herbalist Inspired Cocktail Bitters</a>\n</strong>\n<span>\nby\nJesse
+        Smith\n</span>\n</h2>\n<p>Craft cocktail bitters inspired by ancient herbology
+        created in small batches entirely by hand in Chico, CA.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/chico-ca?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Chico, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>113%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$3,965</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-15T21:34:05Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1906123150/kimcheelicious-puts-a-korean-pickle-on-the-america?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/139664/photo-little.jpg?1341604108\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1906123150/kimcheelicious-puts-a-korean-pickle-on-the-america?ref=category\"
+        target=\"\">Kimcheelicious puts a Korean pickle on the American table</a>\n</strong>\n<span>\nby\nAntonio
+        Limuaco\n</span>\n</h2>\n<p>Exploring innovative ways of combining Korean
+        kimchi and other fermented foods with the way Americans cook and eat</p>\n<ul
+        class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/brooklyn-ny?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Brooklyn,
+        NY</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\" style=\"display:
+        none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 88.41%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>88%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$6,189</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-29T03:49:38Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/vincentkit/dang-coconut-chips?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/293345/photo-little.jpg?1344833371\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/vincentkit/dang-coconut-chips?ref=category\"
+        target=\"\">Dang Coconut Chips</a>\n</strong>\n<span>\nby\nVincentKit\n</span>\n</h2>\n<p>Our
+        toasted coconut chips are a healthy snack and versatile topping. Dang, that's
+        good!</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/san-francisco-ca?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>San
+        Francisco, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 42.52%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>42%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$3,401</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-14T00:15:39Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1731827420/toxic-profits?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/240805/photo-little.jpg?1341259952\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1731827420/toxic-profits?ref=category\"
+        target=\"\">Toxic Profits</a>\n</strong>\n<span>\nby\nToxic Profits\n</span>\n</h2>\n<p>A
+        documentary film exploring the use of toxic pesticides in modern agriculture
+        and the people most affected by this practice.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/san-francisco-ca?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>San Francisco, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>109%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$21,412</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-24T17:15:57Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/2099558090/stephan-is-almost-set-to-launch-mothership-restaur?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/155126/photo-little.jpg?1342738998\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/2099558090/stephan-is-almost-set-to-launch-mothership-restaur?ref=category\"
+        target=\"\">Stephan is almost set to launch Mothership Restaurant</a>\n</strong>\n<span>\nby\nStephan
+        Boillon\n</span>\n</h2>\n<p>Mothership - a neighborhood restaurant, bakery
+        &amp; food truck pad on Georgia Ave. DC, from the Chef that brought you El
+        Floridano</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/washington-dc?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Washington,
+        DC</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\" style=\"display:
+        none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>109%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$32,766</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-24T18:34:20Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n</ul>\n\n</li>\n</ul>\n<div
+        class=\"load_more\">\n<div class=\"loading\">\n<img alt=\"Loading-small\"
+        src=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/images/compass/loading-small.gif\"
+        />\n<div class=\"copy\">Please Wait</div>\n<div class=\"clear\"></div>\n</div>\n</div>\n<div
+        class=\"mini_footer\"><div class=\"no-mega\" id=\"footer-wrap\">\n<div class=\"container\"
+        id=\"footer\">\n<div id=\"etc\">\n<ul>\n<li><a href=\"/blog\">Blog</a></li>\n<li><a
+        href=\"/help?ref=footer\">Help</a></li>\n<li><a href=\"/help/guidelines?ref=footer\">Guidelines</a></li>\n<li><a
+        href=\"/help/stats?ref=footer\">Stats</a></li>\n<li><a href=\"/terms-of-use?ref=footer\">Terms
+        of Use</a></li>\n<li><a href=\"/privacy?ref=footer\">Privacy Policy</a></li>\n<li><a
+        href=\"http://kickstarter.zendesk.com/home\" id=\"\" onclick=\"Zenbox.render();
+        return false;\">Contact</a></li>\n<li><a href=\"/team?ref=footer\">Team</a></li>\n<li
+        class=\"last\"><a href=\"/jobs?ref=footer\">Jobs</a></li>\n</ul>\n</div>\n<div
+        id=\"legal\">\n&copy;\n2012\nKickstarter, Inc.\n</div>\n</div>\n</div>\n</div>\n<div
+        class=\"pagination\"><span class=\"previous_page disabled\">Prev</span> <em
+        class=\"current\">1</em> <a rel=\"next\" href=\"/discover/categories/Food/popular?page=2\">2</a>
+        <a href=\"/discover/categories/Food/popular?page=3\">3</a> <a href=\"/discover/categories/Food/popular?page=4\">4</a>
+        <a href=\"/discover/categories/Food/popular?page=5\">5</a> <a href=\"/discover/categories/Food/popular?page=6\">6</a>
+        <a href=\"/discover/categories/Food/popular?page=7\">7</a> <a href=\"/discover/categories/Food/popular?page=8\">8</a>
+        <a href=\"/discover/categories/Food/popular?page=9\">9</a> <a href=\"/discover/categories/Food/popular?page=10\">10</a>
+        <a href=\"/discover/categories/Food/popular?page=11\">11</a> <a href=\"/discover/categories/Food/popular?page=12\">12</a>
+        <a class=\"next_page\" rel=\"next\" href=\"/discover/categories/Food/popular?page=2\">Next</a></div>\n</div>\n\n<hr
+        class=\"space\">\n</div>\n<!-- #main -->\n<div id=\"sidebar-wrap\">\n<div
+        id=\"sidebar\">\n<h3><span class='icon-star-dark'></span>Featured</h3>\n<ul
+        class=\"navigation\">\n<li><a href=\"/discover/recommended?ref=sidebar\">Staff
+        Picks</a></li>\n<li><a href=\"/discover/popular?ref=sidebar\">Popular</a></li>\n<li><a
+        href=\"/discover/recently-launched?ref=sidebar\">Recently Launched</a></li>\n<li><a
+        href=\"/discover/ending-soon?ref=sidebar\">Ending Soon</a></li>\n<li><a href=\"/discover/small-projects?ref=sidebar\">Small
+        Projects</a></li>\n<li><a href=\"/discover/most-funded?ref=sidebar\">Most
+        Funded</a></li>\n<li><a href=\"/discover/curated-pages?ref=sidebar\">Curated
+        Pages</a></li>\n</ul>\n<h3><span class='icon-category-dark'></span>Categories</h3>\n<ul
+        class=\"navigation\">\n<li>\n<a href=\"/discover/categories/art?ref=sidebar\">Art</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/comics?ref=sidebar\">Comics</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/dance?ref=sidebar\">Dance</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/design?ref=sidebar\">Design</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/fashion?ref=sidebar\">Fashion</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/film%20&amp;%20video?ref=sidebar\">Film &amp;
+        Video</a>\n</li>\n<li>\n<a href=\"/discover/categories/food?ref=sidebar\">Food</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/games?ref=sidebar\">Games</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/music?ref=sidebar\">Music</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/photography?ref=sidebar\">Photography</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/publishing?ref=sidebar\">Publishing</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/technology?ref=sidebar\">Technology</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/theater?ref=sidebar\">Theater</a>\n</li>\n</ul>\n<h3><span
+        class='icon-location-dark'></span>Cities</h3>\n<ul class=\"navigation\">\n<li><a
+        href=\"/discover/cities/new-york-ny?ref=sidebar\">New York</a></li>\n<li><a
+        href=\"/discover/cities/los-angeles-ca?ref=sidebar\">Los Angeles</a></li>\n<li><a
+        href=\"/discover/cities/brooklyn-ny?ref=sidebar\">Brooklyn</a></li>\n<li><a
+        href=\"/discover/cities/chicago-il?ref=sidebar\">Chicago</a></li>\n<li><a
+        href=\"/discover/cities/san-francisco-ca?ref=sidebar\">San Francisco</a></li>\n<li><a
+        href=\"/discover/cities/portland-or?ref=sidebar\">Portland</a></li>\n<li><a
+        href=\"/discover/cities/seattle-wa?ref=sidebar\">Seattle</a></li>\n<li><a
+        href=\"/discover/cities/austin-tx?ref=sidebar\">Austin</a></li>\n<li><a href=\"/discover/cities/boston-ma?ref=sidebar\">Boston</a></li>\n<li><a
+        href=\"/discover/cities/nashville-tn?ref=sidebar\">Nashville</a></li>\n</ul>\n<div
+        id=\"location-search\">\n<form accept-charset=\"UTF-8\" action=\"/locations\"
+        class=\"overlabels\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input
+        class=\"hidden\" name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input
+        class=\"hidden\" name=\"authenticity_token\" type=\"hidden\" value=\"PGR/CDT83J+wDLE2+aHXvyriKMPBlcrYcTLMZu9da+k=\"
+        /></div>\n<div class=\"field search\">\n<span class=\"icon-search\"></span>\n<span
+        class=\"icon-search-clear\"></span>\n<label class=\"overlabel overlabel-search\">Search
+        cities</label>\n<input autocomplete=\"off\" class=\"input-search input-text
+        text\" data-tracker-name=\"Location Live Search\" id=\"q\" name=\"q\" type=\"text\"
+        />\n<div class=\"results\">\n<span class=\"icon-dropdown-pointer\"></span>\n</div>\n</div>\n</form>\n\n</div>\n\n</div>\n</div>\n<!--
+        #sidebar -->\n</div>\n<!-- #content -->\n</div>\n<!-- #content-wrap -->\n\n\n<div
+        id=\"mega-footer-wrap\">\n<div id=\"mega-footer-shadow\">\n<div class=\"container\"
+        id=\"mega-footer\">\n<div id=\"mega-discover\">\n<h5>Browse Categories</h5>\n<ul
+        class=\"list-footer-categories list-0\">\n<li><a href=\"/discover/categories/art?ref=footer\">Art</a></li>\n<li><a
+        href=\"/discover/categories/comics?ref=footer\">Comics</a></li>\n<li><a href=\"/discover/categories/dance?ref=footer\">Dance</a></li>\n<li><a
+        href=\"/discover/categories/design?ref=footer\">Design</a></li>\n<li><a href=\"/discover/categories/fashion?ref=footer\">Fashion</a></li>\n<li><a
+        href=\"/discover/categories/film%20&amp;%20video?ref=footer\">Film &amp; Video</a></li>\n<li><a
+        href=\"/discover/categories/food?ref=footer\">Food</a></li>\n</ul>\n<ul class=\"list-footer-categories
+        list-1\">\n<li><a href=\"/discover/categories/games?ref=footer\">Games</a></li>\n<li><a
+        href=\"/discover/categories/music?ref=footer\">Music</a></li>\n<li><a href=\"/discover/categories/photography?ref=footer\">Photography</a></li>\n<li><a
+        href=\"/discover/categories/publishing?ref=footer\">Publishing</a></li>\n<li><a
+        href=\"/discover/categories/technology?ref=footer\">Technology</a></li>\n<li><a
+        href=\"/discover/categories/theater?ref=footer\">Theater</a></li>\n</ul>\n</div>\n<div
+        id=\"mega-join-like\">\n<form accept-charset=\"UTF-8\" action=\"/newsletters/signup\"
+        class=\"overlabels\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input
+        class=\"hidden\" name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input
+        class=\"hidden\" name=\"authenticity_token\" type=\"hidden\" value=\"PGR/CDT83J+wDLE2+aHXvyriKMPBlcrYcTLMZu9da+k=\"
+        /></div>\n<h5>Kickstarter's weekly newsletter</h5>\n<p>Get awesome projects
+        delivered to your inbox each week.</p>\n<textarea class=\"hide textarea\"
+        id=\"comment\" name=\"comment\">\n</textarea>\n<div class=\"field newsletter\">\n<label
+        class=\"overlabel overlabel-newsletter\">Your email address...</label>\n<input
+        class=\"text\" id=\"email\" name=\"email\" type=\"text\" />\n</div>\n<input
+        class=\"button-positive submit\" name=\"commit\" type=\"submit\" value=\"Join
+        newsletter\" />\n</form>\n\n<h5>Kickstarter on Facebook</h5>\n<fb:like href=\"http://facebook.com/kickstarter\"
+        show_faces=\"true\" width=\"330\"></fb:like>\n</div>\n<div id=\"mega-connect\">\n<h5>Connect
+        with Kickstarter</h5>\n<ul id=\"list-footer-connect\">\n<li><a href=\"http://twitter.com/kickstarter\"
+        id=\"footer-twitter\"><span class='icon-footer-twitter'></span>Follow on Twitter</a></li>\n<li><a
+        href=\"/blog\" id=\"footer-blog\"><span class='icon-footer-blog'></span>Read
+        our blog</a></li>\n<li><a href=\"/team?ref=footer\" id=\"footer-team\"><span
+        class='icon-footer-team'></span>Meet the team</a></li>\n<li><a href=\"/jobs?ref=footer\"
+        id=\"footer-jobs\"><span class='icon-footer-jobs'></span>Work with us</a></li>\n</ul>\n<span
+        class=\"scissors icon-scissors-1\"></span>\n</div>\n</div>\n</div>\n</div>\n<div
+        id=\"footer-wrap\">\n<div class=\"container\" id=\"footer\">\n<div id=\"etc\">\n<ul>\n<li><a
+        href=\"/help?ref=footer\">Help</a></li>\n<li><a href=\"/help/guidelines?ref=footer\">Guidelines</a></li>\n<li><a
+        href=\"/help/stats?ref=footer\">Stats</a></li>\n<li><a href=\"/terms-of-use?ref=footer\">Terms
+        of Use</a></li>\n<li><a href=\"/privacy?ref=footer\">Privacy Policy</a></li>\n<li
+        class=\"last\"><a href=\"http://kickstarter.zendesk.com/home\" id=\"\" onclick=\"Zenbox.render();
+        return false;\">Contact</a></li>\n</ul>\n</div>\n<div id=\"legal\">\n&copy;\n2012\nKickstarter,
+        Inc.\n</div>\n</div>\n</div>\n\n<script>\n  //<![CDATA[\n    var gaJsHost
+        = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\");\n
+        \   document.write(unescape(\"%3Cscript src='\" + gaJsHost + \"google-analytics.com/ga.js'
+        type='text/javascript'%3E%3C/script%3E\"));\n    var analytics_vars = { google_analytics_id
+        : \"UA-7621056-1\", logged_in : \"false\", verifying_backing : \"false\",
+        social_user: \"false\" }\n  //]]>\n</script>\n\n\n<script>\n  //<![CDATA[\n
+        \   window.mixpanel_id = '75b1d24a516ecfc955eadfadc4910661';\n    window.mixpanel_debug
+        = false;\n  //]]>\n</script>\n\n\n<script>\n  //<![CDATA[\n    _qoptions={qacct:\"p-34IbSpw2K94Sg\"};\n
+        \ //]]>\n</script>\n<script src=\"http://edge.quantserve.com/quant.js\" type=\"text/javascript\"></script>\n<noscript><img
+        alt=\"Quantcast\" border=\"0\" height=\"1\" src=\"http://pixel.quantserve.com/pixel/p-34IbSpw2K94Sg.gif\"
+        style=\"display:none\" width=\"1\" /></noscript>\n\n<script>\n  //<![CDATA[\n
+        \   var _sf_async_config={uid:5536,domain:\"kickstarter.com\"};\n    (function(){\n
+        \     function loadChartbeat() {\n        window._sf_endpt=(new Date()).getTime();\n
+        \       var e = document.createElement('script');\n        e.setAttribute('language',
+        'javascript');\n        e.setAttribute('type', 'text/javascript');\n        e.setAttribute('src',\n
+        \          ((\"https:\" == document.location.protocol) ? \"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/\"
+        : \"http://static.chartbeat.com/\") +\n           \"js/chartbeat.js\");\n
+        \       document.body.appendChild(e);\n      }\n      var oldonload = window.onload;\n
+        \     window.onload = (typeof window.onload != 'function') ?\n         loadChartbeat
+        : function() { oldonload(); loadChartbeat(); };\n    })();\n  //]]>\n</script>\n\n\n<script
+        src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js\" type=\"text/javascript\"></script>\n<script>\n
+        \ //<![CDATA[\n    (function(){function c(a){this.local_start_time=new Date;this.settings={cookie_name:\"request_time\"};for(var
+        b in a)this.settings[b]=a[b];this.get_remote_offset()}c.prototype.get_remote_offset=function(){this.cookie_value=this.read_cookie();var
+        a=new Date(this.cookie_value);if(!this.cookie_value||\"Invalid Date\"===a.toString()){if(this.remote_offset=this.read_cookie(\"local_offset\"))this.remote_offset=parseInt(this.remote_offset,10)}else
+        this.remote_offset=a-this.local_start_time;\"undefined\"!==typeof this.remote_offset&&
+        !isNaN(this.remote_offset)?(document.cookie=\"local_offset=\"+this.remote_offset+\";
+        path=/\",this.is_set=!0):this.is_set=!1};c.prototype.time_units=[[\"milliseconds\",1],[\"seconds\",1E3],[\"minutes\",6E4],[\"hours\",36E5],[\"days\",864E5]];c.prototype.get_units_in_interval=function(a,b){var
+        d=a.replace(/^\\w/,function(d){return\"get\"+d.toUpperCase()});return b[d]()};c.prototype.milliseconds_in_day=function(a){\"undefined\"===typeof
+        a&&(a=new Date);for(var b=0,d=this.time_units.length-2;0<=d;d--)b+=this.get_units_in_interval(this.time_units[d][0],
+        a)*this.time_units[d][1];return b};c.prototype.milliseconds_in_interval=function(a,b){return
+        this.milliseconds_in_day(b)%a};c.prototype.milliseconds_to_next_interval=function(a,b){return
+        a-this.milliseconds_in_interval(a,b)};c.prototype.pluralize=function(a,b){1===b&&(a=a.replace(/s$/,\"\"));return
+        a};c.prototype.read_cookie=function(a){for(var b=window.document.cookie.split(\";\"),a=(a||this.settings.cookie_name)+\"=\",d=0;d<b.length;d++){for(var
+        e=b[d];\" \"==e.charAt(0);)e=e.substring(1,e.length);if(0== e.indexOf(a))return
+        b=e.substring(a.length,e.length),decodeURIComponent(b).replace(/\\+/g,\" \")}return
+        null};c.prototype.destroy_cookie=function(a){var b=new Date;a||(a=this.settings.cookie_name);b.setTime(b.getTime()-864E5);window.document.cookie=a+\"=;
+        expires=\"+b.toGMTString()+\"; path=/\"};c.prototype.get_remote_time=function(){var
+        a=new Date,b=a.getTime()+this.remote_offset;return a=a.setTime(b)};window.ksr_page_clock=new
+        c})(); (function(){function c(d,a,b){if(d){this.options={unit_base:{seconds:119,minutes:119,hours:72,days:0},end_phrase:d.getAttribute(\"data-word\")||\"to
+        go\",count_down:d.getAttribute(\"data-dynamic\")||!1};for(k in b)this.options[k]=b[k];this.clock=a;this.time_units=this.clock.time_units.slice(1);this.element=d;this.clock.is_set&&this.attach()}}function
+        a(){this.elements=[];this.attach()}var b=function(d,a){var b=a||window.document.body,c=d.split(\".\"),g=c[c.length-1],c=1<c.length&&c[0]?c[0]:\"*\";if(window.document.getElementsByClassName)return
+        b.getElementsByClassName(g); if(b.querySelectorAll)return b.querySelectorAll(d);for(var
+        c=b.getElementsByTagName(c),h=[],i=0,f;f=c[i];i++)b=RegExp(\"(^|\\\\s)\"+g+\"(\\\\s|$)\"),(\"\"+f.className).match(b)&&h.push(f);return
+        h};c.prototype.get_remaining_time=function(){var d=this.remote_end_time-this.clock.get_remote_time();0>d&&(d=0);return
+        d};c.prototype.get_current_unit=function(){for(var d,a=0;a<this.time_units.length&&!(d=this.time_units[a],this.get_remaining_time()<=this.options.unit_base[d[0]]*d[1]);a++);return
+        d};c.prototype.update_element= function(){var a=this.get_current_unit(),b=Math.floor(this.get_remaining_time()/a[1]);isNaN(b)||(this.number_element.innerHTML=b,this.text_element.innerHTML=this.clock.pluralize(a[0],b)+\"
+        \"+this.options.end_phrase)};c.prototype.valid=function(){return!(!this.number_element||!this.text_element)};c.prototype.attach=function(){function
+        a(){c.update_element();if(c.options.count_down&&0<c.get_remaining_time()){var
+        b=c.get_current_unit();this.timeout=window.setTimeout(a,c.clock.milliseconds_to_next_interval(b[1]))}}
+        var c=this;if(this.remote_end_time_string=this.element.getAttribute(\"data-end_time\"))this.remote_end_time_string.match(/^\\d+$/)?(this.remote_end_time=new
+        Date,this.remote_end_time.setTime(this.remote_end_time_string)):this.remote_end_time=new
+        Date(this.remote_end_time_string),this.number_element=b(\".num\",this.element)[0],this.text_element=b(\".text\",this.element)[0],this.element.ksr_page_timer=!0,this.valid()&&a()};c.prototype.cancel=function(){this.timeout&&clearTimeout(this.timeout)};a.prototype.loading=
+        !0;a.prototype.stop_finding=function(){this.attach_timers();this.loading=!1;document.addEventListener?document.removeEventListener(\"DOMContentLoaded\",this.stop_finding,!1):document.attachEvent&&\"complete\"===document.readyState&&document.detachEvent(\"onreadystatechange\",this.stop_finding)};a.prototype.bind_ready=function(){var
+        a=this,b=function(){a.stop_finding.call(a)};document.addEventListener?(document.addEventListener(\"DOMContentLoaded\",b,!1),window.addEventListener(\"load\",b,!1)):document.attachEvent&&
+        (document.attachEvent(\"onreadystatechange\",b),window.attachEvent(\"onload\",b))};a.prototype.attach_timers=function(){for(var
+        a=b(\"div.ksr_page_timer\"),e=0;e<a.length;e++)a[e].ksr_page_timer||(new c(a[e],window.ksr_page_clock),this.elements.push(a[e]))};a.prototype.attach=function(){var
+        a=this;this.bind_ready();(function(){a.attach_timers();a.loading&&window.setTimeout(function(){a.attach_timers()},200)})()};window.ProjectTimer=c;new
+        a})();\n  //]]>\n</script>\n\n<script src=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/base.js\"
+        type=\"text/javascript\"></script>\n<script>\n  //<![CDATA[\n    if (typeof(Zenbox)
+        !== \"undefined\") {\n      Zenbox.init({\n        dropboxID: \"20012797\",\n
+        \       tabID: \"support\",\n        hide_tab: true,\n        url: \"kickstarter.zendesk.com\"\n
+        \     });\n    }\n  //]]>\n</script>\n\n\n\n\n\n<div id=\"fb-root\"></div>\n<script>\n
+        \ //<![CDATA[\n    var channelUrl = window.location.protocol + \"//\" + window.location.host
+        + \"/channel.html\";\n    \n    window.fbAsyncInit = function() {\n      FB.init({\n
+        \       appId: '69103156693',\n        channelUrl: channelUrl,\n        status:
+        true,    // check login status\n        cookie: true,    // enable cookies
+        to allow the server to access the session\n        xfbml: true,     // parse
+        XFBML\n        logging: false   // turn off logging\n      });\n    \n      $(document).trigger('fb:loaded');\n
+        \   \n      var logout_from_fb = $('body').is('.just_logged_out') || false;\n
+        \   \n      FB.Event.subscribe('auth.statusChange', function(response) {\n
+        \       if (logout_from_fb) {\n          FB.logout(function() {\n            logout_from_fb
+        = false;\n          });\n        } else if (response.authResponse && true
+        && true && true && !FB.usingButton) {\n          $.get(\"http://www.kickstarter.com/fb/connect/verify?then=http%3A%2F%2Fwww.kickstarter.com%2Fdiscover%2Fcategories%2FFood%2Fpopular%3Fpage%3D1\",
+        {'fbsr': response.authResponse.signedRequest}, function() {});\n        }\n
+        \     });\n      \n    };\n    \n    \n    // Load the SDK Asynchronously\n
+        \   (function(d){\n      var js, id = 'facebook-jssdk'; if (d.getElementById(id))
+        {return;}\n      js = d.createElement('script'); js.id = id; js.async = true;\n
+        \     js.src = \"//connect.facebook.net/en_US/all.js\";\n      d.getElementsByTagName('head')[0].appendChild(js);\n
+        \   }(document));\n  //]]>\n</script>\n\n\n<script type=\"text/javascript\">if
+        (!NREUMQ.f) { NREUMQ.f=function() {\nNREUMQ.push([\"load\",new Date().getTime()]);\nvar
+        e=document.createElement(\"script\");\ne.type=\"text/javascript\";e.async=true;e.src=\"https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js\";\ndocument.body.appendChild(e);\nif(NREUMQ.a)NREUMQ.a();\n};\nNREUMQ.a=window.onload;window.onload=NREUMQ.f;\n};\nNREUMQ.push([\"nrfj\",\"beacon-1.newrelic.com\",\"b04b883ad2\",11086,\"cFteRUULX1wHFhtbA0dRV15FDVZDTRRbSBdfVUI=\",0.0,235,new
+        Date().getTime(),\"\",\"\",\"\",\"\",\"\"])</script></body>\n</html>\n"
     http_version: 
   recorded_at: Fri, 24 Aug 2012 03:59:08 GMT
+- request:
+    method: get
+    uri: http://kickstarter.com/discover/categories/Food/popular?page=1
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Server:
+      - nginx/1.0.11
+      Date:
+      - Fri, 24 Aug 2012 04:39:10 GMT
+      Content-Type:
+      - text/html
+      Content-Length:
+      - '185'
+      Connection:
+      - keep-alive
+      Location:
+      - http://www.kickstarter.com/discover/categories/Food/popular?page=1
+    body:
+      encoding: US-ASCII
+      string: ! "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body
+        bgcolor=\"white\">\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx/1.0.11</center>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Fri, 24 Aug 2012 04:39:08 GMT
+- request:
+    method: get
+    uri: http://www.kickstarter.com/discover/categories/Food/popular?page=1
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx/1.0.11
+      Date:
+      - Fri, 24 Aug 2012 04:39:10 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Connection:
+      - keep-alive
+      Status:
+      - 200 OK
+      Content-Length:
+      - '47408'
+      Etag:
+      - ! '"11b91b96b5673e751c430261b827e55e"'
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Set-Cookie:
+      - _ksr_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTAwN2E2NDc2OWUxNmM5NDc0NTQ4YWI3MzZkYmIyNzNkBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXdycWNicC9JSENNLzBKVUpEWS93MHBEK1RPNzdUYndYbC8xdnJoejlkRm89BjsARg%3D%3D--4419b46f41c5fe431ac17d995b5b0ec8a8ac2fb9;
+        path=/
+      - last_page=http%3A%2F%2Fwww.kickstarter.com%2Fdiscover%2Fcategories%2FFood%2Fpopular%3Fpage%3D1;
+        path=/; expires=Fri, 24-Aug-2012 05:09:10 GMT
+      - request_time=Fri%2C+24+Aug+2012+04%3A39%3A10+-0000; path=/
+      X-Request-Id:
+      - 966e0d463c8ac3bedd68532d9a75eff1
+      X-Runtime:
+      - '0.258292'
+    body:
+      encoding: ASCII-8BIT
+      string: ! "<!DOCTYPE html>\n<html class=\"categories_popular no-js fontface
+        \" lang=\"en\" xml:lang=\"en\" xmlns:fb=\"http://www.facebook.com/2008/fbml\"
+        xmlns=\"http://www.w3.org/1999/xhtml\">\n<head><script type=\"text/javascript\">var
+        NREUMQ=NREUMQ||[];NREUMQ.push([\"mark\",\"firstbyte\",new Date().getTime()]);</script><title>Discover
+        Projects &raquo; Food / Popular &mdash; Kickstarter</title><!--[if lt IE 9]>\n
+        \ <script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\" type=\"text/javascript\"></script>\n<![endif]-->\n\n\n<meta
+        content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n<meta content=\"telephone=no\"
+        name=\"format-detection\">\n<link href=\"/fonts/fonts.css\" media=\"screen\"
+        rel=\"stylesheet\" type=\"text/css\">\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/compass.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<!--[if lte IE 8]>\n
+        \ <link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/stylesheets/compass/library/ie8.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!--[if
+        lte IE 7]>\n  <link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/stylesheets/compass/library/ie.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/ie_seven.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!--[if
+        IE 6]>\n  <link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/ie_six.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n\n\n<link
+        href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/views_one.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/views_two.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/views_three.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/views_four.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/favicon.png\"
+        rel=\"icon\" type=\"image/png\">\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/apple-touch-icon-precomposed.png\"
+        rel=\"apple-touch-icon-precomposed\" type=\"image/png\">\n<link href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/apple-touch-icon-ipad-precomposed.png\"
+        rel=\"apple-touch-icon-precomposed\" sizes=\"72x72\" type=\"image/png\">\n<link
+        href=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/apple-touch-icon-iphone4-precomposed.png\"
+        rel=\"apple-touch-icon-precomposed\" sizes=\"114x114\" type=\"image/png\">\n\n\n<meta
+        content=\"authenticity_token\" name=\"csrf-param\" />\n<meta content=\"wrqcbp/IHCM/0JUJDY/w0pD+TO77TbwXl/1vrhz9dFo=\"
+        name=\"csrf-token\" />\n\n<script>\n  //<![CDATA[\n    var _sf_startpt=(new
+        Date()).getTime();\n    docElement = this.document.documentElement;\n    docElement.className=docElement.className.replace(/\\bno-js\\b/,'')
+        + 'js';\n  //]]>\n</script>\n<script>\n  //<![CDATA[\n    function timeRemaining(epochTime){\n
+        \   \n      var diff = epochTime - ((new Date()).getTime() / 1000);\n      var
+        num_unit = (diff < 60 && [Math.max(diff, 0), 'seconds']) ||\n        ((diff/=60)
+        < 60 && [diff, 'minutes']) ||\n        ((diff/=60) < 72 && [diff, 'hours'])
+        ||\n        [diff/=24, 'days'];\n    \n      // Round down\n      num_unit[0]
+        = Math.floor(num_unit[0]);\n      // Singularize unit\n      if (num_unit[0]
+        == 1) { num_unit[1] = num_unit[1].replace(/s$/,\"\"); }\n    \n      return
+        num_unit;\n    };\n  //]]>\n</script>\n</head>\n\n<body class=\"discover categories\"
+        id=\"categories_list\">\n<div class=\"jGrowl center\" id=\"growl_section\"></div>\n<div
+        id=\"learn-more-wrap\">\n<div class=\"container\" id=\"learn-more\">\n<p>\n<span
+        class=\"icon-whaaat\"></span>\n<strong>What is Kickstarter?</strong>\nWe’re
+        the world's largest funding platform for creative projects.\n<a href=\"/learn-more\"
+        class=\"remote_modal_dialog learn-more link_to_learn-more-dialog\">Learn more!</a>\n</p>\n</div>\n</div>\n<div
+        id=\"header-wrap\">\n<div class=\"container\" id=\"header\">\n<h1 id=\"logo\"><a
+        href=\"/\"><span>Kickstarter</span></a></h1>\n<ul id=\"menu-main\">\n<li class=\"selected\"
+        id=\"menu-main-discover\"><a href=\"/discover\"><strong>Discover</strong>
+        <span>great projects</span></a></li>\n<li id=\"menu-main-fund\"><a href=\"/start\"><strong>Start</strong>
+        <span>your project</span></a></li>\n</ul>\n<form accept-charset=\"UTF-8\"
+        action=\"/projects/search\" class=\"search overlabels\" method=\"get\"><div
+        style=\"margin:0;padding:0;display:inline\"><input class=\"hidden\" name=\"utf8\"
+        type=\"hidden\" value=\"&#x2713;\" /></div>\n<div class=\"field search\">\n<span
+        class=\"icon-search\"></span>\n<span class=\"icon-search-clear\"></span>\n<label
+        class=\"overlabel overlabel-search\">Search projects</label>\n<input class=\"input-search
+        header text\" data-tracker-name=\"Header Live Search\" id=\"term\" name=\"term\"
+        type=\"text\" />\n<span class=\"icon-search-nipple\"></span>\n</div>\n</form>\n\n<ul
+        id=\"menu-sub\">\n<li id=\"menu-sub-blog\"><a href=\"/blog\">Blog</a></li>\n<li
+        id=\"menu-sub-help\"><a href=\"/help\">Help</a></li>\n<li><a href=\"https://www.kickstarter.com/signup\">Sign
+        up</a></li>\n<li><a href=\"https://www.kickstarter.com/login\">Log in</a></li>\n</ul>\n</div>\n</div>\n<div
+        id=\"search_results-wrap\">\n<div id=\"search_results-shadow\">\n<div id=\"search_results-inner_wrap\">\n<div
+        class=\"container\" id=\"search_results\">\n<a class=\"close\"><span class=\"icon-x\"></span></a>\n<h2
+        class=\"header\"></h2>\n<div id=\"search_results_panel\"></div>\n<p class=\"footer\"></p>\n<a
+        class=\"prev arrow\">\n<span class=\"icon-search-left\"></span>\n<strong>Previous</strong>\n</a>\n<a
+        class=\"next arrow\">\n<span class=\"icon-search-right\"></span>\n<strong>Next</strong>\n</a>\n</div>\n</div>\n</div>\n</div>\n\n\n\n<div
+        id=\"running-board-wrap\">\n<div class=\"container\" id=\"running-board\">\n<div
+        id=\"discover-header\">\n<h1>\n<a href=\"/discover\">Discover</a>\n<span class=\"divider\">/</span>\n<a
+        href=\"/discover/categories/food\">Food</a>\n<span class=\"divider\">/</span>\nPopular\n</h1>\n\n</div>\n</div>\n<!--
+        #running-board -->\n</div>\n<!-- #running-board-wrap -->\n<div id=\"content-wrap\">\n<div
+        class=\"container\" id=\"content\">\n<div id=\"main\">\n<div class=\"mobius_page\">\n<div
+        class=\"missing\" style=\"display: none\">\n<div class=\"load_more\">\n<a
+        href=\"#\" class=\"load_more button\">Load More</a>\n</div>\n</div>\n<ul class=\"mobius\">\n<li
+        class=\"page\" data-last_page=\"false\" data-page_number=\"1\">\n<ul class=\"project-card-list\">\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1741354615/honey-badger-bbq-sauce-0?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/262145/photo-little.jpg?1343180067\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1741354615/honey-badger-bbq-sauce-0?ref=category\"
+        target=\"\">Honey Badger BBQ Sauce</a>\n</strong>\n<span>\nby\nPaul, Chris
+        and Leigh\n</span>\n</h2>\n<p>Habanero hot with a touch of honey, light up
+        your grills kids!</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/san-francisco-ca?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>San
+        Francisco, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 94.9%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>94%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$37,958</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-31T07:15:31Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/936714779/san-diego-public-market-its-time?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/261565/photo-little.jpg?1343764814\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/936714779/san-diego-public-market-its-time?ref=category\"
+        target=\"\">San Diego Public Market: It&#x27;s Time!</a>\n</strong>\n<span>\nby\nCatt
+        White &amp; Dale Steele\n</span>\n</h2>\n<p>We're creating the world's best
+        new public market right here in San Diego and filling it with farmers, chefs,
+        art and food.</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/san-diego-ca?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>San
+        Diego, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>140%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$129,737</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-24T17:41:49Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/bravadospice/bravado-spice-artisan-hot-sauces?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/249423/photo-little.jpg?1342401374\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/bravadospice/bravado-spice-artisan-hot-sauces?ref=category\"
+        target=\"\">Bravado Spice: Artisan hot sauces!</a>\n</strong>\n<span>\nby\nBravado
+        Spice\n</span>\n</h2>\n<p>We handcraft products that are all natural, preservative
+        free, vegan friendly and focused on delivering intense flavors.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/houston-tx?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Houston, TX</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>240%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$16,809</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-26T19:20:14Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1126415278/help-launch-ray-rays-rub?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/254231/photo-little.jpg?1344888760\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1126415278/help-launch-ray-rays-rub?ref=category\"
+        target=\"\">Help launch Ray Ray&#x27;s Rub!</a>\n</strong>\n<span>\nby\nRay
+        Walters\n</span>\n</h2>\n<p>Ray Ray's Rub is the best way to make your meat
+        the most mouth-watering meal you've ever eaten, help us bottle it for the
+        masses!</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/warrensburg-mo?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Warrensburg,
+        MO</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\" style=\"display:
+        none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 35.58%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>35%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$3,558</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-20T23:17:56Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1620713666/the-lynn-on-bryant-a-neighborhood-cafe-and-bistro?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/276989/photo-little.jpg?1345057668\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1620713666/the-lynn-on-bryant-a-neighborhood-cafe-and-bistro?ref=category\"
+        target=\"\">The Lynn on Bryant - a neighborhood cafe and bistro</a>\n</strong>\n<span>\nby\nJay
+        Peterson and Peter Ireland\n</span>\n</h2>\n<p>A chef and a bookhound -  bringing
+        families, friends and neighbors together for a delicious meal.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/minneapolis-mn?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Minneapolis, MN</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 60.16%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>60%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$15,040</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-09T22:44:34Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/564884640/prohibition-bakery-cake-alcohol-please-eat-respons?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/283270/photo-little.jpg?1345564883\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/564884640/prohibition-bakery-cake-alcohol-please-eat-respons?ref=category\"
+        target=\"\">Prohibition Bakery, cake+alcohol. Please eat responsibly.</a>\n</strong>\n<span>\nby\nProhibition
+        Bakery\n</span>\n</h2>\n<p>Cupcakes and alcohol.  What could be better? Help
+        us open our doors...and keep them open!</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/new-york-ny?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>New York, NY</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 42.69%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>42%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$3,757</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-15T12:19:58Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1313881177/blue-owl-vines-organic-hot-sauce?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/256051/photo-little.jpg?1342204676\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1313881177/blue-owl-vines-organic-hot-sauce?ref=category\"
+        target=\"\">Blue Owl Vines - Organic Hot Sauce</a>\n</strong>\n<span>\nby\nSteve
+        Kyles\n</span>\n</h2>\n<p>100% Organic Hot Sauce that will add both amazing
+        flavor and powerful kick to just about any dish imaginable.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/santa-rosa-ca?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Santa Rosa, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>1,750%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$8,753</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-15T00:33:45Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1199028464/baltimore-food-co-op-store-expansion?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/226058/photo-little.jpg?1340897919\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1199028464/baltimore-food-co-op-store-expansion?ref=category\"
+        target=\"\">Baltimore Food Co-op Store Expansion</a>\n</strong>\n<span>\nby\nMary
+        Cox\n</span>\n</h2>\n<p>The Baltimore Food Co-op is growing - we're raising
+        funds to install a wall o'freezers to stock local ice cream, meats and more!</p>\n<ul
+        class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/baltimore-md?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Baltimore,
+        MD</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\" style=\"display:
+        none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 21.11%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>21%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$2,110</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-19T21:00:00Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/yemanja/yemanja-caribbean-restaurant-bar-and-hostel?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/263421/photo-little.jpg?1344355301\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/yemanja/yemanja-caribbean-restaurant-bar-and-hostel?ref=category\"
+        target=\"\">Yemanja Caribbean Restaurant, Bar, and Hostel</a>\n</strong>\n<span>\nby\nYemanja
+        Caribe\n</span>\n</h2>\n<p>Come celebrate the Caribbean at a unique tropical
+        getaway in Panama, opening by the end of this year!</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/bocas-del-toro-pan?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Bocas Del Toro, Panama</span></a>\n</li>\n</ul>\n<div
+        class=\"project-pledged-successful\" style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div
+        class=\"project-pledged-wrap\">\n<div class=\"project-pledged\" style=\"width:
+        30.95%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li class=\"first funded\">\n<strong>30%</strong>\nfunded\n</li>\n<li
+        class=\"pledged\">\n<strong>$4,643</strong>\npledged\n</li>\n<li class=\"last
+        successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div class=\"deadline\">\n</div>\n</li>\n<li
+        class=\"last ksr_page_timer\" data-end_time=\"2012-09-21T16:29:37Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1439051353/defcon-yum-the-first-one-a-day-gourmet-internet-ba-0?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/289914/photo-little.jpg?1344869453\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1439051353/defcon-yum-the-first-one-a-day-gourmet-internet-ba-0?ref=category\"
+        target=\"\">Defcon YUM! - The first one-a-day gourmet internet bakery</a>\n</strong>\n<span>\nby\nNicole
+        Stanton\n</span>\n</h2>\n<p>Defcon YUM! is a one a day gourmet internet bakery.
+        Every day we offer one new item. We bake it fresh and ship it priority to
+        you!</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/wappingers-falls-ny?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Wappingers
+        Falls, NY</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 68.01%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>68%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$6,801</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-10T00:00:00Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1906123150/kimcheelicious-puts-a-korean-pickle-on-the-america?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/139664/photo-little.jpg?1341604108\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1906123150/kimcheelicious-puts-a-korean-pickle-on-the-america?ref=category\"
+        target=\"\">Kimcheelicious puts a Korean pickle on the American table</a>\n</strong>\n<span>\nby\nAntonio
+        Limuaco\n</span>\n</h2>\n<p>Exploring innovative ways of combining Korean
+        kimchi and other fermented foods with the way Americans cook and eat</p>\n<ul
+        class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/brooklyn-ny?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Brooklyn,
+        NY</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\" style=\"display:
+        none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 88.43%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>88%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$6,190</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-29T03:49:38Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/821727719/five-by-five-tonics-herbalist-inspired-cocktail-bi?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/250679/photo-little.jpg?1344879087\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/821727719/five-by-five-tonics-herbalist-inspired-cocktail-bi?ref=category\"
+        target=\"\">Five by Five Tonics: Herbalist Inspired Cocktail Bitters</a>\n</strong>\n<span>\nby\nJesse
+        Smith\n</span>\n</h2>\n<p>Craft cocktail bitters inspired by ancient herbology
+        created in small batches entirely by hand in Chico, CA.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/chico-ca?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>Chico, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>113%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$3,965</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-15T21:34:05Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/vincentkit/dang-coconut-chips?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/293345/photo-little.jpg?1344833371\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/vincentkit/dang-coconut-chips?ref=category\"
+        target=\"\">Dang Coconut Chips</a>\n</strong>\n<span>\nby\nVincentKit\n</span>\n</h2>\n<p>Our
+        toasted coconut chips are a healthy snack and versatile topping. Dang, that's
+        good!</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/san-francisco-ca?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>San
+        Francisco, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 42.52%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>42%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$3,401</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-14T00:15:39Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1731827420/toxic-profits?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/240805/photo-little.jpg?1341259952\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1731827420/toxic-profits?ref=category\"
+        target=\"\">Toxic Profits</a>\n</strong>\n<span>\nby\nToxic Profits\n</span>\n</h2>\n<p>A
+        documentary film exploring the use of toxic pesticides in modern agriculture
+        and the people most affected by this practice.</p>\n<ul class=\"project-meta\">\n<li>\n<a
+        href=\"/discover/cities/san-francisco-ca?ref=card\" target=\"\"><span class='icon-location'></span><span
+        class='location-name'>San Francisco, CA</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\"
+        style=\"display: none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 100%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>109%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$21,412</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-08-24T17:15:57Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n<li
+        class=\"project\"><div class=\"project-card-wrap\">\n<div class=\"project-card\">\n<div
+        class=\"project-thumbnail\">\n<a href=\"/projects/1529293613/sunny-bang-private-label-probiotic-hot-sauce?ref=category\"
+        target=\"\"><img alt=\"Photo-little\" class=\"projectphoto-little\" height=\"150\"
+        src=\"http://s3.amazonaws.com/ksr/projects/284825/photo-little.jpg?1345700772\"
+        width=\"200\" /></a>\n</div>\n<h2>\n<strong>\n<a href=\"/projects/1529293613/sunny-bang-private-label-probiotic-hot-sauce?ref=category\"
+        target=\"\">Sunny Bang Private Label Probiotic Hot Sauce</a>\n</strong>\n<span>\nby\nSUNNY
+        BANG\n</span>\n</h2>\n<p>Artisanal hot sauce alive with flavor and health
+        benefits made from an heirloom chile varietal, monastic vinegar and raw sea
+        salt.</p>\n<ul class=\"project-meta\">\n<li>\n<a href=\"/discover/cities/brooklyn-ny?ref=card\"
+        target=\"\"><span class='icon-location'></span><span class='location-name'>Brooklyn,
+        NY</span></a>\n</li>\n</ul>\n<div class=\"project-pledged-successful\" style=\"display:
+        none;\">\n<strong>Successful!</strong>\n</div>\n<div class=\"project-pledged-wrap\">\n<div
+        class=\"project-pledged\" style=\"width: 48.24%\"></div>\n</div>\n<ul class=\"project-stats\">\n<li
+        class=\"first funded\">\n<strong>48%</strong>\nfunded\n</li>\n<li class=\"pledged\">\n<strong>$3,376</strong>\npledged\n</li>\n<li
+        class=\"last successful\" style=\"display: none;\">\n<strong>Funded</strong>\n<div
+        class=\"deadline\">\n</div>\n</li>\n<li class=\"last ksr_page_timer\" data-end_time=\"2012-09-15T02:01:50Z\">\n<strong>\n<div
+        class=\"num\">&nbsp;</div>\n</strong>\n<div class=\"span text\" data-word=\"left\">&nbsp;</div>\n</li>\n</ul>\n\n</div>\n</div>\n</li>\n</ul>\n\n</li>\n</ul>\n<div
+        class=\"load_more\">\n<div class=\"loading\">\n<img alt=\"Loading-small\"
+        src=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/images/compass/loading-small.gif\"
+        />\n<div class=\"copy\">Please Wait</div>\n<div class=\"clear\"></div>\n</div>\n</div>\n<div
+        class=\"mini_footer\"><div class=\"no-mega\" id=\"footer-wrap\">\n<div class=\"container\"
+        id=\"footer\">\n<div id=\"etc\">\n<ul>\n<li><a href=\"/blog\">Blog</a></li>\n<li><a
+        href=\"/help?ref=footer\">Help</a></li>\n<li><a href=\"/help/guidelines?ref=footer\">Guidelines</a></li>\n<li><a
+        href=\"/help/stats?ref=footer\">Stats</a></li>\n<li><a href=\"/terms-of-use?ref=footer\">Terms
+        of Use</a></li>\n<li><a href=\"/privacy?ref=footer\">Privacy Policy</a></li>\n<li><a
+        href=\"http://kickstarter.zendesk.com/home\" id=\"\" onclick=\"Zenbox.render();
+        return false;\">Contact</a></li>\n<li><a href=\"/team?ref=footer\">Team</a></li>\n<li
+        class=\"last\"><a href=\"/jobs?ref=footer\">Jobs</a></li>\n</ul>\n</div>\n<div
+        id=\"legal\">\n&copy;\n2012\nKickstarter, Inc.\n</div>\n</div>\n</div>\n</div>\n<div
+        class=\"pagination\"><span class=\"previous_page disabled\">Prev</span> <em
+        class=\"current\">1</em> <a rel=\"next\" href=\"/discover/categories/Food/popular?page=2\">2</a>
+        <a href=\"/discover/categories/Food/popular?page=3\">3</a> <a href=\"/discover/categories/Food/popular?page=4\">4</a>
+        <a href=\"/discover/categories/Food/popular?page=5\">5</a> <a href=\"/discover/categories/Food/popular?page=6\">6</a>
+        <a href=\"/discover/categories/Food/popular?page=7\">7</a> <a href=\"/discover/categories/Food/popular?page=8\">8</a>
+        <a href=\"/discover/categories/Food/popular?page=9\">9</a> <a href=\"/discover/categories/Food/popular?page=10\">10</a>
+        <a href=\"/discover/categories/Food/popular?page=11\">11</a> <a href=\"/discover/categories/Food/popular?page=12\">12</a>
+        <a class=\"next_page\" rel=\"next\" href=\"/discover/categories/Food/popular?page=2\">Next</a></div>\n</div>\n\n<hr
+        class=\"space\">\n</div>\n<!-- #main -->\n<div id=\"sidebar-wrap\">\n<div
+        id=\"sidebar\">\n<h3><span class='icon-star-dark'></span>Featured</h3>\n<ul
+        class=\"navigation\">\n<li><a href=\"/discover/recommended?ref=sidebar\">Staff
+        Picks</a></li>\n<li><a href=\"/discover/popular?ref=sidebar\">Popular</a></li>\n<li><a
+        href=\"/discover/recently-launched?ref=sidebar\">Recently Launched</a></li>\n<li><a
+        href=\"/discover/ending-soon?ref=sidebar\">Ending Soon</a></li>\n<li><a href=\"/discover/small-projects?ref=sidebar\">Small
+        Projects</a></li>\n<li><a href=\"/discover/most-funded?ref=sidebar\">Most
+        Funded</a></li>\n<li><a href=\"/discover/curated-pages?ref=sidebar\">Curated
+        Pages</a></li>\n</ul>\n<h3><span class='icon-category-dark'></span>Categories</h3>\n<ul
+        class=\"navigation\">\n<li>\n<a href=\"/discover/categories/art?ref=sidebar\">Art</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/comics?ref=sidebar\">Comics</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/dance?ref=sidebar\">Dance</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/design?ref=sidebar\">Design</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/fashion?ref=sidebar\">Fashion</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/film%20&amp;%20video?ref=sidebar\">Film &amp;
+        Video</a>\n</li>\n<li>\n<a href=\"/discover/categories/food?ref=sidebar\">Food</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/games?ref=sidebar\">Games</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/music?ref=sidebar\">Music</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/photography?ref=sidebar\">Photography</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/publishing?ref=sidebar\">Publishing</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/technology?ref=sidebar\">Technology</a>\n</li>\n<li>\n<a
+        href=\"/discover/categories/theater?ref=sidebar\">Theater</a>\n</li>\n</ul>\n<h3><span
+        class='icon-location-dark'></span>Cities</h3>\n<ul class=\"navigation\">\n<li><a
+        href=\"/discover/cities/new-york-ny?ref=sidebar\">New York</a></li>\n<li><a
+        href=\"/discover/cities/los-angeles-ca?ref=sidebar\">Los Angeles</a></li>\n<li><a
+        href=\"/discover/cities/brooklyn-ny?ref=sidebar\">Brooklyn</a></li>\n<li><a
+        href=\"/discover/cities/chicago-il?ref=sidebar\">Chicago</a></li>\n<li><a
+        href=\"/discover/cities/san-francisco-ca?ref=sidebar\">San Francisco</a></li>\n<li><a
+        href=\"/discover/cities/portland-or?ref=sidebar\">Portland</a></li>\n<li><a
+        href=\"/discover/cities/seattle-wa?ref=sidebar\">Seattle</a></li>\n<li><a
+        href=\"/discover/cities/austin-tx?ref=sidebar\">Austin</a></li>\n<li><a href=\"/discover/cities/boston-ma?ref=sidebar\">Boston</a></li>\n<li><a
+        href=\"/discover/cities/nashville-tn?ref=sidebar\">Nashville</a></li>\n</ul>\n<div
+        id=\"location-search\">\n<form accept-charset=\"UTF-8\" action=\"/locations\"
+        class=\"overlabels\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input
+        class=\"hidden\" name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input
+        class=\"hidden\" name=\"authenticity_token\" type=\"hidden\" value=\"wrqcbp/IHCM/0JUJDY/w0pD+TO77TbwXl/1vrhz9dFo=\"
+        /></div>\n<div class=\"field search\">\n<span class=\"icon-search\"></span>\n<span
+        class=\"icon-search-clear\"></span>\n<label class=\"overlabel overlabel-search\">Search
+        cities</label>\n<input autocomplete=\"off\" class=\"input-search input-text
+        text\" data-tracker-name=\"Location Live Search\" id=\"q\" name=\"q\" type=\"text\"
+        />\n<div class=\"results\">\n<span class=\"icon-dropdown-pointer\"></span>\n</div>\n</div>\n</form>\n\n</div>\n\n</div>\n</div>\n<!--
+        #sidebar -->\n</div>\n<!-- #content -->\n</div>\n<!-- #content-wrap -->\n\n\n<div
+        id=\"mega-footer-wrap\">\n<div id=\"mega-footer-shadow\">\n<div class=\"container\"
+        id=\"mega-footer\">\n<div id=\"mega-discover\">\n<h5>Browse Categories</h5>\n<ul
+        class=\"list-footer-categories list-0\">\n<li><a href=\"/discover/categories/art?ref=footer\">Art</a></li>\n<li><a
+        href=\"/discover/categories/comics?ref=footer\">Comics</a></li>\n<li><a href=\"/discover/categories/dance?ref=footer\">Dance</a></li>\n<li><a
+        href=\"/discover/categories/design?ref=footer\">Design</a></li>\n<li><a href=\"/discover/categories/fashion?ref=footer\">Fashion</a></li>\n<li><a
+        href=\"/discover/categories/film%20&amp;%20video?ref=footer\">Film &amp; Video</a></li>\n<li><a
+        href=\"/discover/categories/food?ref=footer\">Food</a></li>\n</ul>\n<ul class=\"list-footer-categories
+        list-1\">\n<li><a href=\"/discover/categories/games?ref=footer\">Games</a></li>\n<li><a
+        href=\"/discover/categories/music?ref=footer\">Music</a></li>\n<li><a href=\"/discover/categories/photography?ref=footer\">Photography</a></li>\n<li><a
+        href=\"/discover/categories/publishing?ref=footer\">Publishing</a></li>\n<li><a
+        href=\"/discover/categories/technology?ref=footer\">Technology</a></li>\n<li><a
+        href=\"/discover/categories/theater?ref=footer\">Theater</a></li>\n</ul>\n</div>\n<div
+        id=\"mega-join-like\">\n<form accept-charset=\"UTF-8\" action=\"/newsletters/signup\"
+        class=\"overlabels\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input
+        class=\"hidden\" name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input
+        class=\"hidden\" name=\"authenticity_token\" type=\"hidden\" value=\"wrqcbp/IHCM/0JUJDY/w0pD+TO77TbwXl/1vrhz9dFo=\"
+        /></div>\n<h5>Kickstarter's weekly newsletter</h5>\n<p>Get awesome projects
+        delivered to your inbox each week.</p>\n<textarea class=\"hide textarea\"
+        id=\"comment\" name=\"comment\">\n</textarea>\n<div class=\"field newsletter\">\n<label
+        class=\"overlabel overlabel-newsletter\">Your email address...</label>\n<input
+        class=\"text\" id=\"email\" name=\"email\" type=\"text\" />\n</div>\n<input
+        class=\"button-positive submit\" name=\"commit\" type=\"submit\" value=\"Join
+        newsletter\" />\n</form>\n\n<h5>Kickstarter on Facebook</h5>\n<fb:like href=\"http://facebook.com/kickstarter\"
+        show_faces=\"true\" width=\"330\"></fb:like>\n</div>\n<div id=\"mega-connect\">\n<h5>Connect
+        with Kickstarter</h5>\n<ul id=\"list-footer-connect\">\n<li><a href=\"http://twitter.com/kickstarter\"
+        id=\"footer-twitter\"><span class='icon-footer-twitter'></span>Follow on Twitter</a></li>\n<li><a
+        href=\"/blog\" id=\"footer-blog\"><span class='icon-footer-blog'></span>Read
+        our blog</a></li>\n<li><a href=\"/team?ref=footer\" id=\"footer-team\"><span
+        class='icon-footer-team'></span>Meet the team</a></li>\n<li><a href=\"/jobs?ref=footer\"
+        id=\"footer-jobs\"><span class='icon-footer-jobs'></span>Work with us</a></li>\n</ul>\n<span
+        class=\"scissors icon-scissors-1\"></span>\n</div>\n</div>\n</div>\n</div>\n<div
+        id=\"footer-wrap\">\n<div class=\"container\" id=\"footer\">\n<div id=\"etc\">\n<ul>\n<li><a
+        href=\"/help?ref=footer\">Help</a></li>\n<li><a href=\"/help/guidelines?ref=footer\">Guidelines</a></li>\n<li><a
+        href=\"/help/stats?ref=footer\">Stats</a></li>\n<li><a href=\"/terms-of-use?ref=footer\">Terms
+        of Use</a></li>\n<li><a href=\"/privacy?ref=footer\">Privacy Policy</a></li>\n<li
+        class=\"last\"><a href=\"http://kickstarter.zendesk.com/home\" id=\"\" onclick=\"Zenbox.render();
+        return false;\">Contact</a></li>\n</ul>\n</div>\n<div id=\"legal\">\n&copy;\n2012\nKickstarter,
+        Inc.\n</div>\n</div>\n</div>\n\n<script>\n  //<![CDATA[\n    var gaJsHost
+        = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\");\n
+        \   document.write(unescape(\"%3Cscript src='\" + gaJsHost + \"google-analytics.com/ga.js'
+        type='text/javascript'%3E%3C/script%3E\"));\n    var analytics_vars = { google_analytics_id
+        : \"UA-7621056-1\", logged_in : \"false\", verifying_backing : \"false\",
+        social_user: \"false\" }\n  //]]>\n</script>\n\n\n<script>\n  //<![CDATA[\n
+        \   window.mixpanel_id = '75b1d24a516ecfc955eadfadc4910661';\n    window.mixpanel_debug
+        = false;\n  //]]>\n</script>\n\n\n<script>\n  //<![CDATA[\n    _qoptions={qacct:\"p-34IbSpw2K94Sg\"};\n
+        \ //]]>\n</script>\n<script src=\"http://edge.quantserve.com/quant.js\" type=\"text/javascript\"></script>\n<noscript><img
+        alt=\"Quantcast\" border=\"0\" height=\"1\" src=\"http://pixel.quantserve.com/pixel/p-34IbSpw2K94Sg.gif\"
+        style=\"display:none\" width=\"1\" /></noscript>\n\n<script>\n  //<![CDATA[\n
+        \   var _sf_async_config={uid:5536,domain:\"kickstarter.com\"};\n    (function(){\n
+        \     function loadChartbeat() {\n        window._sf_endpt=(new Date()).getTime();\n
+        \       var e = document.createElement('script');\n        e.setAttribute('language',
+        'javascript');\n        e.setAttribute('type', 'text/javascript');\n        e.setAttribute('src',\n
+        \          ((\"https:\" == document.location.protocol) ? \"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/\"
+        : \"http://static.chartbeat.com/\") +\n           \"js/chartbeat.js\");\n
+        \       document.body.appendChild(e);\n      }\n      var oldonload = window.onload;\n
+        \     window.onload = (typeof window.onload != 'function') ?\n         loadChartbeat
+        : function() { oldonload(); loadChartbeat(); };\n    })();\n  //]]>\n</script>\n\n\n<script
+        src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js\" type=\"text/javascript\"></script>\n<script>\n
+        \ //<![CDATA[\n    (function(){function c(a){this.local_start_time=new Date;this.settings={cookie_name:\"request_time\"};for(var
+        b in a)this.settings[b]=a[b];this.get_remote_offset()}c.prototype.get_remote_offset=function(){this.cookie_value=this.read_cookie();var
+        a=new Date(this.cookie_value);if(!this.cookie_value||\"Invalid Date\"===a.toString()){if(this.remote_offset=this.read_cookie(\"local_offset\"))this.remote_offset=parseInt(this.remote_offset,10)}else
+        this.remote_offset=a-this.local_start_time;\"undefined\"!==typeof this.remote_offset&&
+        !isNaN(this.remote_offset)?(document.cookie=\"local_offset=\"+this.remote_offset+\";
+        path=/\",this.is_set=!0):this.is_set=!1};c.prototype.time_units=[[\"milliseconds\",1],[\"seconds\",1E3],[\"minutes\",6E4],[\"hours\",36E5],[\"days\",864E5]];c.prototype.get_units_in_interval=function(a,b){var
+        d=a.replace(/^\\w/,function(d){return\"get\"+d.toUpperCase()});return b[d]()};c.prototype.milliseconds_in_day=function(a){\"undefined\"===typeof
+        a&&(a=new Date);for(var b=0,d=this.time_units.length-2;0<=d;d--)b+=this.get_units_in_interval(this.time_units[d][0],
+        a)*this.time_units[d][1];return b};c.prototype.milliseconds_in_interval=function(a,b){return
+        this.milliseconds_in_day(b)%a};c.prototype.milliseconds_to_next_interval=function(a,b){return
+        a-this.milliseconds_in_interval(a,b)};c.prototype.pluralize=function(a,b){1===b&&(a=a.replace(/s$/,\"\"));return
+        a};c.prototype.read_cookie=function(a){for(var b=window.document.cookie.split(\";\"),a=(a||this.settings.cookie_name)+\"=\",d=0;d<b.length;d++){for(var
+        e=b[d];\" \"==e.charAt(0);)e=e.substring(1,e.length);if(0== e.indexOf(a))return
+        b=e.substring(a.length,e.length),decodeURIComponent(b).replace(/\\+/g,\" \")}return
+        null};c.prototype.destroy_cookie=function(a){var b=new Date;a||(a=this.settings.cookie_name);b.setTime(b.getTime()-864E5);window.document.cookie=a+\"=;
+        expires=\"+b.toGMTString()+\"; path=/\"};c.prototype.get_remote_time=function(){var
+        a=new Date,b=a.getTime()+this.remote_offset;return a=a.setTime(b)};window.ksr_page_clock=new
+        c})(); (function(){function c(d,a,b){if(d){this.options={unit_base:{seconds:119,minutes:119,hours:72,days:0},end_phrase:d.getAttribute(\"data-word\")||\"to
+        go\",count_down:d.getAttribute(\"data-dynamic\")||!1};for(k in b)this.options[k]=b[k];this.clock=a;this.time_units=this.clock.time_units.slice(1);this.element=d;this.clock.is_set&&this.attach()}}function
+        a(){this.elements=[];this.attach()}var b=function(d,a){var b=a||window.document.body,c=d.split(\".\"),g=c[c.length-1],c=1<c.length&&c[0]?c[0]:\"*\";if(window.document.getElementsByClassName)return
+        b.getElementsByClassName(g); if(b.querySelectorAll)return b.querySelectorAll(d);for(var
+        c=b.getElementsByTagName(c),h=[],i=0,f;f=c[i];i++)b=RegExp(\"(^|\\\\s)\"+g+\"(\\\\s|$)\"),(\"\"+f.className).match(b)&&h.push(f);return
+        h};c.prototype.get_remaining_time=function(){var d=this.remote_end_time-this.clock.get_remote_time();0>d&&(d=0);return
+        d};c.prototype.get_current_unit=function(){for(var d,a=0;a<this.time_units.length&&!(d=this.time_units[a],this.get_remaining_time()<=this.options.unit_base[d[0]]*d[1]);a++);return
+        d};c.prototype.update_element= function(){var a=this.get_current_unit(),b=Math.floor(this.get_remaining_time()/a[1]);isNaN(b)||(this.number_element.innerHTML=b,this.text_element.innerHTML=this.clock.pluralize(a[0],b)+\"
+        \"+this.options.end_phrase)};c.prototype.valid=function(){return!(!this.number_element||!this.text_element)};c.prototype.attach=function(){function
+        a(){c.update_element();if(c.options.count_down&&0<c.get_remaining_time()){var
+        b=c.get_current_unit();this.timeout=window.setTimeout(a,c.clock.milliseconds_to_next_interval(b[1]))}}
+        var c=this;if(this.remote_end_time_string=this.element.getAttribute(\"data-end_time\"))this.remote_end_time_string.match(/^\\d+$/)?(this.remote_end_time=new
+        Date,this.remote_end_time.setTime(this.remote_end_time_string)):this.remote_end_time=new
+        Date(this.remote_end_time_string),this.number_element=b(\".num\",this.element)[0],this.text_element=b(\".text\",this.element)[0],this.element.ksr_page_timer=!0,this.valid()&&a()};c.prototype.cancel=function(){this.timeout&&clearTimeout(this.timeout)};a.prototype.loading=
+        !0;a.prototype.stop_finding=function(){this.attach_timers();this.loading=!1;document.addEventListener?document.removeEventListener(\"DOMContentLoaded\",this.stop_finding,!1):document.attachEvent&&\"complete\"===document.readyState&&document.detachEvent(\"onreadystatechange\",this.stop_finding)};a.prototype.bind_ready=function(){var
+        a=this,b=function(){a.stop_finding.call(a)};document.addEventListener?(document.addEventListener(\"DOMContentLoaded\",b,!1),window.addEventListener(\"load\",b,!1)):document.attachEvent&&
+        (document.attachEvent(\"onreadystatechange\",b),window.attachEvent(\"onload\",b))};a.prototype.attach_timers=function(){for(var
+        a=b(\"div.ksr_page_timer\"),e=0;e<a.length;e++)a[e].ksr_page_timer||(new c(a[e],window.ksr_page_clock),this.elements.push(a[e]))};a.prototype.attach=function(){var
+        a=this;this.bind_ready();(function(){a.attach_timers();a.loading&&window.setTimeout(function(){a.attach_timers()},200)})()};window.ProjectTimer=c;new
+        a})();\n  //]]>\n</script>\n\n<script src=\"http://d297h9he240fqh.cloudfront.net/cache-1cf5498a7/assets/base.js\"
+        type=\"text/javascript\"></script>\n<script>\n  //<![CDATA[\n    if (typeof(Zenbox)
+        !== \"undefined\") {\n      Zenbox.init({\n        dropboxID: \"20012797\",\n
+        \       tabID: \"support\",\n        hide_tab: true,\n        url: \"kickstarter.zendesk.com\"\n
+        \     });\n    }\n  //]]>\n</script>\n\n\n\n\n\n<div id=\"fb-root\"></div>\n<script>\n
+        \ //<![CDATA[\n    var channelUrl = window.location.protocol + \"//\" + window.location.host
+        + \"/channel.html\";\n    \n    window.fbAsyncInit = function() {\n      FB.init({\n
+        \       appId: '69103156693',\n        channelUrl: channelUrl,\n        status:
+        true,    // check login status\n        cookie: true,    // enable cookies
+        to allow the server to access the session\n        xfbml: true,     // parse
+        XFBML\n        logging: false   // turn off logging\n      });\n    \n      $(document).trigger('fb:loaded');\n
+        \   \n      var logout_from_fb = $('body').is('.just_logged_out') || false;\n
+        \   \n      FB.Event.subscribe('auth.statusChange', function(response) {\n
+        \       if (logout_from_fb) {\n          FB.logout(function() {\n            logout_from_fb
+        = false;\n          });\n        } else if (response.authResponse && true
+        && true && true && !FB.usingButton) {\n          $.get(\"http://www.kickstarter.com/fb/connect/verify?then=http%3A%2F%2Fwww.kickstarter.com%2Fdiscover%2Fcategories%2FFood%2Fpopular%3Fpage%3D1\",
+        {'fbsr': response.authResponse.signedRequest}, function() {});\n        }\n
+        \     });\n      \n    };\n    \n    \n    // Load the SDK Asynchronously\n
+        \   (function(d){\n      var js, id = 'facebook-jssdk'; if (d.getElementById(id))
+        {return;}\n      js = d.createElement('script'); js.id = id; js.async = true;\n
+        \     js.src = \"//connect.facebook.net/en_US/all.js\";\n      d.getElementsByTagName('head')[0].appendChild(js);\n
+        \   }(document));\n  //]]>\n</script>\n\n\n<script type=\"text/javascript\">if
+        (!NREUMQ.f) { NREUMQ.f=function() {\nNREUMQ.push([\"load\",new Date().getTime()]);\nvar
+        e=document.createElement(\"script\");\ne.type=\"text/javascript\";e.async=true;e.src=\"https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js\";\ndocument.body.appendChild(e);\nif(NREUMQ.a)NREUMQ.a();\n};\nNREUMQ.a=window.onload;window.onload=NREUMQ.f;\n};\nNREUMQ.push([\"nrfj\",\"beacon-1.newrelic.com\",\"b04b883ad2\",11086,\"cFteRUULX1wHFhtbA0dRV15FDVZDTRRbSBdfVUI=\",0.0,218,new
+        Date().getTime(),\"\",\"\",\"\",\"\",\"\"])</script></body>\n</html>\n"
+    http_version: 
+  recorded_at: Fri, 24 Aug 2012 04:39:09 GMT
 recorded_with: VCR 2.2.4
