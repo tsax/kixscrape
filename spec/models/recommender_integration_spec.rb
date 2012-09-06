@@ -4,9 +4,7 @@ describe Recommender, :vcr => true do
 		it 'returns a random food project' do
 			picker = ->(collection) { collection[14] }
 			recommender = Recommender.new(picker: picker)
-			# srand 5
 			result = recommender.recommend_project
-			# binding.pry
 			result.name.should eq('Dang Coconut Chips')
 		end
 	end

@@ -2,7 +2,9 @@ class RecommendationsController < ApplicationController
   attr_reader :recommended_project
   helper_method :recommended_project
 
-  def show()
+  def show
+    # binding.pry
+    @graph = Koala::Facebook::API.new(current_user.oauth_token)
   	@recommended_project = Recommender.new(recommender_options).recommend_project
   end
 

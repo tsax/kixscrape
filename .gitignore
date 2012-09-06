@@ -5,3 +5,4 @@ tmp/
 .sass-cache/
 config/credentials.yml
 user_info_hash.txt
+rspec_mocking_example.txt
