@@ -4,8 +4,8 @@ class Recommender
 	end
 
 	def recommend_project
-		project = @picker.call(Kickstarter.by_category(:food, :page => 1))
 		# binding.pry
+		project = @picker.call(Kickstarter.by_category(:food, :page => 1))
 		return project
 	end
 
